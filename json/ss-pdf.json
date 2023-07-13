@@ -1,0 +1,1410 @@
+{
+  "Lines": [
+    {
+      "LineText": "Cnmmerce Bank",
+      "Words": [
+        {
+          "WordText": "Cnmmerce",
+          "Left": 105,
+          "Top": 35,
+          "Height": 17,
+          "Width": 123
+        },
+        {
+          "WordText": "Bank",
+          "Left": 235,
+          "Top": 33,
+          "Height": 18,
+          "Width": 59
+        }
+      ],
+      "MaxHeight": 18,
+      "MinTop": 33
+    },
+    {
+      "LineText": "1000 Walnut",
+      "Words": [
+        {
+          "WordText": "1000",
+          "Left": 107,
+          "Top": 68,
+          "Height": 10,
+          "Width": 28
+        },
+        {
+          "WordText": "Walnut",
+          "Left": 138,
+          "Top": 68,
+          "Height": 10,
+          "Width": 41
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 68
+    },
+    {
+      "LineText": "Kansas City MO 641w3686",
+      "Words": [
+        {
+          "WordText": "Kansas",
+          "Left": 107,
+          "Top": 83,
+          "Height": 10,
+          "Width": 42
+        },
+        {
+          "WordText": "City",
+          "Left": 154,
+          "Top": 83,
+          "Height": 13,
+          "Width": 22
+        },
+        { "WordText": "MO", "Left": 180, "Top": 83, "Height": 10, "Width": 21 },
+        {
+          "WordText": "641w3686",
+          "Left": 205,
+          "Top": 83,
+          "Height": 10,
+          "Width": 69
+        }
+      ],
+      "MaxHeight": 13,
+      "MinTop": 83
+    },
+    {
+      "LineText": "Jane Customer",
+      "Words": [
+        {
+          "WordText": "Jane",
+          "Left": 106,
+          "Top": 114,
+          "Height": 10,
+          "Width": 33
+        },
+        {
+          "WordText": "Customer",
+          "Left": 144,
+          "Top": 114,
+          "Height": 10,
+          "Width": 68
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 114
+    },
+    {
+      "LineText": "1234 Anywhere Dr.",
+      "Words": [
+        {
+          "WordText": "1234",
+          "Left": 107,
+          "Top": 131,
+          "Height": 10,
+          "Width": 31
+        },
+        {
+          "WordText": "Anywhere",
+          "Left": 142,
+          "Top": 131,
+          "Height": 13,
+          "Width": 68
+        },
+        {
+          "WordText": "Dr.",
+          "Left": 216,
+          "Top": 131,
+          "Height": 10,
+          "Width": 18
+        }
+      ],
+      "MaxHeight": 13,
+      "MinTop": 131
+    },
+    {
+      "LineText": "small Town, MO 12345-6789",
+      "Words": [
+        {
+          "WordText": "small",
+          "Left": 107,
+          "Top": 147,
+          "Height": 10,
+          "Width": 36
+        },
+        {
+          "WordText": "Town,",
+          "Left": 150,
+          "Top": 147,
+          "Height": 12,
+          "Width": 39
+        },
+        {
+          "WordText": "MO",
+          "Left": 195,
+          "Top": 147,
+          "Height": 10,
+          "Width": 22
+        },
+        {
+          "WordText": "12345-6789",
+          "Left": 222,
+          "Top": 147,
+          "Height": 10,
+          "Width": 75
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 147
+    },
+    {
+      "LineText": "Bank Statement",
+      "Words": [
+        {
+          "WordText": "Bank",
+          "Left": 107,
+          "Top": 208,
+          "Height": 13,
+          "Width": 37
+        },
+        {
+          "WordText": "Statement",
+          "Left": 150,
+          "Top": 208,
+          "Height": 13,
+          "Width": 75
+        }
+      ],
+      "MaxHeight": 13,
+      "MinTop": 208
+    },
+    {
+      "LineText": "If you have any questions about your statement,",
+      "Words": [
+        {
+          "WordText": "If",
+          "Left": 105,
+          "Top": 230,
+          "Height": 13,
+          "Width": 13
+        },
+        {
+          "WordText": "you",
+          "Left": 117,
+          "Top": 233,
+          "Height": 10,
+          "Width": 22
+        },
+        {
+          "WordText": "have",
+          "Left": 143,
+          "Top": 230,
+          "Height": 10,
+          "Width": 27
+        },
+        {
+          "WordText": "any",
+          "Left": 174,
+          "Top": 233,
+          "Height": 10,
+          "Width": 20
+        },
+        {
+          "WordText": "questions",
+          "Left": 198,
+          "Top": 231,
+          "Height": 12,
+          "Width": 54
+        },
+        {
+          "WordText": "about",
+          "Left": 256,
+          "Top": 230,
+          "Height": 10,
+          "Width": 33
+        },
+        {
+          "WordText": "your",
+          "Left": 291,
+          "Top": 233,
+          "Height": 10,
+          "Width": 27
+        },
+        {
+          "WordText": "statement,",
+          "Left": 322,
+          "Top": 231,
+          "Height": 11,
+          "Width": 56
+        }
+      ],
+      "MaxHeight": 13,
+      "MinTop": 230
+    },
+    {
+      "LineText": "please call us at 8}6-234-2265",
+      "Words": [
+        {
+          "WordText": "please",
+          "Left": 104,
+          "Top": 246,
+          "Height": 13,
+          "Width": 38
+        },
+        {
+          "WordText": "call",
+          "Left": 146,
+          "Top": 246,
+          "Height": 10,
+          "Width": 22
+        },
+        { "WordText": "us", "Left": 172, "Top": 249, "Height": 7, "Width": 12 },
+        { "WordText": "at", "Left": 188, "Top": 247, "Height": 9, "Width": 11 },
+        {
+          "WordText": "8}6-234-2265",
+          "Left": 203,
+          "Top": 246,
+          "Height": 10,
+          "Width": 80
+        }
+      ],
+      "MaxHeight": 13,
+      "MinTop": 246
+    },
+    {
+      "LineText": "CONNECTIONS CHECKING",
+      "Words": [
+        {
+          "WordText": "CONNECTIONS",
+          "Left": 106,
+          "Top": 284,
+          "Height": 9,
+          "Width": 88
+        },
+        {
+          "WordText": "CHECKING",
+          "Left": 197,
+          "Top": 284,
+          "Height": 9,
+          "Width": 63
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 284
+    },
+    {
+      "LineText": "Account Summary Account#",
+      "Words": [
+        {
+          "WordText": "Account",
+          "Left": 109,
+          "Top": 311,
+          "Height": 9,
+          "Width": 47
+        },
+        {
+          "WordText": "Summary",
+          "Left": 160,
+          "Top": 311,
+          "Height": 11,
+          "Width": 55
+        },
+        {
+          "WordText": "Account#",
+          "Left": 222,
+          "Top": 311,
+          "Height": 9,
+          "Width": 54
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 311
+    },
+    {
+      "LineText": "Beginning Balance on May 3, 2003",
+      "Words": [
+        {
+          "WordText": "Beginning",
+          "Left": 107,
+          "Top": 352,
+          "Height": 11,
+          "Width": 53
+        },
+        {
+          "WordText": "Balance",
+          "Left": 164,
+          "Top": 352,
+          "Height": 9,
+          "Width": 43
+        },
+        { "WordText": "on", "Left": 210, "Top": 354, "Height": 7, "Width": 13 },
+        {
+          "WordText": "May",
+          "Left": 227,
+          "Top": 352,
+          "Height": 11,
+          "Width": 22
+        },
+        {
+          "WordText": "3,",
+          "Left": 252,
+          "Top": 352,
+          "Height": 11,
+          "Width": 10
+        },
+        {
+          "WordText": "2003",
+          "Left": 265,
+          "Top": 352,
+          "Height": 9,
+          "Width": 27
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 352
+    },
+    {
+      "LineText": "& Other Credits",
+      "Words": [
+        { "WordText": "&", "Left": 156, "Top": 366, "Height": 9, "Width": 7 },
+        {
+          "WordText": "Other",
+          "Left": 167,
+          "Top": 366,
+          "Height": 9,
+          "Width": 30
+        },
+        {
+          "WordText": "Credits",
+          "Left": 200,
+          "Top": 366,
+          "Height": 9,
+          "Width": 37
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 366
+    },
+    {
+      "LineText": "ATM Withdrawals & [kbits",
+      "Words": [
+        {
+          "WordText": "ATM",
+          "Left": 106,
+          "Top": 380,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Withdrawals",
+          "Left": 134,
+          "Top": 380,
+          "Height": 9,
+          "Width": 65
+        },
+        { "WordText": "&", "Left": 203, "Top": 380, "Height": 9, "Width": 7 },
+        {
+          "WordText": "[kbits",
+          "Left": 214,
+          "Top": 380,
+          "Height": 9,
+          "Width": 33
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 380
+    },
+    {
+      "LineText": "VISA Check Card Purchases & Debits",
+      "Words": [
+        {
+          "WordText": "VISA",
+          "Left": 106,
+          "Top": 394,
+          "Height": 9,
+          "Width": 28
+        },
+        {
+          "WordText": "Check",
+          "Left": 137,
+          "Top": 394,
+          "Height": 9,
+          "Width": 33
+        },
+        {
+          "WordText": "Card",
+          "Left": 174,
+          "Top": 394,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Purchases",
+          "Left": 203,
+          "Top": 394,
+          "Height": 9,
+          "Width": 56
+        },
+        { "WordText": "&", "Left": 262, "Top": 394, "Height": 9, "Width": 8 },
+        {
+          "WordText": "Debits",
+          "Left": 274,
+          "Top": 394,
+          "Height": 9,
+          "Width": 33
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 394
+    },
+    {
+      "LineText": "Withdrawals & Other Debits",
+      "Words": [
+        {
+          "WordText": "Withdrawals",
+          "Left": 106,
+          "Top": 407,
+          "Height": 9,
+          "Width": 65
+        },
+        { "WordText": "&", "Left": 174, "Top": 407, "Height": 9, "Width": 8 },
+        {
+          "WordText": "Other",
+          "Left": 186,
+          "Top": 407,
+          "Height": 9,
+          "Width": 29
+        },
+        {
+          "WordText": "Debits",
+          "Left": 219,
+          "Top": 407,
+          "Height": 9,
+          "Width": 33
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 407
+    },
+    {
+      "LineText": "Paid",
+      "Words": [
+        {
+          "WordText": "Paid",
+          "Left": 150,
+          "Top": 421,
+          "Height": 9,
+          "Width": 24
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 421
+    },
+    {
+      "LineText": "Ending Balance on June 5, 2003",
+      "Words": [
+        {
+          "WordText": "Ending",
+          "Left": 246,
+          "Top": 448,
+          "Height": 11,
+          "Width": 37
+        },
+        {
+          "WordText": "Balance",
+          "Left": 287,
+          "Top": 448,
+          "Height": 9,
+          "Width": 44
+        },
+        { "WordText": "on", "Left": 334, "Top": 450, "Height": 7, "Width": 13 },
+        {
+          "WordText": "June",
+          "Left": 351,
+          "Top": 448,
+          "Height": 9,
+          "Width": 26
+        },
+        { "WordText": "5,", "Left": 381, "Top": 448, "Height": 11, "Width": 9 },
+        {
+          "WordText": "2003",
+          "Left": 394,
+          "Top": 448,
+          "Height": 9,
+          "Width": 27
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 448
+    },
+    {
+      "LineText": "Deposits & Other Credits Account#",
+      "Words": [
+        {
+          "WordText": "Deposits",
+          "Left": 107,
+          "Top": 476,
+          "Height": 11,
+          "Width": 49
+        },
+        { "WordText": "&", "Left": 160, "Top": 476, "Height": 9, "Width": 8 },
+        {
+          "WordText": "Other",
+          "Left": 172,
+          "Top": 476,
+          "Height": 9,
+          "Width": 32
+        },
+        {
+          "WordText": "Credits",
+          "Left": 207,
+          "Top": 476,
+          "Height": 9,
+          "Width": 41
+        },
+        {
+          "WordText": "Account#",
+          "Left": 255,
+          "Top": 476,
+          "Height": 9,
+          "Width": 54
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 476
+    },
+    {
+      "LineText": "Description",
+      "Words": [
+        {
+          "WordText": "Description",
+          "Left": 107,
+          "Top": 506,
+          "Height": 11,
+          "Width": 63
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 506
+    },
+    {
+      "LineText": "Total & Other Credits",
+      "Words": [
+        {
+          "WordText": "Total",
+          "Left": 106,
+          "Top": 564,
+          "Height": 9,
+          "Width": 28
+        },
+        { "WordText": "&", "Left": 192, "Top": 564, "Height": 9, "Width": 7 },
+        {
+          "WordText": "Other",
+          "Left": 203,
+          "Top": 564,
+          "Height": 9,
+          "Width": 32
+        },
+        {
+          "WordText": "Credits",
+          "Left": 238,
+          "Top": 564,
+          "Height": 9,
+          "Width": 41
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 564
+    },
+    {
+      "LineText": "ATM Withdrawals & Debits",
+      "Words": [
+        {
+          "WordText": "ATM",
+          "Left": 106,
+          "Top": 594,
+          "Height": 9,
+          "Width": 26
+        },
+        {
+          "WordText": "Withdrawals",
+          "Left": 135,
+          "Top": 594,
+          "Height": 9,
+          "Width": 71
+        },
+        { "WordText": "&", "Left": 210, "Top": 594, "Height": 9, "Width": 8 },
+        {
+          "WordText": "Debits",
+          "Left": 222,
+          "Top": 594,
+          "Height": 9,
+          "Width": 35
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 594
+    },
+    {
+      "LineText": "Ref Nbr:",
+      "Words": [
+        {
+          "WordText": "Ref",
+          "Left": 301,
+          "Top": 536,
+          "Height": 9,
+          "Width": 19
+        },
+        {
+          "WordText": "Nbr:",
+          "Left": 323,
+          "Top": 536,
+          "Height": 9,
+          "Width": 22
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 536
+    },
+    {
+      "LineText": "Amount",
+      "Words": [
+        {
+          "WordText": "Amount",
+          "Left": 296,
+          "Top": 785,
+          "Height": 9,
+          "Width": 45
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 785
+    },
+    {
+      "LineText": "75.00",
+      "Words": [
+        {
+          "WordText": "75.00",
+          "Left": 317,
+          "Top": 805,
+          "Height": 10,
+          "Width": 31
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 805
+    },
+    {
+      "LineText": "200.00",
+      "Words": [
+        {
+          "WordText": "200.00",
+          "Left": 309,
+          "Top": 840,
+          "Height": 10,
+          "Width": 39
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 840
+    },
+    {
+      "LineText": "130012345",
+      "Words": [
+        {
+          "WordText": "130012345",
+          "Left": 362,
+          "Top": 536,
+          "Height": 9,
+          "Width": 60
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 536
+    },
+    {
+      "LineText": "Description",
+      "Words": [
+        {
+          "WordText": "Description",
+          "Left": 107,
+          "Top": 624,
+          "Height": 11,
+          "Width": 64
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 624
+    },
+    {
+      "LineText": "ATM Withdrawal",
+      "Words": [
+        {
+          "WordText": "ATM",
+          "Left": 106,
+          "Top": 649,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Withdrawal",
+          "Left": 135,
+          "Top": 649,
+          "Height": 9,
+          "Width": 60
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 649
+    },
+    {
+      "LineText": "1000 walnut st",
+      "Words": [
+        {
+          "WordText": "1000",
+          "Left": 107,
+          "Top": 663,
+          "Height": 9,
+          "Width": 26
+        },
+        {
+          "WordText": "walnut",
+          "Left": 136,
+          "Top": 663,
+          "Height": 9,
+          "Width": 38
+        },
+        { "WordText": "st", "Left": 177, "Top": 663, "Height": 9, "Width": 11 }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 663
+    },
+    {
+      "LineText": "Kansas City MO",
+      "Words": [
+        {
+          "WordText": "Kansas",
+          "Left": 107,
+          "Top": 676,
+          "Height": 9,
+          "Width": 39
+        },
+        {
+          "WordText": "City",
+          "Left": 150,
+          "Top": 676,
+          "Height": 11,
+          "Width": 21
+        },
+        { "WordText": "MO", "Left": 174, "Top": 676, "Height": 9, "Width": 19 }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 676
+    },
+    {
+      "LineText": "Milg",
+      "Words": [
+        {
+          "WordText": "Milg",
+          "Left": 208,
+          "Top": 663,
+          "Height": 9,
+          "Width": 30
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 663
+    },
+    {
+      "LineText": "Primary Account",
+      "Words": [
+        {
+          "WordText": "Primary",
+          "Left": 498,
+          "Top": 193,
+          "Height": 11,
+          "Width": 43
+        },
+        {
+          "WordText": "Account",
+          "Left": 545,
+          "Top": 193,
+          "Height": 9,
+          "Width": 48
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 193
+    },
+    {
+      "LineText": "Statement Date:",
+      "Words": [
+        {
+          "WordText": "Statement",
+          "Left": 506,
+          "Top": 230,
+          "Height": 9,
+          "Width": 57
+        },
+        {
+          "WordText": "Date:",
+          "Left": 567,
+          "Top": 230,
+          "Height": 9,
+          "Width": 28
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 230
+    },
+    {
+      "LineText": "Page Number:",
+      "Words": [
+        {
+          "WordText": "Page",
+          "Left": 506,
+          "Top": 246,
+          "Height": 11,
+          "Width": 27
+        },
+        {
+          "WordText": "Number:",
+          "Left": 537,
+          "Top": 246,
+          "Height": 9,
+          "Width": 47
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 246
+    },
+    {
+      "LineText": "Date Credited",
+      "Words": [
+        {
+          "WordText": "Date",
+          "Left": 505,
+          "Top": 506,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Credited",
+          "Left": 533,
+          "Top": 506,
+          "Height": 9,
+          "Width": 48
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 506
+    },
+    {
+      "LineText": "05-15",
+      "Words": [
+        {
+          "WordText": "05-15",
+          "Left": 518,
+          "Top": 536,
+          "Height": 9,
+          "Width": 31
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 536
+    },
+    {
+      "LineText": "Date Paid",
+      "Words": [
+        {
+          "WordText": "Date",
+          "Left": 516,
+          "Top": 624,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Paid",
+          "Left": 545,
+          "Top": 624,
+          "Height": 9,
+          "Width": 23
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 624
+    },
+    {
+      "LineText": "05-19",
+      "Words": [
+        {
+          "WordText": "05-19",
+          "Left": 525,
+          "Top": 676,
+          "Height": 9,
+          "Width": 32
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 676
+    },
+    {
+      "LineText": "Total ATM Withdrawals & Debits",
+      "Words": [
+        {
+          "WordText": "Total",
+          "Left": 106,
+          "Top": 715,
+          "Height": 9,
+          "Width": 28
+        },
+        {
+          "WordText": "ATM",
+          "Left": 138,
+          "Top": 715,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Withdrawals",
+          "Left": 167,
+          "Top": 715,
+          "Height": 9,
+          "Width": 70
+        },
+        { "WordText": "&", "Left": 241, "Top": 715, "Height": 9, "Width": 8 },
+        {
+          "WordText": "Debits",
+          "Left": 253,
+          "Top": 715,
+          "Height": 9,
+          "Width": 35
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 715
+    },
+    {
+      "LineText": "Checks Paid",
+      "Words": [
+        {
+          "WordText": "Checks",
+          "Left": 106,
+          "Top": 745,
+          "Height": 9,
+          "Width": 43
+        },
+        {
+          "WordText": "Paid",
+          "Left": 153,
+          "Top": 745,
+          "Height": 9,
+          "Width": 23
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 745
+    },
+    {
+      "LineText": "Date Paid",
+      "Words": [
+        {
+          "WordText": "Date",
+          "Left": 107,
+          "Top": 785,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Paid",
+          "Left": 136,
+          "Top": 785,
+          "Height": 9,
+          "Width": 23
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 785
+    },
+    {
+      "LineText": "05-12",
+      "Words": [
+        {
+          "WordText": "05-12",
+          "Left": 106,
+          "Top": 805,
+          "Height": 10,
+          "Width": 33
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 805
+    },
+    {
+      "LineText": "05-18",
+      "Words": [
+        {
+          "WordText": "05-18",
+          "Left": 106,
+          "Top": 822,
+          "Height": 10,
+          "Width": 33
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 822
+    },
+    {
+      "LineText": "05-24",
+      "Words": [
+        {
+          "WordText": "05-24",
+          "Left": 106,
+          "Top": 840,
+          "Height": 10,
+          "Width": 33
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 840
+    },
+    {
+      "LineText": "Check Number",
+      "Words": [
+        {
+          "WordText": "Check",
+          "Left": 188,
+          "Top": 785,
+          "Height": 9,
+          "Width": 36
+        },
+        {
+          "WordText": "Number",
+          "Left": 228,
+          "Top": 785,
+          "Height": 9,
+          "Width": 44
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 785
+    },
+    {
+      "LineText": "1001",
+      "Words": [
+        {
+          "WordText": "1001",
+          "Left": 190,
+          "Top": 805,
+          "Height": 10,
+          "Width": 24
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 805
+    },
+    {
+      "LineText": "1002",
+      "Words": [
+        {
+          "WordText": "1002",
+          "Left": 190,
+          "Top": 822,
+          "Height": 10,
+          "Width": 26
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 822
+    },
+    {
+      "LineText": "I OOA",
+      "Words": [
+        { "WordText": "I", "Left": 190, "Top": 840, "Height": 10, "Width": 3 },
+        {
+          "WordText": "OOA",
+          "Left": 195,
+          "Top": 840,
+          "Height": 10,
+          "Width": 20
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 840
+    },
+    {
+      "LineText": "Tran Date",
+      "Words": [
+        {
+          "WordText": "Tran",
+          "Left": 427,
+          "Top": 624,
+          "Height": 9,
+          "Width": 25
+        },
+        {
+          "WordText": "Date",
+          "Left": 457,
+          "Top": 624,
+          "Height": 9,
+          "Width": 25
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 624
+    },
+    {
+      "LineText": "05-18",
+      "Words": [
+        {
+          "WordText": "05-18",
+          "Left": 438,
+          "Top": 676,
+          "Height": 9,
+          "Width": 32
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 676
+    },
+    {
+      "LineText": "Reference Number",
+      "Words": [
+        {
+          "WordText": "Reference",
+          "Left": 361,
+          "Top": 785,
+          "Height": 9,
+          "Width": 57
+        },
+        {
+          "WordText": "Number",
+          "Left": 422,
+          "Top": 785,
+          "Height": 9,
+          "Width": 45
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 785
+    },
+    {
+      "LineText": "(H)012576589",
+      "Words": [
+        {
+          "WordText": "(H)012576589",
+          "Left": 360,
+          "Top": 805,
+          "Height": 10,
+          "Width": 78
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 805
+    },
+    {
+      "LineText": "00036547854",
+      "Words": [
+        {
+          "WordText": "00036547854",
+          "Left": 360,
+          "Top": 822,
+          "Height": 10,
+          "Width": 78
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 822
+    },
+    {
+      "LineText": "(H)094613547",
+      "Words": [
+        {
+          "WordText": "(H)094613547",
+          "Left": 360,
+          "Top": 840,
+          "Height": 10,
+          "Width": 78
+        }
+      ],
+      "MaxHeight": 10,
+      "MinTop": 840
+    },
+    {
+      "LineText": "Total Checks Paid",
+      "Words": [
+        {
+          "WordText": "Total",
+          "Left": 106,
+          "Top": 864,
+          "Height": 9,
+          "Width": 28
+        },
+        {
+          "WordText": "Checks",
+          "Left": 138,
+          "Top": 864,
+          "Height": 9,
+          "Width": 42
+        },
+        {
+          "WordText": "Paid",
+          "Left": 184,
+          "Top": 864,
+          "Height": 9,
+          "Width": 24
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 864
+    },
+    {
+      "LineText": "June 5, 2003",
+      "Words": [
+        {
+          "WordText": "June",
+          "Left": 656,
+          "Top": 230,
+          "Height": 9,
+          "Width": 28
+        },
+        { "WordText": "5,", "Left": 688, "Top": 230, "Height": 11, "Width": 9 },
+        {
+          "WordText": "2003",
+          "Left": 702,
+          "Top": 230,
+          "Height": 9,
+          "Width": 26
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 230
+    },
+    {
+      "LineText": "$7,126.11",
+      "Words": [
+        {
+          "WordText": "$7,126.11",
+          "Left": 673,
+          "Top": 351,
+          "Height": 12,
+          "Width": 53
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 351
+    },
+    {
+      "LineText": "$10,521.19",
+      "Words": [
+        {
+          "WordText": "$10,521.19",
+          "Left": 667,
+          "Top": 447,
+          "Height": 12,
+          "Width": 62
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 447
+    },
+    {
+      "LineText": "Amount",
+      "Words": [
+        {
+          "WordText": "Amount",
+          "Left": 680,
+          "Top": 506,
+          "Height": 9,
+          "Width": 45
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 506
+    },
+    {
+      "LineText": "$3,615.08",
+      "Words": [
+        {
+          "WordText": "$3,615.08",
+          "Left": 674,
+          "Top": 535,
+          "Height": 12,
+          "Width": 55
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 535
+    },
+    {
+      "LineText": "$3,615.08",
+      "Words": [
+        {
+          "WordText": "$3,615.08",
+          "Left": 673,
+          "Top": 563,
+          "Height": 12,
+          "Width": 55
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 563
+    },
+    {
+      "LineText": "Amount",
+      "Words": [
+        {
+          "WordText": "Amount",
+          "Left": 680,
+          "Top": 624,
+          "Height": 9,
+          "Width": 45
+        }
+      ],
+      "MaxHeight": 9,
+      "MinTop": 624
+    },
+    {
+      "LineText": "$20",
+      "Words": [
+        {
+          "WordText": "$20",
+          "Left": 689,
+          "Top": 675,
+          "Height": 11,
+          "Width": 20
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 675
+    },
+    {
+      "LineText": "S20.M)",
+      "Words": [
+        {
+          "WordText": "S20.M)",
+          "Left": 690,
+          "Top": 714,
+          "Height": 11,
+          "Width": 38
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 714
+    },
+    {
+      "LineText": "S305.M)",
+      "Words": [
+        {
+          "WordText": "S305.M)",
+          "Left": 683,
+          "Top": 863,
+          "Height": 11,
+          "Width": 45
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 863
+    }
+  ],
+  "HasOverlay": true,
+  "Message": "Total lines: 66"
+}

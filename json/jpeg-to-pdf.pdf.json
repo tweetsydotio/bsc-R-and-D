@@ -1,0 +1,342 @@
+{
+  "Lines": [
+    {
+      "LineText": "List",
+      "Words": [
+        {
+          "WordText": "List",
+          "Left": 94,
+          "Top": 144,
+          "Height": 11,
+          "Width": 22
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 144
+    },
+    {
+      "LineText": "Sriel Number",
+      "Words": [
+        {
+          "WordText": "Sriel",
+          "Left": 100,
+          "Top": 190,
+          "Height": 11,
+          "Width": 28
+        },
+        {
+          "WordText": "Number",
+          "Left": 133,
+          "Top": 190,
+          "Height": 11,
+          "Width": 50
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 190
+    },
+    {
+      "LineText": "01",
+      "Words": [
+        { "WordText": "01", "Left": 100, "Top": 220, "Height": 12, "Width": 14 }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 220
+    },
+    {
+      "LineText": "02",
+      "Words": [
+        { "WordText": "02", "Left": 100, "Top": 251, "Height": 11, "Width": 15 }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 251
+    },
+    {
+      "LineText": "03",
+      "Words": [
+        { "WordText": "03", "Left": 100, "Top": 282, "Height": 11, "Width": 16 }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 282
+    },
+    {
+      "LineText": "04",
+      "Words": [
+        { "WordText": "04", "Left": 100, "Top": 312, "Height": 12, "Width": 15 }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 312
+    },
+    {
+      "LineText": "Company list",
+      "Words": [
+        {
+          "WordText": "Company",
+          "Left": 252,
+          "Top": 190,
+          "Height": 14,
+          "Width": 60
+        },
+        {
+          "WordText": "list",
+          "Left": 317,
+          "Top": 190,
+          "Height": 11,
+          "Width": 17
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 190
+    },
+    {
+      "LineText": "NX Group",
+      "Words": [
+        {
+          "WordText": "NX",
+          "Left": 252,
+          "Top": 220,
+          "Height": 11,
+          "Width": 19
+        },
+        {
+          "WordText": "Group",
+          "Left": 276,
+          "Top": 220,
+          "Height": 14,
+          "Width": 39
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 220
+    },
+    {
+      "LineText": "LG lnc",
+      "Words": [
+        {
+          "WordText": "LG",
+          "Left": 252,
+          "Top": 251,
+          "Height": 11,
+          "Width": 18
+        },
+        {
+          "WordText": "lnc",
+          "Left": 276,
+          "Top": 251,
+          "Height": 11,
+          "Width": 18
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 251
+    },
+    {
+      "LineText": "MX Stationary",
+      "Words": [
+        {
+          "WordText": "MX",
+          "Left": 252,
+          "Top": 282,
+          "Height": 11,
+          "Width": 21
+        },
+        {
+          "WordText": "Stationary",
+          "Left": 277,
+          "Top": 282,
+          "Height": 14,
+          "Width": 64
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 282
+    },
+    {
+      "LineText": "MSCS",
+      "Words": [
+        {
+          "WordText": "MSCS",
+          "Left": 252,
+          "Top": 312,
+          "Height": 12,
+          "Width": 40
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 312
+    },
+    {
+      "LineText": "Employee number",
+      "Words": [
+        {
+          "WordText": "Employee",
+          "Left": 404,
+          "Top": 190,
+          "Height": 14,
+          "Width": 62
+        },
+        {
+          "WordText": "number",
+          "Left": 471,
+          "Top": 190,
+          "Height": 11,
+          "Width": 48
+        }
+      ],
+      "MaxHeight": 14,
+      "MinTop": 190
+    },
+    {
+      "LineText": "03 Nos",
+      "Words": [
+        {
+          "WordText": "03",
+          "Left": 403,
+          "Top": 220,
+          "Height": 11,
+          "Width": 16
+        },
+        {
+          "WordText": "Nos",
+          "Left": 424,
+          "Top": 220,
+          "Height": 12,
+          "Width": 24
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 220
+    },
+    {
+      "LineText": "05 Nos",
+      "Words": [
+        {
+          "WordText": "05",
+          "Left": 403,
+          "Top": 251,
+          "Height": 11,
+          "Width": 16
+        },
+        {
+          "WordText": "Nos",
+          "Left": 424,
+          "Top": 251,
+          "Height": 11,
+          "Width": 24
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 251
+    },
+    {
+      "LineText": "05 NOS",
+      "Words": [
+        {
+          "WordText": "05",
+          "Left": 403,
+          "Top": 282,
+          "Height": 11,
+          "Width": 16
+        },
+        {
+          "WordText": "NOS",
+          "Left": 424,
+          "Top": 282,
+          "Height": 11,
+          "Width": 24
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 282
+    },
+    {
+      "LineText": "03 nos",
+      "Words": [
+        {
+          "WordText": "03",
+          "Left": 403,
+          "Top": 312,
+          "Height": 12,
+          "Width": 16
+        },
+        { "WordText": "nos", "Left": 424, "Top": 315, "Height": 9, "Width": 22 }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 312
+    },
+    {
+      "LineText": "Comment or status",
+      "Words": [
+        {
+          "WordText": "Comment",
+          "Left": 555,
+          "Top": 190,
+          "Height": 11,
+          "Width": 62
+        },
+        { "WordText": "or", "Left": 621, "Top": 192, "Height": 9, "Width": 13 },
+        {
+          "WordText": "status",
+          "Left": 637,
+          "Top": 190,
+          "Height": 11,
+          "Width": 38
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 190
+    },
+    {
+      "LineText": "Verified",
+      "Words": [
+        {
+          "WordText": "Verified",
+          "Left": 555,
+          "Top": 220,
+          "Height": 11,
+          "Width": 47
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 220
+    },
+    {
+      "LineText": "Failure",
+      "Words": [
+        {
+          "WordText": "Failure",
+          "Left": 556,
+          "Top": 251,
+          "Height": 11,
+          "Width": 42
+        }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 251
+    },
+    {
+      "LineText": "0k",
+      "Words": [
+        { "WordText": "0k", "Left": 555, "Top": 282, "Height": 11, "Width": 15 }
+      ],
+      "MaxHeight": 11,
+      "MinTop": 282
+    },
+    {
+      "LineText": "Failure",
+      "Words": [
+        {
+          "WordText": "Failure",
+          "Left": 556,
+          "Top": 312,
+          "Height": 12,
+          "Width": 42
+        }
+      ],
+      "MaxHeight": 12,
+      "MinTop": 312
+    }
+  ],
+  "HasOverlay": true,
+  "Message": "Total lines: 21"
+}
