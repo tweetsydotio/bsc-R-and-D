@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 
 // function to encode file data to base64 encoded string
 function base64_encode(file) {
@@ -6,7 +6,7 @@ function base64_encode(file) {
     var bitmap = fs.readFileSync(file);
     // convert binary data to base64 encoded string
     // Uint8Array
-    return new Buffer(bitmap).toString('base64');
+    return new Buffer(bitmap).toString("base64");
     // return new Buffer(bitmap).toString('base64');
 }
 // console.log(base64_encode('CN.jpg'))
@@ -26,12 +26,14 @@ function base64_encode(file) {
 // const withPrefix = 'data:image/png;base64,' + base64String;
 // console.log(withPrefix);
 
-const ReadText = require('text-from-image')
+const ReadText = require("text-from-image");
 
-// ReadText('./CN.jpg').then(text => {
-//     console.log(text);
-// }).catch(err => {
-//     console.log(err);
-// })
+// ReadText("./HSBC-1.jpg")
+//     .then((text) => {
+//         console.log(text);
+//     })
+//     .catch((err) => {
+//         console.log(err?.message);
+//     });
 
-console.log(ReadText('CN.jpg'))
+// console.log(ReadText('CN.jpg'))

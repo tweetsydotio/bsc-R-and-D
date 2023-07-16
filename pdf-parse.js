@@ -1,7 +1,7 @@
 const fs = require('fs');
 const pdf = require('pdf-parse');
 
-let dataBuffer = fs.readFileSync('jpeg-to-pdf.pdf');
+let dataBuffer = fs.readFileSync('pdf/HSBC.pdf');
 
 pdf(dataBuffer).then(function (data) {
 

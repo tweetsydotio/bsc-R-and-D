@@ -8,8 +8,13 @@ const main = async (resource = `CompanyName.pdf`) => {
     pdfParser.on("pdfParser_dataReady", (pdfData) => {
         // fs.writeFile("one.json", JSON.stringify(pdfData));
         // const d = pdfData.Pages[0].Texts[0].R[0].T
-        console.log(JSON.stringify(pdfData.Pages[0].Texts));
-        // All(JSON.stringify(pdfData.Pages[0].Texts))
+        const texts = JSON.stringify(pdfData.Pages[0].Texts);
+        All(texts);
+        // console.log(JSON.stringify(pdfData.Pages[0].Texts));
+        // for (const item of pdfData.Pages[0].Texts) {
+        //     const { T, ...rest } = item.R[0];
+        //     console.log(decodeURIComponent(T), rest);
+        // }
     });
     pdfParser.loadPDF(resource);
 };
@@ -52,12 +57,12 @@ function All(dd) {
             csv += "\n";
         });
         csv = csv.startsWith("\n") ? csv.slice(1) : csv;
-        fs.writeFileSync(`output/test-${Date.now()}.csv`, csv, "utf-8");
+        console.log(csv);
+        // fs.writeFileSync(`output/test-${Date.now()}.csv`, csv, "utf-8");
     }
     dataSave();
 }
-main();
+main("pdf/HSBC-1.pdf");
 
 // const str = `Primary Account Number%3A 000009752`
 // console.log(decodeURIComponent(str))
-

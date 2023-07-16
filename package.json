@@ -7,11 +7,13 @@
     "start": "nodemon index"
   },
   "dependencies": {
+    "j-pdfjson": "^1.1.9",
     "jimp": "^0.22.8",
     "ocr-space-api": "^1.0.1",
     "ocr-space-api-wrapper": "^2.3.0",
     "pdf-parse": "^1.1.1",
     "pdf-table-extractor": "^1.0.3",
+    "pdf-to-text": "^0.0.7",
     "pdf.js-extract": "^0.2.1",
     "pdf2json": "^3.0.4",
     "pdfjs-dist": "^3.8.162",
