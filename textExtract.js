@@ -1,5 +1,6 @@
 // const Jimp = require("jimp");
-
+const fs = require("fs");
+const { tsv2json, json2tsv } = require("tsv-json");
 // const imagePath = "CN.jpg";
 // const outputPath = "output.txt";
 
@@ -32,14 +33,19 @@ async function extractTextFromImage(imagePath) {
 
 // Provide the path to your image file
 // const imagePath = 'https://tesseract.projectnaptha.com/img/eng_bw.png';
-const imagePath = "HSBC-1.jpg";
+const imagePath = "CN.jpg";
+// const imagePath = "HSBC-1.jpg";
 // const imagePath = './eng_bw.png';
 
 // ''
 
 extractTextFromImage(imagePath)
     .then((data) => {
-        console.log("Extracted text:", data.data.lines[0].words);
+        console.log("Extracted text:");
+        const { tsv, text } = data.data;
+        console.log(text);
+        // fs.writeFileSync(`output/${Date.now()}.tsv`, tsv);
+        // console.log("Extracted text:", data.data.lines[0].words);
         // CHATGPT(
         //     `get all bank statement details form bellow's data but without bank details & return response in json: \n\n\r ${text}`
         // );

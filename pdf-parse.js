@@ -1,7 +1,7 @@
 const fs = require('fs');
 const pdf = require('pdf-parse');
 
-let dataBuffer = fs.readFileSync('pdf/HSBC.pdf');
+let dataBuffer = fs.readFileSync('CompanyName.pdf');
 
 pdf(dataBuffer).then(function (data) {
 
@@ -17,6 +17,6 @@ pdf(dataBuffer).then(function (data) {
     // // check https://mozilla.github.io/pdf.js/getting_started/
     // console.log(data.version);
     // PDF text
-    console.log(data.text);
+    console.log(data);
 
 });

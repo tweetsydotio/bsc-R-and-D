@@ -47,22 +47,43 @@ function All(dd) {
         return len;
     }
 
-    function dataSave() {
+    /* CSV Start */
+
+    // function dataSave() {
+    //     const data = arrToObj();
+    //     const header = Array(maxArrLen(data));
+    //     let csv = header.join(",") + "\n";
+    //     data.forEach(function (row) {
+    //         const textArr = row.map((item) => `"${decodeURIComponent(item.R[0].T)}"`);
+    //         csv += textArr.join(",");
+    //         csv += "\n";
+    //     });
+    //     csv = csv.startsWith("\n") ? csv.slice(1) : csv;
+    //     console.log(csv);
+    //     // fs.writeFileSync(`output/test-${Date.now()}.csv`, csv, "utf-8");
+    // }
+    // dataSave();
+
+    /* CSV End */
+
+    function test() {
         const data = arrToObj();
-        const header = Array(maxArrLen(data));
-        let csv = header.join(",") + "\n";
+        // const header = Array(maxArrLen(data));
+        // let csv = header.join("") + "\n";
+        let csv = "";
         data.forEach(function (row) {
             const textArr = row.map((item) => `"${decodeURIComponent(item.R[0].T)}"`);
-            csv += textArr.join(",");
+            csv += textArr.join("");
             csv += "\n";
         });
         csv = csv.startsWith("\n") ? csv.slice(1) : csv;
         console.log(csv);
         // fs.writeFileSync(`output/test-${Date.now()}.csv`, csv, "utf-8");
     }
-    dataSave();
+    test();
 }
-main("pdf/HSBC-1.pdf");
+main("bac.pdf");
+// main("pdf/HSBC-1.pdf");
 
 // const str = `Primary Account Number%3A 000009752`
 // console.log(decodeURIComponent(str))

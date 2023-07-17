@@ -539,6 +539,11 @@ dommatrix@0.0.24:
   resolved "https://registry.yarnpkg.com/dommatrix/-/dommatrix-0.0.24.tgz#0b793da372992878b74c31f64ac85e7a13cb382a"
   integrity sha512-PatEhAW5pIHr28MvFQGV5iiHNloqvecQZlxs7/8s/eulLqZI3uVqPkrO7YDuqsebovr/9mmcWDSWzVG4amEZgQ==
 
+dommatrix@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/dommatrix/-/dommatrix-1.0.3.tgz#e7c18e8d6f3abdd1fef3dd4aa74c4d2e620a0525"
+  integrity sha512-l32Xp/TLgWb8ReqbVJAFIvXmY7go4nTxxlWiAFyhoQw9RKEOHBZNnyGvJWqDVSPmq3Y9HlM4npqF/T6VMOXhww==
+
 ecc-jsbn@~0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/ecc-jsbn/-/ecc-jsbn-0.1.2.tgz#3a83a904e54353287874c564b7549386849a98c9"
@@ -895,7 +900,7 @@ loader-utils@^1.0.0:
     emojis-list "^3.0.0"
     json5 "^1.0.1"
 
-lodash@^4.15.0, lodash@^4.17.14:
+lodash@^4.15.0, lodash@^4.17.14, lodash@^4.17.21:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -1137,6 +1142,13 @@ pdf-table-extractor@^1.0.3:
   dependencies:
     pdfjs-dist "^1.5.446"
 
+pdf-text-reader@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/pdf-text-reader/-/pdf-text-reader-3.0.2.tgz#66229a02d5086d392d090b94db8f60f63fd13368"
+  integrity sha512-DQbl1aIYqsVFbp57QjKdXDhwJcFaN95GeEQiqMxWcN5FFc9a0uSi+uAv1yQxcELqKD9+V3v2+sD2peq9MDDA0Q==
+  dependencies:
+    pdfjs-dist "2.15.349"
+
 pdf-to-text@^0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/pdf-to-text/-/pdf-to-text-0.0.7.tgz#d1cd75b6a9f3782a14bcdf9fe6bc02f74cd7ecd3"
@@ -1150,12 +1162,27 @@ pdf.js-extract@^0.2.1:
     dommatrix "0.0.24"
     web-streams-polyfill "3.2.0"
 
+pdf2json@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/pdf2json/-/pdf2json-3.0.1.tgz#2ceccea811668aff64e30e3711047d941ec881da"
+  integrity sha512-1pNsakC8F+OuFS72U+ZI0u8J/voPYYDYHj/0B/7ywYUm3w0QurkDBy3pH35kzygjgmJJVHk2a9I6gBswFF8hQQ==
+  dependencies:
+    "@xmldom/xmldom" "^0.8.6"
+
 pdf2json@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/pdf2json/-/pdf2json-3.0.4.tgz#8508800c8d07e4778d4247de4de49a7b641aa040"
   integrity sha512-NKmSg78W5V/T3Qvp+TPkYeARdP/XzxBTlhRGdDMrOI1beyI72JxW5u4yy5825ge3opzu4HF0xDgg+HZbYvbr4g==
   dependencies:
     "@xmldom/xmldom" "^0.8.6"
+
+pdfjs-dist@2.15.349:
+  version "2.15.349"
+  resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-2.15.349.tgz#b52ced6e667bfe3df72a06b92107f150eedf154d"
+  integrity sha512-EeCfqj6xi4/aegKNS7Bs+TCg3Y5gmKmG0s/5xXI0PqWW66x+Nm7iFXBpVcup7HnR8sNDm+5NESfFr8T6DeWp9Q==
+  dependencies:
+    dommatrix "^1.0.3"
+    web-streams-polyfill "^3.2.1"
 
 pdfjs-dist@^1.5.446:
   version "1.10.100"
@@ -1172,6 +1199,13 @@ pdfjs-dist@^3.8.162:
   optionalDependencies:
     canvas "^2.11.2"
     path2d-polyfill "^2.0.1"
+
+pdfreader@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/pdfreader/-/pdfreader-3.0.0.tgz#cc3d73ac0cfcbcb6624c2c450ddb7878b7a6fd9d"
+  integrity sha512-jTMFdvC4RT5kcU2CrT8GqtswNCYiU/tPHwVKGgnnta6tNaLIgV+ekkb4kq+5xgkQMMR+OJsj/AdAIaASmHr8Iw==
+  dependencies:
+    pdf2json "3.0.1"
 
 peek-readable@^4.1.0:
   version "4.1.0"
@@ -1489,6 +1523,11 @@ tr46@~0.0.3:
   resolved "https://registry.yarnpkg.com/tr46/-/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
   integrity sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==
 
+tsv-json@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/tsv-json/-/tsv-json-2.0.0.tgz#3000f3cd30115d2dc31d4ac7568f8eb703919733"
+  integrity sha512-muMGcyearPghEu+ET4HyDo1aOkCTldTc6PujztHhRqsCkHAWuRDynTf1t20NJz5iI961m2CDNVeo9vhU/Vblfg==
+
 tunnel-agent@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/tunnel-agent/-/tunnel-agent-0.6.0.tgz#27a5dea06b36b04a0a9966774b290868f0fc40fd"
@@ -1543,6 +1582,11 @@ web-streams-polyfill@3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/web-streams-polyfill/-/web-streams-polyfill-3.2.0.tgz#a6b74026b38e4885869fb5c589e90b95ccfc7965"
   integrity sha512-EqPmREeOzttaLRm5HS7io98goBgZ7IVz79aDvqjD0kYXLtFZTc0T/U6wHTPKyIjb+MdN7DFIIX6hgdBEpWmfPA==
+
+web-streams-polyfill@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/web-streams-polyfill/-/web-streams-polyfill-3.2.1.tgz#71c2718c52b45fd49dbeee88634b3a60ceab42a6"
+  integrity sha512-e0MO3wdXWKrLbL0DgGnUV7WHVuw9OUvL4hjgnPkIeEvESk74gAITi5G606JtZPp39cd8HA9VQzCIvA49LpPN5Q==
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
