@@ -103,11 +103,6 @@ function func2(params) {
             newObj[lastKey] = [{ val: v, loc }];
         }
 
-        // if (newObj[k]) {
-        //     newObj[k].push(v);
-        // } else {
-        //     newObj[k] = [v];
-        // }
     }
     const newArr = [],
         cleanArr = [],

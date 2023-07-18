@@ -17,8 +17,7 @@ const loadingTask = pdfjsLib.getDocument(pdfPath);
 loadingTask.promise
     .then(async function (doc) {
         const AppPages = {};
-
-
+        // console.log(doc);
         const numPages = doc.numPages;
         for (let i = 0; i < numPages; i++) {
             AppPages[i + 1] = []
@@ -30,7 +29,7 @@ loadingTask.promise
         let lastPromise; // will be used to chain promises
         lastPromise = doc.getMetadata().then(function (data) {
             // console.log('# Metadata Is Loaded');
-            // console.log('## Info');
+            // console.log('## Info===', data?.metadata);
             // console.log(JSON.stringify(data.info, null, 2));
             // console.log();
             if (data.metadata) {
@@ -42,7 +41,7 @@ loadingTask.promise
 
         const loadPage = async function (pageNum) {
             return doc.getPage(pageNum).then(async function (page) {
-                // console.log('# Page ' + pageNum);
+                console.log('# Page ', page);
                 const viewport = page.getViewport({ scale: 1.0 });
                 // console.log('Size: ' + viewport.width + 'x' + viewport.height);
                 // console.log();
@@ -85,7 +84,7 @@ loadingTask.promise
     .then(
         function () {
             console.log("# End of Document");
-            console.log(textContent);
+            // console.log(textContent);
             //   writeFile(outputFile, textContent);
             // console.log(textContent);
         },

@@ -1,0 +1,1811 @@
+[
+  {
+    "x": 20,
+    "y": 281.65,
+    "str": "You are eligible for a $100 bonus",
+    "dir": "ltr",
+    "width": 249.8490310400001,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 307.45,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 307.45,
+    "str": "Scan this QR code with your Smartphone",
+    "dir": "ltr",
+    "width": 183.42358848000018,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 319.45,
+    "str": "To find out more about a High Interest",
+    "dir": "ltr",
+    "width": 168.4314302400001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 331.45,
+    "str": "Savings Account",
+    "dir": "ltr",
+    "width": 74.49043823999997,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 94.49043823999999,
+    "y": 331.45,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.038563357777777876,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 97.267,
+    "y": 331.45,
+    "str": "–",
+    "dir": "ltr",
+    "width": 5.560044480000001,
+    "height": 10.00008,
+    "fontName": "g_d0_f3"
+  },
+  {
+    "x": 102.82704448,
+    "y": 331.45,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.03865216000000002,
+    "height": 10.00008,
+    "fontName": "g_d0_f3"
+  },
+  {
+    "x": 105.61,
+    "y": 331.45,
+    "str": "with the first $100",
+    "dir": "ltr",
+    "width": 78.3731804800001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 343.45,
+    "str": "Deposit on us!",
+    "dir": "ltr",
+    "width": 63.92802223999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 367.45,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 7.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 20,
+    "y": 367.45,
+    "str": "You may need to get a QR Code",
+    "dir": "ltr",
+    "width": 116.06768352,
+    "height": 7.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.07,
+    "y": 367.45,
+    "str": "®",
+    "dir": "ltr",
+    "width": 6.079939199999999,
+    "height": 7.99992,
+    "fontName": "Times"
+  },
+  {
+    "x": 142.1499392,
+    "y": 367.45,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.030834177777777763,
+    "height": 7.99992,
+    "fontName": "Times"
+  },
+  {
+    "x": 144.37,
+    "y": 367.45,
+    "str": "reader from your SmartPhone App Store",
+    "dir": "ltr",
+    "width": 143.62258752000005,
+    "height": 7.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 194.38,
+    "y": 59.39999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 18,
+    "fontName": "g_d0_f6"
+  },
+  {
+    "x": 194.38,
+    "y": 59.39999999999998,
+    "str": "CrawfordTech Bank Statement Sample",
+    "dir": "ltr",
+    "width": 349.2385919999999,
+    "height": 18,
+    "fontName": "g_d0_f6"
+  },
+  {
+    "x": 22,
+    "y": 111.54999999999995,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 22,
+    "y": 111.54999999999995,
+    "str": "Mary",
+    "dir": "ltr",
+    "width": 28.804464,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 50.804463999999996,
+    "y": 111.54999999999995,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.10003799999999992,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 58.00719999999999,
+    "y": 111.54999999999995,
+    "str": "Jane",
+    "dir": "ltr",
+    "width": 28.80446400000001,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 86.81166400000001,
+    "y": 111.54999999999995,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.10003800000000002,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 94.01440000000001,
+    "y": 111.54999999999995,
+    "str": "Smith",
+    "dir": "ltr",
+    "width": 36.005904000000015,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 22,
+    "y": 125.95000000000005,
+    "str": "100",
+    "dir": "ltr",
+    "width": 21.603023999999998,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 43.603024,
+    "y": 125.95000000000005,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.10002744444444447,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 50.805,
+    "y": 125.95000000000005,
+    "str": "Pine",
+    "dir": "ltr",
+    "width": 28.80446400000001,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 79.609464,
+    "y": 125.95000000000005,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.10003800000000022,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 86.81220000000002,
+    "y": 125.95000000000005,
+    "str": "Street",
+    "dir": "ltr",
+    "width": 43.20734400000004,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 22,
+    "y": 140.35000000000002,
+    "str": "Metro,",
+    "dir": "ltr",
+    "width": 43.206144,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 65.206144,
+    "y": 140.35000000000002,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.10003966666666682,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 72.409,
+    "y": 140.35000000000002,
+    "str": "AA",
+    "dir": "ltr",
+    "width": 14.401583999999998,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 86.810584,
+    "y": 140.35000000000002,
+    "str": " ",
+    "dir": "ltr",
+    "width": 0.10003355555555554,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 94.013,
+    "y": 140.35000000000002,
+    "str": "09371",
+    "dir": "ltr",
+    "width": 36.00590400000003,
+    "height": 12.000240000000002,
+    "fontName": "g_d0_f7"
+  },
+  {
+    "x": 377.5,
+    "y": 109.29999999999995,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 109.29999999999995,
+    "str": "For Mar 15, 2010 to Apr 18, 2010",
+    "dir": "ltr",
+    "width": 182.75382143999988,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 121.89999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 121.89999999999998,
+    "str": "Account Number",
+    "dir": "ltr",
+    "width": 80.55959112000004,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 133.89999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 133.89999999999998,
+    "str": "00-123456",
+    "dir": "ltr",
+    "width": 47.817884480000174,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 145.89999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 145.89999999999998,
+    "str": "Branch Transit Number",
+    "dir": "ltr",
+    "width": 111.13115112000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 157.89999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 157.89999999999998,
+    "str": "098765",
+    "dir": "ltr",
+    "width": 33.36788448000018,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 181.89999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 181.89999999999998,
+    "str": "Contact Information",
+    "dir": "ltr",
+    "width": 94.99620887999991,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 205.89999999999998,
+    "str": "1-800-222-0123",
+    "dir": "ltr",
+    "width": 71.16474848000014,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 217.89999999999998,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 217.89999999999998,
+    "str": "Contact us by phone for questions, on this",
+    "dir": "ltr",
+    "width": 186.78326400000023,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 229.89999999999998,
+    "str": "statement, change of personal information, and",
+    "dir": "ltr",
+    "width": 209.02318048000024,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 241.89999999999998,
+    "str": "general inquiries, 24 hours a day, 7 days a week",
+    "dir": "ltr",
+    "width": 214.57666399999982,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 265.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 265.9,
+    "str": "TTY for the hearing impaired:",
+    "dir": "ltr",
+    "width": 139.46002663999985,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 277.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 277.9,
+    "str": "1-800-123-0007",
+    "dir": "ltr",
+    "width": 71.16474848000014,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 289.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 289.9,
+    "str": "Outside North America:",
+    "dir": "ltr",
+    "width": 112.24002663999997,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 301.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 301.9,
+    "str": "+1-123-4567",
+    "dir": "ltr",
+    "width": 56.99474848000014,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 325.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 325.9,
+    "str": "Your branch",
+    "dir": "ltr",
+    "width": 58.89850487999995,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 337.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 337.9,
+    "str": "Main and Elm",
+    "dir": "ltr",
+    "width": 61.13861064000013,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 349.9,
+    "str": "100 Main Street",
+    "dir": "ltr",
+    "width": 70.59522224000014,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 361.9,
+    "str": "Metropolis, AA",
+    "dir": "ltr",
+    "width": 65.03013335999998,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 377.5,
+    "y": 373.9,
+    "str": "01234",
+    "dir": "ltr",
+    "width": 27.80631648000014,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 397.3,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 397.3,
+    "str": "Your Transaction Details",
+    "dir": "ltr",
+    "width": 141.37009344,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 421.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 421.9,
+    "str": "Date",
+    "dir": "ltr",
+    "width": 21.67314048,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 41.42314048000001,
+    "y": 421.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.32398416,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 421.9,
+    "str": "Details",
+    "dir": "ltr",
+    "width": 32.791524480000035,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 169.54152448,
+    "y": 421.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.5390066044444448,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 280.35,
+    "y": 421.9,
+    "str": "Withdrawals",
+    "dir": "ltr",
+    "width": 58.89498048000006,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.2449804800001,
+    "y": 421.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2260419377777763,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 427.52,
+    "y": 421.9,
+    "str": "Deposits",
+    "dir": "ltr",
+    "width": 42.229932480000066,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 469.74993248000004,
+    "y": 421.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.092362048888888,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 548.4,
+    "y": 421.9,
+    "str": "Balance",
+    "dir": "ltr",
+    "width": 38.353164479999926,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 445.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 445.9,
+    "str": "Apr 8",
+    "dir": "ltr",
+    "width": 23.900044480000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 43.650044480000005,
+    "y": 445.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2930549377777778,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 445.9,
+    "str": "Opening Balance",
+    "dir": "ltr",
+    "width": 76.72282848000008,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 213.47282847999995,
+    "y": 445.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 4.643710715555557,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 445.9,
+    "str": "5,234.09",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 457.9,
+    "str": "Apr 8",
+    "dir": "ltr",
+    "width": 23.900044480000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 43.650044480000005,
+    "y": 457.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2930549377777778,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 457.9,
+    "str": "Insurance",
+    "dir": "ltr",
+    "width": 43.91502048000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 180.66502047999995,
+    "y": 457.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.59020804888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 439.16,
+    "y": 457.9,
+    "str": "272.45",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 469.75161248,
+    "y": 457.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.0842831600000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 457.9,
+    "str": "5,506.54",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 469.9,
+    "str": "Apr 10",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 469.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 469.9,
+    "str": "ATM",
+    "dir": "ltr",
+    "width": 21.108554640000026,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 157.85855464000002,
+    "y": 469.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.094464518888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 469.9,
+    "str": "200.00",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 469.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 469.9,
+    "str": "5,306.54",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 481.9,
+    "str": "Apr 12",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 481.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 481.9,
+    "str": "Internet Transfer",
+    "dir": "ltr",
+    "width": 73.9214906400001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 210.67149064,
+    "y": 481.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.173451518888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 439.16,
+    "y": 481.9,
+    "str": "250.00",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 469.75161248,
+    "y": 481.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.0842831600000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 481.9,
+    "str": "5,556.54",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 493.9,
+    "str": "Apr 12",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 493.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 493.9,
+    "str": "Payroll",
+    "dir": "ltr",
+    "width": 30.565049760000008,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 167.31504975999997,
+    "y": 493.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.6984020866666674,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 433.6,
+    "y": 493.9,
+    "str": "2100.00",
+    "dir": "ltr",
+    "width": 36.15161248000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 469.75161248,
+    "y": 493.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.0842831600000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 493.9,
+    "str": "7,656.54",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 505.9,
+    "str": "Apr 13",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 505.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 505.9,
+    "str": "Bill payment",
+    "dir": "ltr",
+    "width": 54.47047824000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 191.22047823999995,
+    "y": 505.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.63110446888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 505.9,
+    "str": "135.07",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 505.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 505.9,
+    "str": "7,521.47",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 517.9,
+    "str": "Apr 14",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 517.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 517.9,
+    "str": "Direct debit",
+    "dir": "ltr",
+    "width": 50.578230240000025,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 187.32823023999995,
+    "y": 517.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.68516346888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 517.9,
+    "str": "200.00",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 517.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 517.9,
+    "str": "7,321.47",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 529.9,
+    "str": "Apr 14",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 529.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 529.9,
+    "str": "Deposit",
+    "dir": "ltr",
+    "width": 33.90821423999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 170.65821423999995,
+    "y": 529.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.72919146888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 439.16,
+    "y": 529.9,
+    "str": "250.00",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 469.75161248,
+    "y": 529.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.0842831600000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 529.9,
+    "str": "7.567.87",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 541.9,
+    "str": "Apr 15",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 541.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 541.9,
+    "str": "Bill payment",
+    "dir": "ltr",
+    "width": 54.47047824000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 191.22047823999995,
+    "y": 541.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.63110446888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 541.9,
+    "str": "525.72",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 541.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 541.9,
+    "str": "7,042.15",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 553.9,
+    "str": "Apr 17",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 553.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 553.9,
+    "str": "Bill payment",
+    "dir": "ltr",
+    "width": 54.47047824000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 191.22047823999995,
+    "y": 553.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.63110446888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 553.9,
+    "str": "327.63",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 553.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 553.9,
+    "str": "6,714.52",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 565.9,
+    "str": "Apr 17",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 565.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 565.9,
+    "str": "Bill payment",
+    "dir": "ltr",
+    "width": 54.47047824000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 191.22047823999995,
+    "y": 565.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.63110446888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 565.9,
+    "str": "729.96",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 565.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 565.9,
+    "str": "5,984.56",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 19.75,
+    "y": 577.9,
+    "str": "Apr 18",
+    "dir": "ltr",
+    "width": 29.461612480000007,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 49.21161248000001,
+    "y": 577.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.2158109377777775,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 577.9,
+    "str": "Bill payment",
+    "dir": "ltr",
+    "width": 54.47047824000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 191.22047823999995,
+    "y": 577.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.63110446888889,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 308.66,
+    "y": 577.9,
+    "str": "223.69",
+    "dir": "ltr",
+    "width": 30.59161248000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 339.25161248,
+    "y": 577.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.8967831600000005,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 547.82,
+    "y": 577.9,
+    "str": "5,710.87",
+    "dir": "ltr",
+    "width": 38.93161247999999,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 601.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 136.75,
+    "y": 601.9,
+    "str": "Closing Balance",
+    "dir": "ltr",
+    "width": 77.79678048000011,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 214.54678048,
+    "y": 601.9,
+    "str": " ",
+    "dir": "ltr",
+    "width": 4.5515724933333335,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 542.26,
+    "y": 601.9,
+    "str": "$5,710.87",
+    "dir": "ltr",
+    "width": 44.49161248000008,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 643.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 25.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 643.9,
+    "str": "Are you",
+    "dir": "ltr",
+    "width": 96.80531112,
+    "height": 25.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 675.1,
+    "str": "ready",
+    "dir": "ltr",
+    "width": 69.37539552000001,
+    "height": 25.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 706.3,
+    "str": "to go",
+    "dir": "ltr",
+    "width": 63.531231119999994,
+    "height": 25.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 737.5,
+    "str": "paperless?",
+    "dir": "ltr",
+    "width": 137.29595111999993,
+    "height": 25.99992,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 634.9,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 634.9,
+    "str": "Get your statements",
+    "dir": "ltr",
+    "width": 154.70779104000016,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 654.1,
+    "str": "delivered directly to",
+    "dir": "ltr",
+    "width": 151.16633424000028,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 673.3,
+    "str": "your email account",
+    "dir": "ltr",
+    "width": 145.81960272000018,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 711.7,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 711.7,
+    "str": "Avoid the monthly",
+    "dir": "ltr",
+    "width": 139.55114304000006,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 730.9,
+    "str": "$2 paper statement",
+    "dir": "ltr",
+    "width": 145.83313072000024,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 190.75,
+    "y": 750.1,
+    "str": "print fee!",
+    "dir": "ltr",
+    "width": 68.44794672000003,
+    "height": 15.99984,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 395.5,
+    "y": 633.55,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 395.5,
+    "y": 633.55,
+    "str": "Scan the QR Code below with your",
+    "dir": "ltr",
+    "width": 198.68750136,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 395.5,
+    "y": 647.95,
+    "str": "SmartPhone to sign up now!",
+    "dir": "ltr",
+    "width": 162.6660799199998,
+    "height": 12.000240000000002,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 402.25,
+    "y": 748.75,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 402.25,
+    "y": 748.75,
+    "str": "You may need to get a QR Code reader",
+    "dir": "ltr",
+    "width": 176.7742826400002,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 402.25,
+    "y": 760.75,
+    "str": "from your SmartPhone App Store",
+    "dir": "ltr",
+    "width": 147.84716448000015,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 772.15,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 5.999904,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 772.15,
+    "str": "QR Code is a Resistered trademark of Denso Wave Corporation",
+    "dir": "ltr",
+    "width": 170.7356586239999,
+    "height": 5.999904,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 167.35000000000002,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 13.99968,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 167.35000000000002,
+    "str": "Account Summary",
+    "dir": "ltr",
+    "width": 123.69179808000001,
+    "height": 13.99968,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 197.35000000000002,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 197.35000000000002,
+    "str": "Opening Balance",
+    "dir": "ltr",
+    "width": 76.72282847999998,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 98.72282848,
+    "y": 197.35000000000002,
+    "str": " ",
+    "dir": "ltr",
+    "width": 2.941488493333333,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 310.51,
+    "y": 197.35000000000002,
+    "str": "$5,234.09",
+    "dir": "ltr",
+    "width": 44.49161248000012,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 209.35000000000002,
+    "str": "Withdrawals",
+    "dir": "ltr",
+    "width": 54.45813600000001,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 76.45813600000001,
+    "y": 209.35000000000002,
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.2507203333333328,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 310.51,
+    "y": 209.35000000000002,
+    "str": "$2,395.67",
+    "dir": "ltr",
+    "width": 44.49161248000012,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 221.35000000000002,
+    "str": "Deposits",
+    "dir": "ltr",
+    "width": 38.90664,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 60.90664,
+    "y": 221.35000000000002,
+    "str": " ",
+    "dir": "ltr",
+    "width": 3.466713333333333,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 310.51,
+    "y": 221.35000000000002,
+    "str": "$2,872.45",
+    "dir": "ltr",
+    "width": 44.49161248000012,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 253.75,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 22,
+    "y": 253.75,
+    "str": "Closing Balance on Apr 18, 2010",
+    "dir": "ltr",
+    "width": 154.49474848000006,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 176.49474847999997,
+    "y": 253.75,
+    "str": " ",
+    "dir": "ltr",
+    "width": 1.861322937777778,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  },
+  {
+    "x": 310.51,
+    "y": 253.75,
+    "str": "$5,710.87",
+    "dir": "ltr",
+    "width": 44.49161248000012,
+    "height": 10.00008,
+    "fontName": "Helvetica"
+  }
+]
