@@ -144,7 +144,8 @@ function func2(params) {
                 })
                 .join(",") + "\n";
     }
-    require("fs").writeFileSync("testing-------.csv", csv);
+    console.log(csv)
+    // require("fs").writeFileSync("testing-------.csv", csv);
 }
 
 func2();

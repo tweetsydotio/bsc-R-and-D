@@ -1,7 +1,7 @@
 const PDFExtract = require("pdf.js-extract").PDFExtract;
 const pdfExtract = new PDFExtract();
 const fs = require("fs");
-const buffer = fs.readFileSync("pdf/newCN.pdf");
+const buffer = fs.readFileSync("pdf/SoutheastBank.pdf");
 // const buffer = fs.readFileSync("pdf/SoutheastBank.pdf");
 const options = {}; /* see below */
 const pdf = () =>
@@ -9,9 +9,12 @@ const pdf = () =>
         if (err) return console.log(err);
         // console.log(data.pages[0].content);
         const { content } = data.pages[0];
-        console.log(content);
-        // console.log(JSON.stringify(content));
-        // PrepireForCSV(content);
+        // console.log(content);
+        // // console.log(JSON.stringify(content));
+        // fs.writeFileSync('HBAC.json', JSON.stringify(data))
+        // console.log(data);
+        const sorted = content.sort((a, b) => a.y - b.y);
+        PrepireForCSV(sorted);
     });
 pdf();
 function PrepireForCSV(data) {
@@ -48,9 +51,9 @@ function PrepireForCSV(data) {
         }, {});
         const vals = Object.values(newRow);
         if (vals.filter((item) => item.str?.trim?.()).length) {
-            // const sorted = vals.sort((a, b) => a.x - b.x);
+            const sorted = vals.sort((a, b) => a.x - b.x);
             // const desorted = vals.sort((a, b) => b.x - a.x);
-            cleanRow.push(vals);
+            cleanRow.push(sorted);
         }
     }
 

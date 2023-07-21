@@ -74,8 +74,8 @@ const axiosParams = [
 
 function chat(prompt) {
     const body = {
-        // model: "gpt-3.5-turbo",
-        model: "gpt-3.5-turbo-16k",
+        model: "gpt-3.5-turbo",
+        // model: "gpt-3.5-turbo-16k",
         // max_tokens: 16385,
         messages: [{ role: "user", content: prompt }],
     };
@@ -90,10 +90,10 @@ function chat(prompt) {
             if (content) {
                 try {
                     // const parsed = JSON.parse(JSON.stringify(content));
-                    const csv = designForCSV(content);
-                    // fs.writeFileSync(`output/json-${Date.now()}.json`, content);
-                    fs.writeFileSync(`output/test-${Date.now()}.csv`, csv, "utf-8");
-                    console.log("Alhdmu lillah, Saved csv");
+                    // const csv = designForCSV(content);
+                    // // fs.writeFileSync(`output/json-${Date.now()}.json`, content);
+                    // fs.writeFileSync(`output/test-${Date.now()}.csv`, csv, "utf-8");
+                    console.log("Alhdmu lillah, Saved csv", content);
                 } catch (parseErr) {
                     console.log(content, "content");
                     console.log(parseErr, "parseErr");
@@ -108,7 +108,7 @@ function chat(prompt) {
             console.error(e, "err");
         });
 }
-
+// chat('Bismillah')
 // axios
 //     .post(...axiosParams)
 //     .then((d) => console.log(d.data.choices[0]))
