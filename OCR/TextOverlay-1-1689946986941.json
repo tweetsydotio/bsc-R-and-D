@@ -1,0 +1,2637 @@
+{
+  "TextOverlay": {
+    "Lines": [
+      {
+        "LineText": "HSBC … UK",
+        "Words": [
+          {
+            "WordText": "HSBC",
+            "Left": 68,
+            "Top": 44,
+            "Height": 39,
+            "Width": 137
+          },
+          {
+            "WordText": "…",
+            "Left": 209,
+            "Top": 44,
+            "Height": 39,
+            "Width": 45
+          },
+          {
+            "WordText": "UK",
+            "Left": 258,
+            "Top": 44,
+            "Height": 39,
+            "Width": 89
+          }
+        ],
+        "MaxHeight": 39,
+        "MinTop": 44
+      },
+      {
+        "LineText": "3 February to 2 March 2023",
+        "Words": [
+          {
+            "WordText": "3",
+            "Left": 85,
+            "Top": 166,
+            "Height": 16,
+            "Width": 17
+          },
+          {
+            "WordText": "February",
+            "Left": 102,
+            "Top": 166,
+            "Height": 16,
+            "Width": 69
+          },
+          {
+            "WordText": "to",
+            "Left": 172,
+            "Top": 166,
+            "Height": 16,
+            "Width": 16
+          },
+          {
+            "WordText": "2",
+            "Left": 188,
+            "Top": 166,
+            "Height": 16,
+            "Width": 9
+          },
+          {
+            "WordText": "March",
+            "Left": 198,
+            "Top": 166,
+            "Height": 16,
+            "Width": 52
+          },
+          {
+            "WordText": "2023",
+            "Left": 251,
+            "Top": 166,
+            "Height": 16,
+            "Width": 32
+          }
+        ],
+        "MaxHeight": 16,
+        "MinTop": 166
+      },
+      {
+        "LineText": "Account Name",
+        "Words": [
+          {
+            "WordText": "Account",
+            "Left": 90,
+            "Top": 207,
+            "Height": 10,
+            "Width": 50
+          },
+          {
+            "WordText": "Name",
+            "Left": 139,
+            "Top": 207,
+            "Height": 10,
+            "Width": 38
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 207
+      },
+      {
+        "LineText": "ROCK AND ROSES SUPPLEMENTS LIMITED",
+        "Words": [
+          {
+            "WordText": "ROCK",
+            "Left": 90,
+            "Top": 223,
+            "Height": 10,
+            "Width": 35
+          },
+          {
+            "WordText": "AND",
+            "Left": 125,
+            "Top": 224,
+            "Height": 10,
+            "Width": 29
+          },
+          {
+            "WordText": "ROSES",
+            "Left": 154,
+            "Top": 224,
+            "Height": 10,
+            "Width": 42
+          },
+          {
+            "WordText": "SUPPLEMENTS",
+            "Left": 196,
+            "Top": 224,
+            "Height": 10,
+            "Width": 88
+          },
+          {
+            "WordText": "LIMITED",
+            "Left": 283,
+            "Top": 223,
+            "Height": 10,
+            "Width": 53
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 223
+      },
+      {
+        "LineText": "Your BUSINESS CURRENT ACCOUNT details",
+        "Words": [
+          {
+            "WordText": "Your",
+            "Left": 83,
+            "Top": 274,
+            "Height": 15,
+            "Width": 44
+          },
+          {
+            "WordText": "BUSINESS",
+            "Left": 128,
+            "Top": 274,
+            "Height": 14,
+            "Width": 82
+          },
+          {
+            "WordText": "CURRENT",
+            "Left": 210,
+            "Top": 274,
+            "Height": 14,
+            "Width": 84
+          },
+          {
+            "WordText": "ACCOUNT",
+            "Left": 295,
+            "Top": 274,
+            "Height": 14,
+            "Width": 86
+          },
+          {
+            "WordText": "details",
+            "Left": 381,
+            "Top": 274,
+            "Height": 15,
+            "Width": 48
+          }
+        ],
+        "MaxHeight": 15,
+        "MinTop": 274
+      },
+      {
+        "LineText": "Date",
+        "Words": [
+          {
+            "WordText": "Date",
+            "Left": 86,
+            "Top": 294,
+            "Height": 10,
+            "Width": 29
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 294
+      },
+      {
+        "LineText": "Payment type and details",
+        "Words": [
+          {
+            "WordText": "Payment",
+            "Left": 171,
+            "Top": 294,
+            "Height": 11,
+            "Width": 50
+          },
+          {
+            "WordText": "type",
+            "Left": 221,
+            "Top": 294,
+            "Height": 11,
+            "Width": 28
+          },
+          {
+            "WordText": "and",
+            "Left": 249,
+            "Top": 294,
+            "Height": 11,
+            "Width": 22
+          },
+          {
+            "WordText": "details",
+            "Left": 271,
+            "Top": 294,
+            "Height": 11,
+            "Width": 35
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 294
+      },
+      {
+        "LineText": "15 Feb 23",
+        "Words": [
+          {
+            "WordText": "15",
+            "Left": 86,
+            "Top": 331,
+            "Height": 10,
+            "Width": 15
+          },
+          {
+            "WordText": "Feb",
+            "Left": 102,
+            "Top": 331,
+            "Height": 10,
+            "Width": 20
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 331,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 331
+      },
+      {
+        "LineText": "16 Feb 23",
+        "Words": [
+          {
+            "WordText": "16",
+            "Left": 86,
+            "Top": 362,
+            "Height": 10,
+            "Width": 16
+          },
+          {
+            "WordText": "Feb",
+            "Left": 102,
+            "Top": 362,
+            "Height": 10,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 362,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 362
+      },
+      {
+        "LineText": "17 Feb 23",
+        "Words": [
+          {
+            "WordText": "17",
+            "Left": 86,
+            "Top": 422,
+            "Height": 10,
+            "Width": 16
+          },
+          {
+            "WordText": "Feb",
+            "Left": 103,
+            "Top": 423,
+            "Height": 10,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 422,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 422
+      },
+      {
+        "LineText": "20 Feb 23",
+        "Words": [
+          {
+            "WordText": "20",
+            "Left": 86,
+            "Top": 514,
+            "Height": 10,
+            "Width": 16
+          },
+          {
+            "WordText": "Feb",
+            "Left": 103,
+            "Top": 514,
+            "Height": 10,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 514,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 514
+      },
+      {
+        "LineText": "21 Feb 23",
+        "Words": [
+          {
+            "WordText": "21",
+            "Left": 86,
+            "Top": 605,
+            "Height": 8,
+            "Width": 17
+          },
+          {
+            "WordText": "Feb",
+            "Left": 103,
+            "Top": 605,
+            "Height": 8,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 605,
+            "Height": 8,
+            "Width": 12
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 605
+      },
+      {
+        "LineText": "22 Feb 23",
+        "Words": [
+          {
+            "WordText": "22",
+            "Left": 86,
+            "Top": 757,
+            "Height": 10,
+            "Width": 16
+          },
+          {
+            "WordText": "Feb",
+            "Left": 103,
+            "Top": 757,
+            "Height": 10,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 757,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 757
+      },
+      {
+        "LineText": "23 Feb 23",
+        "Words": [
+          {
+            "WordText": "23",
+            "Left": 86,
+            "Top": 817,
+            "Height": 10,
+            "Width": 15
+          },
+          {
+            "WordText": "Feb",
+            "Left": 101,
+            "Top": 817,
+            "Height": 10,
+            "Width": 21
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 817,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 817
+      },
+      {
+        "LineText": "24 Feb 23",
+        "Words": [
+          {
+            "WordText": "24",
+            "Left": 85,
+            "Top": 879,
+            "Height": 8,
+            "Width": 18
+          },
+          {
+            "WordText": "Feb",
+            "Left": 103,
+            "Top": 879,
+            "Height": 8,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 122,
+            "Top": 879,
+            "Height": 8,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 879
+      },
+      {
+        "LineText": "27 Feb 23",
+        "Words": [
+          {
+            "WordText": "27",
+            "Left": 88,
+            "Top": 909,
+            "Height": 10,
+            "Width": 14
+          },
+          {
+            "WordText": "Feb",
+            "Left": 102,
+            "Top": 908,
+            "Height": 10,
+            "Width": 19
+          },
+          {
+            "WordText": "23",
+            "Left": 121,
+            "Top": 908,
+            "Height": 10,
+            "Width": 14
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 908
+      },
+      {
+        "LineText": "BALANCE BROUGHT FORWARD",
+        "Words": [
+          {
+            "WordText": "BALANCE",
+            "Left": 204,
+            "Top": 320,
+            "Height": 10,
+            "Width": 55
+          },
+          {
+            "WordText": "BROUGHT",
+            "Left": 259,
+            "Top": 320,
+            "Height": 10,
+            "Width": 55
+          },
+          {
+            "WordText": "FORWARD",
+            "Left": 313,
+            "Top": 320,
+            "Height": 10,
+            "Width": 57
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 320
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 331,
+            "Height": 10,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 331
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 204,
+            "Top": 331,
+            "Height": 13,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 13,
+        "MinTop": 331
+      },
+      {
+        "LineText": "Transfer 8sbjdp",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 347,
+            "Height": 10,
+            "Width": 40
+          },
+          {
+            "WordText": "8sbjdp",
+            "Left": 244,
+            "Top": 347,
+            "Height": 10,
+            "Width": 31
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 347
+      },
+      {
+        "LineText": "SO",
+        "Words": [
+          {
+            "WordText": "SO",
+            "Left": 168,
+            "Top": 362,
+            "Height": 10,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 362
+      },
+      {
+        "LineText": "PRICE AND ACCOUNTS",
+        "Words": [
+          {
+            "WordText": "PRICE",
+            "Left": 204,
+            "Top": 362,
+            "Height": 10,
+            "Width": 34
+          },
+          {
+            "WordText": "AND",
+            "Left": 238,
+            "Top": 362,
+            "Height": 10,
+            "Width": 27
+          },
+          {
+            "WordText": "ACCOUNTS",
+            "Left": 265,
+            "Top": 362,
+            "Height": 10,
+            "Width": 59
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 362
+      },
+      {
+        "LineText": "ROCK AND ROSES",
+        "Words": [
+          {
+            "WordText": "ROCK",
+            "Left": 204,
+            "Top": 377,
+            "Height": 10,
+            "Width": 34
+          },
+          {
+            "WordText": "AND",
+            "Left": 238,
+            "Top": 377,
+            "Height": 10,
+            "Width": 24
+          },
+          {
+            "WordText": "ROSES",
+            "Left": 262,
+            "Top": 377,
+            "Height": 10,
+            "Width": 38
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 377
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 393,
+            "Height": 8,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 393
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 204,
+            "Top": 393,
+            "Height": 11,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 393
+      },
+      {
+        "LineText": "Transfer bf36pp",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 408,
+            "Height": 11,
+            "Width": 40
+          },
+          {
+            "WordText": "bf36pp",
+            "Left": 244,
+            "Top": 408,
+            "Height": 11,
+            "Width": 35
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 408
+      },
+      {
+        "LineText": "SO",
+        "Words": [
+          {
+            "WordText": "SO",
+            "Left": 165,
+            "Top": 422,
+            "Height": 10,
+            "Width": 23
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 422
+      },
+      {
+        "LineText": "MAYOOR PATEL",
+        "Words": [
+          {
+            "WordText": "MAYOOR",
+            "Left": 201,
+            "Top": 422,
+            "Height": 10,
+            "Width": 55
+          },
+          {
+            "WordText": "PATEL",
+            "Left": 255,
+            "Top": 422,
+            "Height": 10,
+            "Width": 37
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 422
+      },
+      {
+        "LineText": "WAGES",
+        "Words": [
+          {
+            "WordText": "WAGES",
+            "Left": 204,
+            "Top": 437,
+            "Height": 11,
+            "Width": 43
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 437
+      },
+      {
+        "LineText": "BP",
+        "Words": [
+          {
+            "WordText": "BP",
+            "Left": 168,
+            "Top": 453,
+            "Height": 8,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 453
+      },
+      {
+        "LineText": "The Oxford Health",
+        "Words": [
+          {
+            "WordText": "The",
+            "Left": 204,
+            "Top": 453,
+            "Height": 10,
+            "Width": 22
+          },
+          {
+            "WordText": "Oxford",
+            "Left": 225,
+            "Top": 453,
+            "Height": 10,
+            "Width": 32
+          },
+          {
+            "WordText": "Health",
+            "Left": 258,
+            "Top": 453,
+            "Height": 10,
+            "Width": 31
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 453
+      },
+      {
+        "LineText": "INV-5799",
+        "Words": [
+          {
+            "WordText": "INV",
+            "Left": 204,
+            "Top": 468,
+            "Height": 10,
+            "Width": 47
+          },
+          {
+            "WordText": "-",
+            "Left": 204,
+            "Top": 468,
+            "Height": 10,
+            "Width": 47
+          },
+          {
+            "WordText": "5799",
+            "Left": 204,
+            "Top": 468,
+            "Height": 10,
+            "Width": 47
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 468
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 483,
+            "Height": 10,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 483
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 202,
+            "Top": 484,
+            "Height": 11,
+            "Width": 38
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 484
+      },
+      {
+        "LineText": "Transfer 98gkq8",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 499,
+            "Height": 12,
+            "Width": 39
+          },
+          {
+            "WordText": "98gkq8",
+            "Left": 243,
+            "Top": 499,
+            "Height": 12,
+            "Width": 37
+          }
+        ],
+        "MaxHeight": 12,
+        "MinTop": 499
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 514,
+            "Height": 10,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 514
+      },
+      {
+        "LineText": "Stripe Payments UK",
+        "Words": [
+          {
+            "WordText": "Stripe",
+            "Left": 204,
+            "Top": 514,
+            "Height": 10,
+            "Width": 30
+          },
+          {
+            "WordText": "Payments",
+            "Left": 234,
+            "Top": 514,
+            "Height": 10,
+            "Width": 43
+          },
+          {
+            "WordText": "UK",
+            "Left": 277,
+            "Top": 514,
+            "Height": 10,
+            "Width": 19
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 514
+      },
+      {
+        "LineText": "STRIPE",
+        "Words": [
+          {
+            "WordText": "STRIPE",
+            "Left": 204,
+            "Top": 530,
+            "Height": 8,
+            "Width": 41
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 530
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 545,
+            "Height": 8,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 545
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 204,
+            "Top": 545,
+            "Height": 10,
+            "Width": 34
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 545
+      },
+      {
+        "LineText": "Transfer fweydp",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 202,
+            "Top": 559,
+            "Height": 10,
+            "Width": 41
+          },
+          {
+            "WordText": "fweydp",
+            "Left": 244,
+            "Top": 559,
+            "Height": 10,
+            "Width": 35
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 559
+      },
+      {
+        "LineText": "VIS",
+        "Words": [
+          {
+            "WordText": "VIS",
+            "Left": 168,
+            "Top": 574,
+            "Height": 10,
+            "Width": 21
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 574
+      },
+      {
+        "LineText": "MSFT * E0600M8IWC",
+        "Words": [
+          {
+            "WordText": "MSFT",
+            "Left": 199,
+            "Top": 574,
+            "Height": 10,
+            "Width": 38
+          },
+          {
+            "WordText": "*",
+            "Left": 237,
+            "Top": 574,
+            "Height": 10,
+            "Width": 7
+          },
+          {
+            "WordText": "E0600M8IWC",
+            "Left": 244,
+            "Top": 574,
+            "Height": 10,
+            "Width": 66
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 574
+      },
+      {
+        "LineText": "MSBILL.INFO",
+        "Words": [
+          {
+            "WordText": "MSBILL.INFO",
+            "Left": 204,
+            "Top": 590,
+            "Height": 8,
+            "Width": 70
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 590
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 166,
+            "Top": 605,
+            "Height": 10,
+            "Width": 21
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 605
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 202,
+            "Top": 605,
+            "Height": 10,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 605
+      },
+      {
+        "LineText": "Transfer 2qd8k8",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 620,
+            "Height": 11,
+            "Width": 40
+          },
+          {
+            "WordText": "2qd8k8",
+            "Left": 244,
+            "Top": 620,
+            "Height": 11,
+            "Width": 35
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 620
+      },
+      {
+        "LineText": "BP",
+        "Words": [
+          {
+            "WordText": "BP",
+            "Left": 168,
+            "Top": 636,
+            "Height": 8,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 636
+      },
+      {
+        "LineText": "Hectic Lifestyles",
+        "Words": [
+          {
+            "WordText": "Hectic",
+            "Left": 204,
+            "Top": 636,
+            "Height": 10,
+            "Width": 33
+          },
+          {
+            "WordText": "Lifestyles",
+            "Left": 237,
+            "Top": 636,
+            "Height": 10,
+            "Width": 44
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 636
+      },
+      {
+        "LineText": "SI-00007060",
+        "Words": [
+          {
+            "WordText": "SI",
+            "Left": 204,
+            "Top": 651,
+            "Height": 10,
+            "Width": 60
+          },
+          {
+            "WordText": "-",
+            "Left": 204,
+            "Top": 651,
+            "Height": 10,
+            "Width": 60
+          },
+          {
+            "WordText": "00007060",
+            "Left": 204,
+            "Top": 651,
+            "Height": 10,
+            "Width": 60
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 651
+      },
+      {
+        "LineText": "BP",
+        "Words": [
+          {
+            "WordText": "BP",
+            "Left": 166,
+            "Top": 666,
+            "Height": 10,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 666
+      },
+      {
+        "LineText": "Hectic Lifestyles",
+        "Words": [
+          {
+            "WordText": "Hectic",
+            "Left": 201,
+            "Top": 665,
+            "Height": 12,
+            "Width": 35
+          },
+          {
+            "WordText": "Lifestyles",
+            "Left": 236,
+            "Top": 665,
+            "Height": 12,
+            "Width": 44
+          }
+        ],
+        "MaxHeight": 12,
+        "MinTop": 665
+      },
+      {
+        "LineText": "SI-00007000",
+        "Words": [
+          {
+            "WordText": "SI",
+            "Left": 204,
+            "Top": 680,
+            "Height": 10,
+            "Width": 60
+          },
+          {
+            "WordText": "-",
+            "Left": 204,
+            "Top": 680,
+            "Height": 10,
+            "Width": 60
+          },
+          {
+            "WordText": "00007000",
+            "Left": 204,
+            "Top": 680,
+            "Height": 10,
+            "Width": 60
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 680
+      },
+      {
+        "LineText": "VIS",
+        "Words": [
+          {
+            "WordText": "VIS",
+            "Left": 166,
+            "Top": 697,
+            "Height": 8,
+            "Width": 28
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 697
+      },
+      {
+        "LineText": "REGISTERED OFFICE",
+        "Words": [
+          {
+            "WordText": "REGISTERED",
+            "Left": 201,
+            "Top": 696,
+            "Height": 8,
+            "Width": 73
+          },
+          {
+            "WordText": "OFFICE",
+            "Left": 274,
+            "Top": 696,
+            "Height": 8,
+            "Width": 39
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 696
+      },
+      {
+        "LineText": "LONDON",
+        "Words": [
+          {
+            "WordText": "LONDON",
+            "Left": 204,
+            "Top": 711,
+            "Height": 10,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 711
+      },
+      {
+        "LineText": "VIS",
+        "Words": [
+          {
+            "WordText": "VIS",
+            "Left": 168,
+            "Top": 726,
+            "Height": 10,
+            "Width": 23
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 726
+      },
+      {
+        "LineText": "REGISTERED OFFICE",
+        "Words": [
+          {
+            "WordText": "REGISTERED",
+            "Left": 201,
+            "Top": 726,
+            "Height": 10,
+            "Width": 74
+          },
+          {
+            "WordText": "OFFICE",
+            "Left": 274,
+            "Top": 726,
+            "Height": 10,
+            "Width": 39
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 726
+      },
+      {
+        "LineText": "LONDON",
+        "Words": [
+          {
+            "WordText": "LONDON",
+            "Left": 204,
+            "Top": 742,
+            "Height": 10,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 742
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 757,
+            "Height": 10,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 757
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 202,
+            "Top": 756,
+            "Height": 11,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 756
+      },
+      {
+        "LineText": "Transfer 6rt6md",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 773,
+            "Height": 8,
+            "Width": 41
+          },
+          {
+            "WordText": "6rt6md",
+            "Left": 244,
+            "Top": 773,
+            "Height": 8,
+            "Width": 33
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 773
+      },
+      {
+        "LineText": "VIS",
+        "Words": [
+          {
+            "WordText": "VIS",
+            "Left": 168,
+            "Top": 788,
+            "Height": 8,
+            "Width": 26
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 788
+      },
+      {
+        "LineText": "REVIEWS.IO",
+        "Words": [
+          {
+            "WordText": "REVIEWS.IO",
+            "Left": 196,
+            "Top": 788,
+            "Height": 10,
+            "Width": 73
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 788
+      },
+      {
+        "LineText": "LEICESTER",
+        "Words": [
+          {
+            "WordText": "LEICESTER",
+            "Left": 204,
+            "Top": 803,
+            "Height": 10,
+            "Width": 60
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 803
+      },
+      {
+        "LineText": "DD",
+        "Words": [
+          {
+            "WordText": "DD",
+            "Left": 168,
+            "Top": 819,
+            "Height": 8,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 819
+      },
+      {
+        "LineText": "SAFESTORE LIMITED",
+        "Words": [
+          {
+            "WordText": "SAFESTORE",
+            "Left": 204,
+            "Top": 819,
+            "Height": 10,
+            "Width": 64
+          },
+          {
+            "WordText": "LIMITED",
+            "Left": 268,
+            "Top": 819,
+            "Height": 10,
+            "Width": 45
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 819
+      },
+      {
+        "LineText": "FIRST PAYMENT",
+        "Words": [
+          {
+            "WordText": "FIRST",
+            "Left": 204,
+            "Top": 834,
+            "Height": 8,
+            "Width": 33
+          },
+          {
+            "WordText": "PAYMENT",
+            "Left": 236,
+            "Top": 834,
+            "Height": 8,
+            "Width": 56
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 834
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 848,
+            "Height": 10,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 848
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 201,
+            "Top": 848,
+            "Height": 10,
+            "Width": 39
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 848
+      },
+      {
+        "LineText": "Transfer 4ypxtp",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 864,
+            "Height": 10,
+            "Width": 40
+          },
+          {
+            "WordText": "4ypxtp",
+            "Left": 244,
+            "Top": 864,
+            "Height": 10,
+            "Width": 33
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 864
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 879,
+            "Height": 8,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 879
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 202,
+            "Top": 879,
+            "Height": 10,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 879
+      },
+      {
+        "LineText": "Transfer gg3v58",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 894,
+            "Height": 12,
+            "Width": 39
+          },
+          {
+            "WordText": "gg3v58",
+            "Left": 243,
+            "Top": 894,
+            "Height": 12,
+            "Width": 37
+          }
+        ],
+        "MaxHeight": 12,
+        "MinTop": 894
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 910,
+            "Height": 8,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 910
+      },
+      {
+        "LineText": "Stripe Payments UK",
+        "Words": [
+          {
+            "WordText": "Stripe",
+            "Left": 204,
+            "Top": 909,
+            "Height": 12,
+            "Width": 31
+          },
+          {
+            "WordText": "Payments",
+            "Left": 235,
+            "Top": 909,
+            "Height": 12,
+            "Width": 43
+          },
+          {
+            "WordText": "UK",
+            "Left": 278,
+            "Top": 909,
+            "Height": 12,
+            "Width": 19
+          }
+        ],
+        "MaxHeight": 12,
+        "MinTop": 909
+      },
+      {
+        "LineText": "STRIPE",
+        "Words": [
+          {
+            "WordText": "STRIPE",
+            "Left": 204,
+            "Top": 925,
+            "Height": 9,
+            "Width": 41
+          }
+        ],
+        "MaxHeight": 9,
+        "MinTop": 925
+      },
+      {
+        "LineText": "CR",
+        "Words": [
+          {
+            "WordText": "CR",
+            "Left": 168,
+            "Top": 940,
+            "Height": 10,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 940
+      },
+      {
+        "LineText": "PayPal",
+        "Words": [
+          {
+            "WordText": "PayPal",
+            "Left": 204,
+            "Top": 940,
+            "Height": 10,
+            "Width": 34
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 940
+      },
+      {
+        "LineText": "Transfer j4sygt",
+        "Words": [
+          {
+            "WordText": "Transfer",
+            "Left": 204,
+            "Top": 956,
+            "Height": 10,
+            "Width": 40
+          },
+          {
+            "WordText": "j4sygt",
+            "Left": 244,
+            "Top": 956,
+            "Height": 10,
+            "Width": 30
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 956
+      },
+      {
+        "LineText": "BP",
+        "Words": [
+          {
+            "WordText": "BP",
+            "Left": 168,
+            "Top": 971,
+            "Height": 8,
+            "Width": 18
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 971
+      },
+      {
+        "LineText": "The Oxford Health",
+        "Words": [
+          {
+            "WordText": "The",
+            "Left": 202,
+            "Top": 971,
+            "Height": 8,
+            "Width": 24
+          },
+          {
+            "WordText": "Oxford",
+            "Left": 226,
+            "Top": 971,
+            "Height": 8,
+            "Width": 33
+          },
+          {
+            "WordText": "Health",
+            "Left": 258,
+            "Top": 971,
+            "Height": 8,
+            "Width": 30
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 971
+      },
+      {
+        "LineText": "INV-5470",
+        "Words": [
+          {
+            "WordText": "INV",
+            "Left": 204,
+            "Top": 985,
+            "Height": 8,
+            "Width": 47
+          },
+          {
+            "WordText": "-",
+            "Left": 204,
+            "Top": 985,
+            "Height": 8,
+            "Width": 47
+          },
+          {
+            "WordText": "5470",
+            "Left": 204,
+            "Top": 985,
+            "Height": 8,
+            "Width": 47
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 985
+      },
+      {
+        "LineText": "BALANCE CARRIED FORWARD",
+        "Words": [
+          {
+            "WordText": "BALANCE",
+            "Left": 204,
+            "Top": 1002,
+            "Height": 10,
+            "Width": 56
+          },
+          {
+            "WordText": "CARRIED",
+            "Left": 259,
+            "Top": 1002,
+            "Height": 10,
+            "Width": 48
+          },
+          {
+            "WordText": "FORWARD",
+            "Left": 307,
+            "Top": 1002,
+            "Height": 10,
+            "Width": 56
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 1002
+      },
+      {
+        "LineText": "139A North End Croydon Surrey CRO 1TN",
+        "Words": [
+          {
+            "WordText": "139A",
+            "Left": 86,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 34
+          },
+          {
+            "WordText": "North",
+            "Left": 120,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 30
+          },
+          {
+            "WordText": "End",
+            "Left": 150,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 21
+          },
+          {
+            "WordText": "Croydon",
+            "Left": 172,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 44
+          },
+          {
+            "WordText": "Surrey",
+            "Left": 217,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 34
+          },
+          {
+            "WordText": "CRO",
+            "Left": 251,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 26
+          },
+          {
+            "WordText": "1TN",
+            "Left": 277,
+            "Top": 1078,
+            "Height": 12,
+            "Width": 24
+          }
+        ],
+        "MaxHeight": 12,
+        "MinTop": 1078
+      },
+      {
+        "LineText": "Contact tel 03457 60 60 60",
+        "Words": [
+          {
+            "WordText": "Contact",
+            "Left": 600,
+            "Top": 95,
+            "Height": 11,
+            "Width": 46
+          },
+          {
+            "WordText": "tel",
+            "Left": 646,
+            "Top": 95,
+            "Height": 11,
+            "Width": 17
+          },
+          {
+            "WordText": "03457",
+            "Left": 662,
+            "Top": 95,
+            "Height": 11,
+            "Width": 36
+          },
+          {
+            "WordText": "60",
+            "Left": 699,
+            "Top": 95,
+            "Height": 11,
+            "Width": 17
+          },
+          {
+            "WordText": "60",
+            "Left": 716,
+            "Top": 95,
+            "Height": 11,
+            "Width": 17
+          },
+          {
+            "WordText": "60",
+            "Left": 732,
+            "Top": 95,
+            "Height": 11,
+            "Width": 19
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 95
+      },
+      {
+        "LineText": "see reverse for call times",
+        "Words": [
+          {
+            "WordText": "see",
+            "Left": 634,
+            "Top": 109,
+            "Height": 10,
+            "Width": 18
+          },
+          {
+            "WordText": "reverse",
+            "Left": 652,
+            "Top": 109,
+            "Height": 10,
+            "Width": 34
+          },
+          {
+            "WordText": "for",
+            "Left": 685,
+            "Top": 109,
+            "Height": 10,
+            "Width": 16
+          },
+          {
+            "WordText": "call",
+            "Left": 701,
+            "Top": 109,
+            "Height": 10,
+            "Width": 17
+          },
+          {
+            "WordText": "times",
+            "Left": 718,
+            "Top": 109,
+            "Height": 10,
+            "Width": 26
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 109
+      },
+      {
+        "LineText": "Text phone 03457 125 563",
+        "Words": [
+          {
+            "WordText": "Text",
+            "Left": 602,
+            "Top": 122,
+            "Height": 13,
+            "Width": 29
+          },
+          {
+            "WordText": "phone",
+            "Left": 631,
+            "Top": 122,
+            "Height": 13,
+            "Width": 36
+          },
+          {
+            "WordText": "03457",
+            "Left": 667,
+            "Top": 122,
+            "Height": 13,
+            "Width": 37
+          },
+          {
+            "WordText": "125",
+            "Left": 704,
+            "Top": 122,
+            "Height": 13,
+            "Width": 21
+          },
+          {
+            "WordText": "563",
+            "Left": 726,
+            "Top": 122,
+            "Height": 13,
+            "Width": 26
+          }
+        ],
+        "MaxHeight": 13,
+        "MinTop": 122
+      },
+      {
+        "LineText": "used by deaf or speech impaired customers",
+        "Words": [
+          {
+            "WordText": "used",
+            "Left": 544,
+            "Top": 139,
+            "Height": 10,
+            "Width": 24
+          },
+          {
+            "WordText": "by",
+            "Left": 569,
+            "Top": 139,
+            "Height": 10,
+            "Width": 11
+          },
+          {
+            "WordText": "deaf",
+            "Left": 580,
+            "Top": 139,
+            "Height": 10,
+            "Width": 22
+          },
+          {
+            "WordText": "or",
+            "Left": 602,
+            "Top": 139,
+            "Height": 10,
+            "Width": 12
+          },
+          {
+            "WordText": "speech",
+            "Left": 614,
+            "Top": 139,
+            "Height": 10,
+            "Width": 30
+          },
+          {
+            "WordText": "impaired",
+            "Left": 644,
+            "Top": 139,
+            "Height": 10,
+            "Width": 41
+          },
+          {
+            "WordText": "customers",
+            "Left": 685,
+            "Top": 139,
+            "Height": 10,
+            "Width": 52
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 139
+      },
+      {
+        "LineText": "www.hsbc.co.uk",
+        "Words": [
+          {
+            "WordText": "www.hsbc.co.uk",
+            "Left": 659,
+            "Top": 153,
+            "Height": 10,
+            "Width": 95
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 153
+      },
+      {
+        "LineText": "Your Statement",
+        "Words": [
+          {
+            "WordText": "Your",
+            "Left": 600,
+            "Top": 184,
+            "Height": 16,
+            "Width": 50
+          },
+          {
+            "WordText": "Statement",
+            "Left": 650,
+            "Top": 184,
+            "Height": 16,
+            "Width": 91
+          }
+        ],
+        "MaxHeight": 16,
+        "MinTop": 184
+      },
+      {
+        "LineText": "Sortcode Account Number Sheet Number",
+        "Words": [
+          {
+            "WordText": "Sortcode",
+            "Left": 510,
+            "Top": 207,
+            "Height": 11,
+            "Width": 59
+          },
+          {
+            "WordText": "Account",
+            "Left": 570,
+            "Top": 207,
+            "Height": 11,
+            "Width": 54
+          },
+          {
+            "WordText": "Number",
+            "Left": 624,
+            "Top": 207,
+            "Height": 11,
+            "Width": 56
+          },
+          {
+            "WordText": "Sheet",
+            "Left": 680,
+            "Top": 207,
+            "Height": 11,
+            "Width": 36
+          },
+          {
+            "WordText": "Number",
+            "Left": 717,
+            "Top": 207,
+            "Height": 11,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 207
+      },
+      {
+        "LineText": "40-18-41",
+        "Words": [
+          {
+            "WordText": "40",
+            "Left": 510,
+            "Top": 223,
+            "Height": 10,
+            "Width": 49
+          },
+          {
+            "WordText": "-",
+            "Left": 510,
+            "Top": 223,
+            "Height": 10,
+            "Width": 49
+          },
+          {
+            "WordText": "18",
+            "Left": 510,
+            "Top": 223,
+            "Height": 10,
+            "Width": 49
+          },
+          {
+            "WordText": "-",
+            "Left": 510,
+            "Top": 223,
+            "Height": 10,
+            "Width": 49
+          },
+          {
+            "WordText": "41",
+            "Left": 510,
+            "Top": 223,
+            "Height": 10,
+            "Width": 49
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 223
+      },
+      {
+        "LineText": "74062426",
+        "Words": [
+          {
+            "WordText": "74062426",
+            "Left": 569,
+            "Top": 223,
+            "Height": 10,
+            "Width": 54
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 223
+      },
+      {
+        "LineText": "10",
+        "Words": [
+          {
+            "WordText": "10",
+            "Left": 680,
+            "Top": 225,
+            "Height": 8,
+            "Width": 16
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 225
+      },
+      {
+        "LineText": "Paid out",
+        "Words": [
+          {
+            "WordText": "Paid",
+            "Left": 492,
+            "Top": 294,
+            "Height": 10,
+            "Width": 26
+          },
+          {
+            "WordText": "out",
+            "Left": 518,
+            "Top": 294,
+            "Height": 10,
+            "Width": 20
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 294
+      },
+      {
+        "LineText": "810.00",
+        "Words": [
+          {
+            "WordText": "810.00",
+            "Left": 502,
+            "Top": 376,
+            "Height": 11,
+            "Width": 38
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 376
+      },
+      {
+        "LineText": "1.000.00",
+        "Words": [
+          {
+            "WordText": "1.000.00",
+            "Left": 497,
+            "Top": 437,
+            "Height": 10,
+            "Width": 41
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 437
+      },
+      {
+        "LineText": "7,537.32",
+        "Words": [
+          {
+            "WordText": "7,537.32",
+            "Left": 496,
+            "Top": 468,
+            "Height": 10,
+            "Width": 42
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 468
+      },
+      {
+        "LineText": "Paid in",
+        "Words": [
+          {
+            "WordText": "Paid",
+            "Left": 611,
+            "Top": 294,
+            "Height": 10,
+            "Width": 26
+          },
+          {
+            "WordText": "in",
+            "Left": 637,
+            "Top": 294,
+            "Height": 10,
+            "Width": 10
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 294
+      },
+      {
+        "LineText": "319.34",
+        "Words": [
+          {
+            "WordText": "319.34",
+            "Left": 614,
+            "Top": 345,
+            "Height": 11,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 345
+      },
+      {
+        "LineText": "Balance",
+        "Words": [
+          {
+            "WordText": "Balance",
+            "Left": 711,
+            "Top": 294,
+            "Height": 10,
+            "Width": 47
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 294
+      },
+      {
+        "LineText": "86.908.05",
+        "Words": [
+          {
+            "WordText": "86.908.05",
+            "Left": 706,
+            "Top": 320,
+            "Height": 10,
+            "Width": 52
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 320
+      },
+      {
+        "LineText": "87.227.39",
+        "Words": [
+          {
+            "WordText": "87.227.39",
+            "Left": 706,
+            "Top": 346,
+            "Height": 10,
+            "Width": 52
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 346
+      },
+      {
+        "LineText": "347.22",
+        "Words": [
+          {
+            "WordText": "347.22",
+            "Left": 616,
+            "Top": 408,
+            "Height": 10,
+            "Width": 34
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 408
+      },
+      {
+        "LineText": "86,764.61",
+        "Words": [
+          {
+            "WordText": "86,764.61",
+            "Left": 706,
+            "Top": 408,
+            "Height": 10,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 408
+      },
+      {
+        "LineText": "428.39",
+        "Words": [
+          {
+            "WordText": "428.39",
+            "Left": 615,
+            "Top": 499,
+            "Height": 9,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 9,
+        "MinTop": 499
+      },
+      {
+        "LineText": "1.756.56",
+        "Words": [
+          {
+            "WordText": "1.756.56",
+            "Left": 606,
+            "Top": 528,
+            "Height": 10,
+            "Width": 42
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 528
+      },
+      {
+        "LineText": "661.74",
+        "Words": [
+          {
+            "WordText": "661.74",
+            "Left": 615,
+            "Top": 559,
+            "Height": 10,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 559
+      },
+      {
+        "LineText": "758.89",
+        "Words": [
+          {
+            "WordText": "758.89",
+            "Left": 616,
+            "Top": 620,
+            "Height": 10,
+            "Width": 33
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 620
+      },
+      {
+        "LineText": "78,655.68",
+        "Words": [
+          {
+            "WordText": "78,655.68",
+            "Left": 706,
+            "Top": 499,
+            "Height": 10,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 499
+      },
+      {
+        "LineText": "37.60",
+        "Words": [
+          {
+            "WordText": "37.60",
+            "Left": 510,
+            "Top": 590,
+            "Height": 8,
+            "Width": 29
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 590
+      },
+      {
+        "LineText": "15.414.98",
+        "Words": [
+          {
+            "WordText": "15.414.98",
+            "Left": 491,
+            "Top": 651,
+            "Height": 10,
+            "Width": 47
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 651
+      },
+      {
+        "LineText": "452.64",
+        "Words": [
+          {
+            "WordText": "452.64",
+            "Left": 507,
+            "Top": 682,
+            "Height": 8,
+            "Width": 33
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 682
+      },
+      {
+        "LineText": "20.00",
+        "Words": [
+          {
+            "WordText": "20.00",
+            "Left": 510,
+            "Top": 711,
+            "Height": 8,
+            "Width": 29
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 711
+      },
+      {
+        "LineText": "20.00",
+        "Words": [
+          {
+            "WordText": "20.00",
+            "Left": 510,
+            "Top": 742,
+            "Height": 10,
+            "Width": 29
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 742
+      },
+      {
+        "LineText": "34.80",
+        "Words": [
+          {
+            "WordText": "34.80",
+            "Left": 512,
+            "Top": 803,
+            "Height": 10,
+            "Width": 28
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 803
+      },
+      {
+        "LineText": "241.74",
+        "Words": [
+          {
+            "WordText": "241.74",
+            "Left": 504,
+            "Top": 833,
+            "Height": 9,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 9,
+        "MinTop": 833
+      },
+      {
+        "LineText": "81.036.38",
+        "Words": [
+          {
+            "WordText": "81.036.38",
+            "Left": 706,
+            "Top": 589,
+            "Height": 10,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 589
+      },
+      {
+        "LineText": "647.32",
+        "Words": [
+          {
+            "WordText": "647.32",
+            "Left": 618,
+            "Top": 771,
+            "Height": 11,
+            "Width": 31
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 771
+      },
+      {
+        "LineText": "65,887.65",
+        "Words": [
+          {
+            "WordText": "65,887.65",
+            "Left": 704,
+            "Top": 740,
+            "Height": 12,
+            "Width": 54
+          }
+        ],
+        "MaxHeight": 12,
+        "MinTop": 740
+      },
+      {
+        "LineText": "66,500.17",
+        "Words": [
+          {
+            "WordText": "66,500.17",
+            "Left": 706,
+            "Top": 803,
+            "Height": 10,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 803
+      },
+      {
+        "LineText": "66.604.80",
+        "Words": [
+          {
+            "WordText": "66.604.80",
+            "Left": 707,
+            "Top": 862,
+            "Height": 11,
+            "Width": 51
+          }
+        ],
+        "MaxHeight": 11,
+        "MinTop": 862
+      },
+      {
+        "LineText": "67,207.06",
+        "Words": [
+          {
+            "WordText": "67,207.06",
+            "Left": 709,
+            "Top": 894,
+            "Height": 10,
+            "Width": 49
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 894
+      },
+      {
+        "LineText": "346.37",
+        "Words": [
+          {
+            "WordText": "346.37",
+            "Left": 615,
+            "Top": 863,
+            "Height": 10,
+            "Width": 34
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 863
+      },
+      {
+        "LineText": "602.26",
+        "Words": [
+          {
+            "WordText": "602.26",
+            "Left": 618,
+            "Top": 894,
+            "Height": 10,
+            "Width": 33
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 894
+      },
+      {
+        "LineText": "3.690.83",
+        "Words": [
+          {
+            "WordText": "3.690.83",
+            "Left": 605,
+            "Top": 925,
+            "Height": 8,
+            "Width": 44
+          }
+        ],
+        "MaxHeight": 8,
+        "MinTop": 925
+      },
+      {
+        "LineText": "861.84",
+        "Words": [
+          {
+            "WordText": "861.84",
+            "Left": 615,
+            "Top": 954,
+            "Height": 10,
+            "Width": 36
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 954
+      },
+      {
+        "LineText": "21,660.00",
+        "Words": [
+          {
+            "WordText": "21,660.00",
+            "Left": 491,
+            "Top": 985,
+            "Height": 10,
+            "Width": 47
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 985
+      },
+      {
+        "LineText": "50.099.73",
+        "Words": [
+          {
+            "WordText": "50.099.73",
+            "Left": 706,
+            "Top": 1002,
+            "Height": 10,
+            "Width": 52
+          }
+        ],
+        "MaxHeight": 10,
+        "MinTop": 1002
+      }
+    ],
+    "HasOverlay": true
+  },
+  "TextOrientation": "0",
+  "FileParseExitCode": 1,
+  "ParsedText": "HSBC … UK\n3 February to 2 March 2023\nAccount Name\nROCK AND ROSES SUPPLEMENTS LIMITED\nYour BUSINESS CURRENT ACCOUNT details\nDate\nPayment type and details\n15 Feb 23\n16 Feb 23\n17 Feb 23\n20 Feb 23\n21 Feb 23\n22 Feb 23\n23 Feb 23\n24 Feb 23\n27 Feb 23\nBALANCE BROUGHT FORWARD\nCR\nPayPal\nTransfer 8sbjdp\nSO\nPRICE AND ACCOUNTS\nROCK AND ROSES\nCR\nPayPal\nTransfer bf36pp\nSO\nMAYOOR PATEL\nWAGES\nBP\nThe Oxford Health\nINV-5799\nCR\nPayPal\nTransfer 98gkq8\nCR\nStripe Payments UK\nSTRIPE\nCR\nPayPal\nTransfer fweydp\nVIS\nMSFT * E0600M8IWC\nMSBILL.INFO\nCR\nPayPal\nTransfer 2qd8k8\nBP\nHectic Lifestyles\nSI-00007060\nBP\nHectic Lifestyles\nSI-00007000\nVIS\nREGISTERED OFFICE\nLONDON\nVIS\nREGISTERED OFFICE\nLONDON\nCR\nPayPal\nTransfer 6rt6md\nVIS\nREVIEWS.IO\nLEICESTER\nDD\nSAFESTORE LIMITED\nFIRST PAYMENT\nCR\nPayPal\nTransfer 4ypxtp\nCR\nPayPal\nTransfer gg3v58\nCR\nStripe Payments UK\nSTRIPE\nCR\nPayPal\nTransfer j4sygt\nBP\nThe Oxford Health\nINV-5470\nBALANCE CARRIED FORWARD\n139A North End Croydon Surrey CRO 1TN\nContact tel 03457 60 60 60\nsee reverse for call times\nText phone 03457 125 563\nused by deaf or speech impaired customers\nwww.hsbc.co.uk\nYour Statement\nSortcode Account Number Sheet Number\n40-18-41\n74062426\n10\nPaid out\n810.00\n1.000.00\n7,537.32\nPaid in\n319.34\nBalance\n86.908.05\n87.227.39\n347.22\n86,764.61\n428.39\n1.756.56\n661.74\n758.89\n78,655.68\n37.60\n15.414.98\n452.64\n20.00\n20.00\n34.80\n241.74\n81.036.38\n647.32\n65,887.65\n66,500.17\n66.604.80\n67,207.06\n346.37\n602.26\n3.690.83\n861.84\n21,660.00\n50.099.73",
+  "ErrorMessage": "",
+  "ErrorDetails": ""
+}

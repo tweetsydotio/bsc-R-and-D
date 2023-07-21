@@ -1,0 +1,1631 @@
+[
+  {
+    "x": 477.9,
+    "y": 88.27999999999997,
+    "str": "see reverse for call times",
+    "dir": "ltr",
+    "width": 79.52800000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 410.1,
+    "y": 109.88,
+    "str": "used by deaf or speech impaired customers",
+    "dir": "ltr",
+    "width": 137.74400000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 465.67999999999995,
+    "str": "A",
+    "dir": "ltr",
+    "width": 5.776,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 329.1,
+    "y": 475.5799999999999,
+    "str": ".",
+    "dir": "ltr",
+    "width": 2,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 486.0799999999999,
+    "str": "03 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 486.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 486.0799999999999,
+    "str": "SO",
+    "dir": "ltr",
+    "width": 10.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.22400000000002,
+    "y": 486.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 17.075999999999993,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 486.0799999999999,
+    "str": "MAYOOR PATEL",
+    "dir": "ltr",
+    "width": 62.43999999999999,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 497.47999999999996,
+    "str": "MAYOOR DIV",
+    "dir": "ltr",
+    "width": 51.768,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 208.06800000000007,
+    "y": 497.47999999999996,
+    "str": " ",
+    "dir": "ltr",
+    "width": 168.13199999999992,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 497.47999999999996,
+    "str": "3,500.00",
+    "dir": "ltr",
+    "width": 28,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 508.87999999999994,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 508.87999999999994,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 508.87999999999994,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 520.28,
+    "str": "Transfer 39ck58",
+    "dir": "ltr",
+    "width": 52.648,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 208.94799999999995,
+    "y": 520.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 256.952,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 520.28,
+    "str": "806.90",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 487.9,
+    "y": 520.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.10000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 520.28,
+    "str": "79,615.44",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 531.68,
+    "str": "06 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 531.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 531.68,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 531.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 531.68,
+    "str": "Stripe Payments UK",
+    "dir": "ltr",
+    "width": 65.776,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 543.0799999999999,
+    "str": "STRIPE",
+    "dir": "ltr",
+    "width": 26.672000000000004,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 182.97200000000004,
+    "y": 543.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 276.02799999999996,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 459,
+    "y": 543.0799999999999,
+    "str": "1,347.09",
+    "dir": "ltr",
+    "width": 28,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 554.48,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 554.48,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 554.48,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 565.8799999999999,
+    "str": "Transfer 52jb2d",
+    "dir": "ltr",
+    "width": 51.32000000000001,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 207.61999999999995,
+    "y": 565.8799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 258.28000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 565.8799999999999,
+    "str": "933.68",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 487.9,
+    "y": 565.8799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.10000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 565.8799999999999,
+    "str": "81,896.21",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 577.28,
+    "str": "07 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 577.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 577.28,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 577.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 577.28,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 588.68,
+    "str": "Transfer hfd83j",
+    "dir": "ltr",
+    "width": 49.98400000000001,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 206.28399999999993,
+    "y": 588.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 259.61600000000004,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 588.68,
+    "str": "448.08",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 487.9,
+    "y": 588.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.10000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 588.68,
+    "str": "82,344.29",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 600.0799999999999,
+    "str": "08 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 600.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 600.0799999999999,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 600.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 600.0799999999999,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 611.48,
+    "str": "Transfer 56n52y",
+    "dir": "ltr",
+    "width": 53.096000000000004,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 209.39599999999996,
+    "y": 611.48,
+    "str": " ",
+    "dir": "ltr",
+    "width": 256.504,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 611.48,
+    "str": "315.58",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 487.9,
+    "y": 611.48,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.10000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 611.48,
+    "str": "82,659.87",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 622.8799999999999,
+    "str": "09 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 622.8799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 622.8799999999999,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 622.8799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 622.8799999999999,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 634.28,
+    "str": "Transfer 4pvx44",
+    "dir": "ltr",
+    "width": 53.096000000000004,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 209.39599999999996,
+    "y": 634.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 256.504,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 634.28,
+    "str": "859.29",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 645.68,
+    "str": "VIS",
+    "dir": "ltr",
+    "width": 12.888,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 141.888,
+    "y": 645.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 14.412000000000006,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 645.68,
+    "str": "EE TOPUP VESTA",
+    "dir": "ltr",
+    "width": 66.888,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 657.0799999999999,
+    "str": "EE.CO.UK",
+    "dir": "ltr",
+    "width": 36.44,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 192.74000000000007,
+    "y": 657.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 194.85999999999996,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 387.6,
+    "y": 657.0799999999999,
+    "str": "25.00",
+    "dir": "ltr",
+    "width": 18,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 405.6,
+    "y": 657.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 128.39999999999998,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 657.0799999999999,
+    "str": "83,494.16",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 668.48,
+    "str": "10 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 668.48,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 668.48,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 668.48,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 668.48,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 679.8799999999999,
+    "str": "Transfer 7y82v8",
+    "dir": "ltr",
+    "width": 53.096000000000004,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 209.39599999999996,
+    "y": 679.8799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 256.504,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 679.8799999999999,
+    "str": "406.15",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 487.9,
+    "y": 679.8799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.10000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 679.8799999999999,
+    "str": "83,900.31",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 691.28,
+    "str": "13 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 691.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 691.28,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 691.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 691.28,
+    "str": "Stripe Payments UK",
+    "dir": "ltr",
+    "width": 65.776,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 702.68,
+    "str": "STRIPE",
+    "dir": "ltr",
+    "width": 26.672000000000004,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 182.97200000000004,
+    "y": 702.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 276.02799999999996,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 459,
+    "y": 702.68,
+    "str": "1,830.23",
+    "dir": "ltr",
+    "width": 28,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 714.0799999999999,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 714.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 714.0799999999999,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 725.4799999999999,
+    "str": "Transfer 6y5kmy",
+    "dir": "ltr",
+    "width": 55.32000000000001,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 211.61999999999995,
+    "y": 725.4799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 254.28000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 725.4799999999999,
+    "str": "833.43",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 736.88,
+    "str": "VIS",
+    "dir": "ltr",
+    "width": 12.888,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 141.888,
+    "y": 736.88,
+    "str": " ",
+    "dir": "ltr",
+    "width": 14.412000000000006,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 736.88,
+    "str": "XERO UK INV-142655",
+    "dir": "ltr",
+    "width": 78.208,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 748.28,
+    "str": "MILTON KEYNES",
+    "dir": "ltr",
+    "width": 64.65599999999999,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 220.95600000000007,
+    "y": 748.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 166.64399999999995,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 387.6,
+    "y": 748.28,
+    "str": "43.20",
+    "dir": "ltr",
+    "width": 18,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 405.6,
+    "y": 748.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 128.39999999999998,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 748.28,
+    "str": "86,520.77",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 759.68,
+    "str": "14 Feb 23",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 101.3,
+    "y": 759.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 27.700000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 129,
+    "y": 759.68,
+    "str": "CR",
+    "dir": "ltr",
+    "width": 10.672,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 139.67200000000003,
+    "y": 759.68,
+    "str": " ",
+    "dir": "ltr",
+    "width": 16.627999999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 759.68,
+    "str": "PayPal",
+    "dir": "ltr",
+    "width": 22.224,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 771.0799999999999,
+    "str": "Transfer 6g985t",
+    "dir": "ltr",
+    "width": 51.32000000000001,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 207.61999999999995,
+    "y": 771.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 258.28000000000003,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 465.9,
+    "y": 771.0799999999999,
+    "str": "387.28",
+    "dir": "ltr",
+    "width": 22,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 487.9,
+    "y": 771.0799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.10000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 771.0799999999999,
+    "str": "86,908.05",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 475.28,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 475.28,
+    "str": "02 Feb 23",
+    "dir": "ltr",
+    "width": 32.888000000000005,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 102.18800000000002,
+    "y": 475.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 54.111999999999995,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 475.28,
+    "str": "BALANCE BROUGHT FORWARD",
+    "dir": "ltr",
+    "width": 123.97599999999986,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 280.276,
+    "y": 475.28,
+    "str": " ",
+    "dir": "ltr",
+    "width": 253.724,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 475.28,
+    "str": "82,308.54",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 156.3,
+    "y": 783.9799999999999,
+    "str": "BALANCE CARRIED FORWARD",
+    "dir": "ltr",
+    "width": 116.77599999999977,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 273.076,
+    "y": 783.9799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 260.924,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 534,
+    "y": 783.9799999999999,
+    "str": "86,908.05",
+    "dir": "ltr",
+    "width": 32,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 447.97999999999996,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 447.97999999999996,
+    "str": "Date",
+    "dir": "ltr",
+    "width": 16.752000000000002,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 86.052,
+    "y": 447.97999999999996,
+    "str": " ",
+    "dir": "ltr",
+    "width": 46.54799999999999,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 132.6,
+    "y": 447.97999999999996,
+    "str": "Pay m e nt t y p e and de t ails",
+    "dir": "ltr",
+    "width": 97.31200000000013,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 229.912,
+    "y": 447.97999999999996,
+    "str": " ",
+    "dir": "ltr",
+    "width": 143.28799999999998,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 373.2,
+    "y": 447.97999999999996,
+    "str": "Paid o ut",
+    "dir": "ltr",
+    "width": 30.12400000000009,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 403.324,
+    "y": 447.97999999999996,
+    "str": " ",
+    "dir": "ltr",
+    "width": 58.375999999999976,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 461.7,
+    "y": 447.97999999999996,
+    "str": "Paid in",
+    "dir": "ltr",
+    "width": 24.84800000000008,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 486.548,
+    "y": 447.97999999999996,
+    "str": " ",
+    "dir": "ltr",
+    "width": 50.452,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 537,
+    "y": 447.97999999999996,
+    "str": "Balance",
+    "dir": "ltr",
+    "width": 28.75199999999999,
+    "height": 8,
+    "fontName": "Times"
+  },
+  {
+    "x": 76.8,
+    "y": 162.38,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 76.8,
+    "y": 162.38,
+    "str": "The Secretary ROCK AND ROSES",
+    "dir": "ltr",
+    "width": 129.48300000000003,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 76.8,
+    "y": 173.17999999999995,
+    "str": "SUPPLEMENTS LIMITED",
+    "dir": "ltr",
+    "width": 102.24900000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 76.8,
+    "y": 183.9799999999999,
+    "str": "35 Russell Hill",
+    "dir": "ltr",
+    "width": 54.00900000000002,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 76.8,
+    "y": 194.77999999999997,
+    "str": "Purley",
+    "dir": "ltr",
+    "width": 23.499000000000002,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 76.8,
+    "y": 205.57999999999993,
+    "str": "CR8 2JB",
+    "dir": "ltr",
+    "width": 32.760000000000005,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 68.4,
+    "y": 815.78,
+    "str": "139A North End Croydon Surrey CR0 1TN",
+    "dir": "ltr",
+    "width": 157.491,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 222.67999999999995,
+    "str": "Ope ning Balance",
+    "dir": "ltr",
+    "width": 67.59600000000012,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 443.796,
+    "y": 222.67999999999995,
+    "str": " ",
+    "dir": "ltr",
+    "width": 82.10399999999998,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 525.9,
+    "y": 222.38,
+    "str": "82,308.54",
+    "dir": "ltr",
+    "width": 36.00000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 236.77999999999997,
+    "str": "Paym e nts In",
+    "dir": "ltr",
+    "width": 50.40000000000005,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 426.6,
+    "y": 236.77999999999997,
+    "str": " ",
+    "dir": "ltr",
+    "width": 99.29999999999995,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 525.9,
+    "y": 236.4799999999999,
+    "str": "35,442.29",
+    "dir": "ltr",
+    "width": 36.00000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 251.4799999999999,
+    "str": "Paym e nts Out",
+    "dir": "ltr",
+    "width": 58.002000000000045,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 434.202,
+    "y": 251.4799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 91.69799999999998,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 525.9,
+    "y": 251.17999999999995,
+    "str": "74,093.73",
+    "dir": "ltr",
+    "width": 36.00000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 265.5799999999999,
+    "str": "Clos ing Balance",
+    "dir": "ltr",
+    "width": 62.796000000000106,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 438.996,
+    "y": 265.5799999999999,
+    "str": " ",
+    "dir": "ltr",
+    "width": 86.904,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 525.9,
+    "y": 265.28,
+    "str": "43,657.10",
+    "dir": "ltr",
+    "width": 36.00000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 371.7,
+    "y": 332.78,
+    "str": "GB39HBUK40184174062426",
+    "dir": "ltr",
+    "width": 109.998,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 371.7,
+    "y": 358.5799999999999,
+    "str": "HBUKGB4103W",
+    "dir": "ltr",
+    "width": 64.494,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 68.4,
+    "y": 398.78,
+    "str": "ROCK AND ROSES SUPPLEMENTS LIMITED",
+    "dir": "ltr",
+    "width": 183.75300000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 252.15299999999993,
+    "y": 398.78,
+    "str": " ",
+    "dir": "ltr",
+    "width": 119.54700000000005,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 371.7,
+    "y": 398.78,
+    "str": "40-18-41",
+    "dir": "ltr",
+    "width": 32.99400000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 404.694,
+    "y": 398.78,
+    "str": " ",
+    "dir": "ltr",
+    "width": 26.105999999999995,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 430.8,
+    "y": 398.78,
+    "str": "74062426",
+    "dir": "ltr",
+    "width": 36.00000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 466.8,
+    "y": 398.78,
+    "str": " ",
+    "dir": "ltr",
+    "width": 42.30000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 509.1,
+    "y": 398.78,
+    "str": "9",
+    "dir": "ltr",
+    "width": 4.500000000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 567.6,
+    "y": 306.67999999999995,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 567.6,
+    "y": 306.67999999999995,
+    "str": ".",
+    "dir": "ltr",
+    "width": 2.2500000000000004,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 371.7,
+    "y": 321.9799999999999,
+    "str": "International Bank Account Number",
+    "dir": "ltr",
+    "width": 142.25400000000005,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 371.7,
+    "y": 347.78,
+    "str": "Branch Identifier Code",
+    "dir": "ltr",
+    "width": 89.49600000000001,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 68.4,
+    "y": 386.78,
+    "str": "Acco unt Nam e",
+    "dir": "ltr",
+    "width": 63.395999999999994,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 131.796,
+    "y": 386.78,
+    "str": " ",
+    "dir": "ltr",
+    "width": 239.904,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 371.7,
+    "y": 386.78,
+    "str": "S o rtcode",
+    "dir": "ltr",
+    "width": 38.19599999999998,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 409.89599999999996,
+    "y": 386.78,
+    "str": " ",
+    "dir": "ltr",
+    "width": 20.904000000000053,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 430.8,
+    "y": 386.78,
+    "str": "Acco unt Num ber S he e t Num be r",
+    "dir": "ltr",
+    "width": 141.99599999999998,
+    "height": 9,
+    "fontName": "Times"
+  },
+  {
+    "x": 452.4,
+    "y": 78.07999999999993,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10,
+    "fontName": "Times"
+  },
+  {
+    "x": 452.4,
+    "y": 78.07999999999993,
+    "str": "Contact tel 03457 60 60 60",
+    "dir": "ltr",
+    "width": 108.61000000000001,
+    "height": 10,
+    "fontName": "Times"
+  },
+  {
+    "x": 453.9,
+    "y": 99.67999999999995,
+    "str": "Text phone 03457 125 563",
+    "dir": "ltr",
+    "width": 107.77,
+    "height": 10,
+    "fontName": "Times"
+  },
+  {
+    "x": 495.9,
+    "y": 121.27999999999997,
+    "str": "www.hsbc.co.uk",
+    "dir": "ltr",
+    "width": 66.92999999999999,
+    "height": 10,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 206.77999999999997,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 10,
+    "fontName": "Times"
+  },
+  {
+    "x": 376.2,
+    "y": 206.77999999999997,
+    "str": "Account Summary",
+    "dir": "ltr",
+    "width": 80.27000000000001,
+    "height": 10,
+    "fontName": "Times"
+  },
+  {
+    "x": 68.4,
+    "y": 350.17999999999995,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 12,
+    "fontName": "Times"
+  },
+  {
+    "x": 68.4,
+    "y": 350.17999999999995,
+    "str": "3 February to 2 March 2023",
+    "dir": "ltr",
+    "width": 144.312,
+    "height": 12,
+    "fontName": "Times"
+  },
+  {
+    "x": 69.3,
+    "y": 435.97999999999996,
+    "str": "Your BUSINESS CURRENT ACCOUNT details",
+    "dir": "ltr",
+    "width": 252.33600000000013,
+    "height": 12,
+    "fontName": "Times"
+  },
+  {
+    "x": 453.6,
+    "y": 148.88,
+    "str": "",
+    "dir": "ltr",
+    "width": 0,
+    "height": 16,
+    "fontName": "Times"
+  },
+  {
+    "x": 453.6,
+    "y": 148.88,
+    "str": "Your Statement",
+    "dir": "ltr",
+    "width": 100.88,
+    "height": 16,
+    "fontName": "Times"
+  }
+]

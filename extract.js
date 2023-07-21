@@ -1,20 +1,20 @@
 const PDFExtract = require("pdf.js-extract").PDFExtract;
 const pdfExtract = new PDFExtract();
 const fs = require("fs");
-const buffer = fs.readFileSync("pdf/SoutheastBank.pdf");
+const buffer = fs.readFileSync("pdf/HSBC-1.pdf");
 // const buffer = fs.readFileSync("pdf/SoutheastBank.pdf");
 const options = {}; /* see below */
 const pdf = () =>
     pdfExtract.extractBuffer(buffer, options, (err, data) => {
         if (err) return console.log(err);
         // console.log(data.pages[0].content);
-        const { content } = data.pages[0];
-        // console.log(content);
-        // // console.log(JSON.stringify(content));
+        const { content, pageInfo } = data.pages[0];
+        // console.log(pageInfo);
+        console.log(JSON.stringify(content));
         // fs.writeFileSync('HBAC.json', JSON.stringify(data))
         // console.log(data);
-        const sorted = content.sort((a, b) => a.y - b.y);
-        PrepireForCSV(sorted);
+        // const sorted = content.sort((a, b) => a.y - b.y);
+        // PrepireForCSV(sorted);
     });
 pdf();
 function PrepireForCSV(data) {
