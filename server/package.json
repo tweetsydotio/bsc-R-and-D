@@ -13,6 +13,7 @@
     "express-fileupload": "^1.4.0",
     "lodash": "^4.17.21",
     "ocr-space-api-wrapper": "^2.3.0",
+    "pdf-to-excel": "^0.3.2",
     "pdf.js-extract": "^0.2.1",
     "pdfjs-dist": "^3.8.162"
   }

@@ -1,7 +1,7 @@
 const headers = {
     // max_tokens:2048,
     "Content-Type": "application/json",
-    Authorization: `Bearer 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`, // NEW ${process.env.OPEN_AI_KEY}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
+    Authorization: `Bearer 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`, // NEW ${process.env.OPEN_AI_KEY}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
 },
     chatGPI = `https://api.openai.com/v1/chat/completions`;
 
