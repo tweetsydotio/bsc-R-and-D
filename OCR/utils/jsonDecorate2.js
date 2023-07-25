@@ -1,14 +1,12 @@
 const fs = require("fs"),
     _ = require("lodash");
 
-
 const main = (mainData = []) => {
     const width = 595.44 * 1.25;
-    let row = [];
 
-    for (let i = 0; i < width; i += width / 6) {
-        row.push(Math.round(i));
-    }
+    // for (let i = 0; i < width; i += width / 6) {
+    //     row.push(Math.round(i));
+    // }
     // console.log(row)
     // row = row.slice(0, 6);
     // const lefts = [];
@@ -44,13 +42,25 @@ const main = (mainData = []) => {
             a[c.MinTop - 5].push(c);
         } else if (a[MinTop - 6]) {
             a[c.MinTop - 6].push(c);
+        } else if (a[MinTop - 1]) {
+            a[c.MinTop + 1].push(c);
+        } else if (a[MinTop + 2]) {
+            a[c.MinTop + 2].push(c);
+        } else if (a[MinTop + 3]) {
+            a[c.MinTop + 3].push(c);
+        } else if (a[MinTop + 4]) {
+            a[c.MinTop + 4].push(c);
+        } else if (a[MinTop + 5]) {
+            a[c.MinTop + 5].push(c);
+        } else if (a[MinTop + 6]) {
+            a[c.MinTop + 6].push(c);
         } else a[c.MinTop] = [c];
 
         // console.log(a[MinTop - 1])
 
         /*=============================================
-            =            extra            =
-            =============================================*/
+                                                                            =            extra            =
+                                                                            =============================================*/
         //    const { Left } = c.Words[0];
         //    if (!columns.includes(Left)) {
         //        columns.push(Left);
@@ -66,217 +76,242 @@ const main = (mainData = []) => {
     // // console.log(columns.sort((a, b) => a - b));
 
     /*=============================================
-          =            Row Wise data push            =
-          =============================================*/
+                                          =            Row Wise data push            =
+                                          =============================================*/
 
     const newArrs = [];
-    let header = null
-    for (const single of Object.values(rowsGrouping)) {
+    let header = null,
+        headerIdx = -1;
 
+    for (const single of Object.values(rowsGrouping)) {
         const sorted = single.sort((a, b) => a.Words[0].Left - b.Words[0].Left);
         const firstClmLT = sorted[0]?.LineText;
         const lastClmLT = sorted[sorted.length - 1]?.LineText;
-
-        if ((firstClmLT?.trim?.()?.toLowerCase?.() === 'date' || firstClmLT?.trim?.()?.toLowerCase?.()?.includes('date')) && (lastClmLT?.trim?.()?.toLowerCase?.() === 'balance' || lastClmLT?.trim?.()?.toLowerCase?.()?.includes('balance'))) {
-            console.log(JSON.stringify(sorted), '================================heading==================================')
-
+        headerIdx++;
+        if (
+            (firstClmLT?.trim?.()?.toLowerCase?.() === "date" ||
+                firstClmLT?.trim?.()?.toLowerCase?.()?.includes("date")) &&
+            (lastClmLT?.trim?.()?.toLowerCase?.() === "balance" ||
+                lastClmLT?.trim?.()?.toLowerCase?.()?.includes("balance"))
+        ) {
+            //=============================================== Improve next time
+            header = sorted;
+            break;
         }
-        let copy = JSON.parse(JSON.stringify(row));
-        for (const item of sorted) {
-            const { Words } = item;
-            const [{ Left }] = Words;
-            if (Left < row[1]) {
-                copy[0] = item;
-            } else if (Left > row[1] && Left < row[2]) {
-                copy[1] = item;
-            } else if (Left > row[2] && Left < row[3]) {
-                copy[2] = item;
-            } else if (Left > row[3] && Left < row[4]) {
-                copy[3] = item;
-            } else if (Left > row[4] && Left < row[5]) {
-                copy[4] = item;
-            } else {
-                copy[5] = item;
+    }
+    if (header) {
+        const head = headerDesign(header);
+        const len = head.length;
+        const row = head.map((item, i) => {
+            return item.nextColumn.mid;
+            // if (i === 0) {
+            //     return {
+            // min: i,
+            // max: item.nextColumn.mid,
+            //     };
+            // } else {
+            // return {
+            //     // min: item.nextColumn.Left,
+            //     max: item.nextColumn.mid,
+            // };
+            // }
+        });
+        // console.log(row);
+
+        for (const single of Object.values(rowsGrouping)) {
+            const sorted = single.sort((a, b) => a.Words[0].Left - b.Words[0].Left);
+            const firstClmLT = sorted[0]?.LineText;
+            const lastClmLT = sorted[sorted.length - 1]?.LineText;
+            let copy = JSON.parse(JSON.stringify(row));
+            // console.log(sorted.map(item => ({ a: item.LineText, b: item.Words[0].Left })))
+            sorted.forEach((item, i) => {
+                const { Words } = item;
+                const [{ Left }] = Words;
+                // if (item.LineText === 'Transfer 39ck58') {
+                //     console.log(JSON.stringify(item))
+                // }
+
+                if (row[0] > Left) {
+                    if (typeof copy[i] === "number") {
+                        copy[0] = item;
+                    } else if (Array.isArray(copy[0])) {
+                        copy[0].push(item);
+                    } else {
+                        const obj = copy[0];
+                        copy[0] = [obj, item];
+                    }
+                } else if (Left > row[len - 2]) {
+                    if (typeof copy[4] === "number") {
+                        copy[4] = item;
+                    } else if (Array.isArray(copy[4])) {
+                        copy[4].push(item);
+                    } else {
+                        const obj = copy[0];
+                        copy[4] = [obj, item];
+                    }
+                    // console.log(item.LineText)
+                } else {
+                    // if (row[0] < Left && row[1] > Left) {
+                    //     // console.log(item.LineText, item.Words[0].Left)
+                    //     if (typeof copy[1] === "number") {
+                    //         copy[1] = item;
+                    //     } else if (Array.isArray(copy[1])) {
+                    //         copy[1].push(item);
+                    //     } else {
+                    //         const obj = copy[1];
+                    //         copy[1] = [obj, item];
+                    //     }
+                    // } else if (row[1] < Left && row[2] > Left) {
+                    //     if (typeof copy[2] === "number") {
+                    //         copy[2] = item;
+                    //     } else if (Array.isArray(copy[2])) {
+                    //         copy[2].push(item);
+                    //     } else {
+                    //         const obj = copy[2];
+                    //         copy[2] = [obj, item];
+                    //     }
+                    // } else if (row[2] < Left && row[3] > Left) {
+                    //     if (typeof copy[3] === "number") {
+                    //         copy[3] = item;
+                    //     } else if (Array.isArray(copy[3])) {
+                    //         copy[3].push(item);
+                    //     } else {
+                    //         const obj = copy[3];
+                    //         copy[3] = [obj, item];
+                    //     }
+                    // }
+
+                    row.forEach((r, j) => {
+                        if (j !== len - 1) {
+                            if (Left > r && Left < row[j + 1]) {
+                                const idx = row.indexOf(r) + 1;
+                                if (typeof copy[idx] === "number") {
+                                    copy[idx] = item;
+                                } else if (Array.isArray(copy[idx])) {
+                                    copy[idx].push(item);
+                                } else {
+                                    copy[idx] = [copy[idx], item];
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+            copy = copy.map((im, k) => {
+                return typeof im === "object" ? im : "";
+            });
+            const filtered = copy.filter((im) => im !== "");
+            if (filtered.length) {
+                newArrs.push(copy);
             }
         }
-        copy = copy.map((im, k) => {
-            return typeof im === "object" ? im : '';
-            // return typeof im === "object" ? im : k;
-        });
-        newArrs.push(copy);
     }
-    // console.log()
-    // const commonEmptyColumn = _.intersection(...newArrs);
-    /*=====  End of Row Wise data push  ======*/
-
-    /*=============================================
-              =            CSV            =
-              =============================================*/
-    // const filtered=[];
 
     /* Common empty field filtering */
-    // let csv = "";
-    // for (const single of newArrs) {
-    //     csv +=
-    //         single
-    //             .reduce((a, c, i) => {
-    //                 if (!commonEmptyColumn.includes(i)) {
-    //                     if (typeof c === "object") {
-    //                         const val = c.LineText;
-    //                         if (val.includes(",")) {
-    //                             a.push(`"${val}"`);
-    //                         } else a.push(val);
-    //                     } else {
-    //                         a.push('');
-    //                     }
-    //                 }
-    //                 return a;
-    //             }, [])
-    //             .join(",") + "\n";
-    // }
-    // console.log(csv)
     let csv = "";
     for (const single of newArrs) {
         csv +=
             single
                 .map((item) => {
-                    if (typeof item === "object") {
+                    if (item === "") {
+                        return item;
+                    } else if (Array.isArray(item)) {
+                        // console.log(item?.map?.(im => im.LineText))
+                        return item.reduce((a, c) => {
+                            const val = c?.LineText || "";
+                            a += (val?.includes(",") ? `"${val}"` : val) + " ";
+                            return a;
+                        }, "");
+                    } else {
                         const val = item.LineText;
                         if (val.includes(",")) {
                             return `"${val}"`;
                         } else return val;
-                    } else {
-                        return item;
                     }
                 })
                 .join(",") + "\n";
     }
 
+    // console.log(csv);
     /*=====  End of CSV  ======*/
     // console.log(csv)
-    // fs.writeFileSync('csv/one.csv', csv);
-    // console.log(csv)
+    fs.writeFileSync(`csv-${Date.now()}-c.csv`, csv);
+    // console.log(csv);
 };
 module.exports = main;
-// const file = fs.readFileSync("TextOverlay-0-1689946986940.json");
+const file = fs.readFileSync("TextOverlay-0-1689946986940.json");
 // const file = fs.readFileSync("TextOverlay-1-1689946986941.json");
 // const file = fs.readFileSync("TextOverlay-2-1689946986942.json");
-const file = fs.readFileSync("TextOverlay-3-1689946986942.json");
+// const file = fs.readFileSync("TextOverlay-3-1689946986942.json");
 
 main(JSON.parse(file.toString()).TextOverlay.Lines);
 
-// for (let i = 0; i < width; i += width / 6) {
-// console.log(width * 1.25);
-// }
-// const keys = [
-//     "44",
-//     "95",
-//     "109",
-//     "122",
-//     "139",
-//     "153",
-//     "166",
-//     "184",
-//     "207",
-//     "223",
-//     "225",
-//     "274",
-//     "294",
-//     "320",
-//     "331",
-//     "345",
-//     "346",
-//     "347",
-//     "362",
-//     "376",
-//     "377",
-//     "393",
-//     "408",
-//     "422",
-//     "437",
-//     "453",
-//     "468",
-//     "483",
-//     "484",
-//     "499",
-//     "514",
-//     "528",
-//     "530",
-//     "545",
-//     "559",
-//     "574",
-//     "589",
-//     "590",
-//     "605",
-//     "620",
-//     "636",
-//     "651",
-//     "665",
-//     "666",
-//     "680",
-//     "682",
-//     "696",
-//     "697",
-//     "711",
-//     "726",
-//     "740",
-//     "742",
-//     "756",
-//     "757",
-//     "771",
-//     "773",
-//     "788",
-//     "803",
-//     "817",
-//     "819",
-//     "833",
-//     "834",
-//     "848",
-//     "862",
-//     "863",
-//     "864",
-//     "879",
-//     "894",
-//     "908",
-//     "909",
-//     "910",
-//     "925",
-//     "940",
-//     "954",
-//     "956",
-//     "971",
-//     "985",
-//     "1002",
-//     "1078",
-// ];
-// const keys2 = JSON.parse(JSON.stringify(keys));
+function headerDesign(data = []) {
+    data = data.filter((item) => item.LineText?.trim?.() !== "");
+    const headerWithArea = data.reduce((a, c, i, all) => {
+        if (i === data.length - 1) {
+            const { Words } = c;
+            const { Left, Width } = Words[Words.length - 1];
+            const lft = Left + Width + 100;
+            a.push({ ...c, nextColumn: { Left: lft, mid: lft } }); // Improve next time
+        } else {
+            const {
+                Words: [{ Left }],
+            } = all[i + 1];
+            const { Words: C_Words } = c;
+            const W = C_Words[C_Words.length - 1];
 
-// for (const ss of keys2) {
-//     console.log(ss)
-//     const idx = keys2.indexOf((Number(ss) - 1).toString());
-//     if (idx !== -1) {
-//         keys[idx] = [[keys[idx]], ss];
-//         keys[idx + 1] = null;
-//         // keys[idx + 1].pop();
-//     }
-// }
-
-// for (const ss of keys2) {
-//     // console.log(ss)
-// const idx = keys2.indexOf((Number(ss) - 1).toString());
-// if (idx !== -1) {
-//     keys[idx] = [[keys[idx]], ss];
-//     keys[idx + 1] = null;
-// }
-// }
-// const result = keys2.reduce((a, c, _, all) => {
-//     const idx = all.indexOf((Number(c) - 1).toString());
-//     if (idx !== -1) {
-//         a[idx - 1] = [all[idx], c];
-
-//     } else {
-//         a.push(c)
-//     }
-//     return a;
-// }, [])
-// console.log(result)
+            const addColumn = { ...c, nextColumn: { Left, mid: W.Left + W.Width } };
+            // const addColumn = { ...c, nextColumn: { Left, mid: Left - 20 } };
+            // const addColumn = { ...c, nextColumn: { Left, mid: (Left / 4) * 3 } };
+            a.push(addColumn);
+        }
+        return a;
+    }, []);
+    return headerWithArea;
+}
+const headerArr = [
+    {
+        LineText: "Date",
+        Words: [{ WordText: "Date", Left: 90, Top: 589, Height: 10, Width: 26 }],
+        MaxHeight: 10,
+        MinTop: 589,
+    },
+    {
+        LineText: "Payment type and details",
+        Words: [
+            { WordText: "Payment", Left: 174, Top: 589, Height: 10, Width: 47 },
+            { WordText: "type", Left: 222, Top: 589, Height: 10, Width: 28 },
+            { WordText: "and", Left: 249, Top: 589, Height: 10, Width: 22 },
+            { WordText: "details", Left: 271, Top: 589, Height: 10, Width: 37 },
+        ],
+        MaxHeight: 10,
+        MinTop: 589,
+    },
+    {
+        LineText: "Paid out",
+        Words: [
+            { WordText: "Paid", Left: 495, Top: 588, Height: 10, Width: 24 },
+            { WordText: "out", Left: 519, Top: 589, Height: 10, Width: 21 },
+        ],
+        MaxHeight: 11,
+        MinTop: 588,
+    },
+    {
+        LineText: "Paid in",
+        Words: [
+            { WordText: "Paid", Left: 611, Top: 589, Height: 10, Width: 27 },
+            { WordText: "in", Left: 638, Top: 589, Height: 10, Width: 11 },
+        ],
+        MaxHeight: 10,
+        MinTop: 589,
+    },
+    {
+        LineText: "Balance",
+        Words: [
+            { WordText: "Balance", Left: 712, Top: 589, Height: 10, Width: 46 },
+        ],
+        MaxHeight: 10,
+        MinTop: 589,
+    },
+];
