@@ -1,0 +1,3016 @@
+{
+  "ParsedResults": [
+    {
+      "Overlay": {
+        "Lines": [
+          {
+            "LineText": "ally",
+            "Words": [
+              {
+                "WordText": "ally",
+                "Left": 65,
+                "Top": 13,
+                "Height": 53,
+                "Width": 106
+              }
+            ],
+            "MaxHeight": 53,
+            "MinTop": 13
+          },
+          {
+            "LineText": "COMBINED CUSTOMER STATEMENT",
+            "Words": [
+              {
+                "WordText": "COMBINED",
+                "Left": 437,
+                "Top": 36,
+                "Height": 13,
+                "Width": 96
+              },
+              {
+                "WordText": "CUSTOMER",
+                "Left": 534,
+                "Top": 36,
+                "Height": 13,
+                "Width": 95
+              },
+              {
+                "WordText": "STATEMENT",
+                "Left": 629,
+                "Top": 36,
+                "Height": 13,
+                "Width": 98
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 36
+          },
+          {
+            "LineText": "Statement Date",
+            "Words": [
+              {
+                "WordText": "Statement",
+                "Left": 633,
+                "Top": 69,
+                "Height": 10,
+                "Width": 66
+              },
+              {
+                "WordText": "Date",
+                "Left": 700,
+                "Top": 69,
+                "Height": 10,
+                "Width": 29
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 69
+          },
+          {
+            "LineText": "01/19/2022",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 658,
+                "Top": 83,
+                "Height": 12,
+                "Width": 72
+              },
+              {
+                "WordText": "/",
+                "Left": 658,
+                "Top": 83,
+                "Height": 12,
+                "Width": 72
+              },
+              {
+                "WordText": "19",
+                "Left": 658,
+                "Top": 83,
+                "Height": 12,
+                "Width": 72
+              },
+              {
+                "WordText": "/",
+                "Left": 658,
+                "Top": 83,
+                "Height": 12,
+                "Width": 72
+              },
+              {
+                "WordText": "2022",
+                "Left": 658,
+                "Top": 83,
+                "Height": 12,
+                "Width": 72
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 83
+          },
+          {
+            "LineText": "Page 2",
+            "Words": [
+              {
+                "WordText": "Page",
+                "Left": 684,
+                "Top": 98,
+                "Height": 12,
+                "Width": 35
+              },
+              {
+                "WordText": "2",
+                "Left": 719,
+                "Top": 98,
+                "Height": 12,
+                "Width": 11
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 98
+          },
+          {
+            "LineText": "Customer Care Information",
+            "Words": [
+              {
+                "WordText": "Customer",
+                "Left": 563,
+                "Top": 127,
+                "Height": 10,
+                "Width": 63
+              },
+              {
+                "WordText": "Care",
+                "Left": 625,
+                "Top": 127,
+                "Height": 10,
+                "Width": 30
+              },
+              {
+                "WordText": "Information",
+                "Left": 655,
+                "Top": 127,
+                "Height": 10,
+                "Width": 72
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 127
+          },
+          {
+            "LineText": "Toll Free 877-247-ALLY (2559)",
+            "Words": [
+              {
+                "WordText": "Toll",
+                "Left": 550,
+                "Top": 139,
+                "Height": 13,
+                "Width": 25
+              },
+              {
+                "WordText": "Free",
+                "Left": 575,
+                "Top": 139,
+                "Height": 13,
+                "Width": 29
+              },
+              {
+                "WordText": "877",
+                "Left": 605,
+                "Top": 139,
+                "Height": 13,
+                "Width": 87
+              },
+              {
+                "WordText": "-",
+                "Left": 605,
+                "Top": 139,
+                "Height": 13,
+                "Width": 87
+              },
+              {
+                "WordText": "247",
+                "Left": 605,
+                "Top": 139,
+                "Height": 13,
+                "Width": 87
+              },
+              {
+                "WordText": "-",
+                "Left": 605,
+                "Top": 139,
+                "Height": 13,
+                "Width": 87
+              },
+              {
+                "WordText": "ALLY",
+                "Left": 605,
+                "Top": 139,
+                "Height": 13,
+                "Width": 87
+              },
+              {
+                "WordText": "(",
+                "Left": 692,
+                "Top": 139,
+                "Height": 13,
+                "Width": 38
+              },
+              {
+                "WordText": "2559",
+                "Left": 692,
+                "Top": 139,
+                "Height": 13,
+                "Width": 38
+              },
+              {
+                "WordText": ")",
+                "Left": 692,
+                "Top": 139,
+                "Height": 13,
+                "Width": 38
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 139
+          },
+          {
+            "LineText": "www.ally.com",
+            "Words": [
+              {
+                "WordText": "www.ally.com",
+                "Left": 648,
+                "Top": 155,
+                "Height": 10,
+                "Width": 81
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 155
+          },
+          {
+            "LineText": "Money Market Savings",
+            "Words": [
+              {
+                "WordText": "Money",
+                "Left": 42,
+                "Top": 152,
+                "Height": 12,
+                "Width": 48
+              },
+              {
+                "WordText": "Market",
+                "Left": 90,
+                "Top": 153,
+                "Height": 12,
+                "Width": 43
+              },
+              {
+                "WordText": "Savings",
+                "Left": 133,
+                "Top": 152,
+                "Height": 12,
+                "Width": 50
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 152
+          },
+          {
+            "LineText": "Summary For: Helen Zhao",
+            "Words": [
+              {
+                "WordText": "Summary",
+                "Left": 45,
+                "Top": 165,
+                "Height": 12,
+                "Width": 49
+              },
+              {
+                "WordText": "For",
+                "Left": 94,
+                "Top": 165,
+                "Height": 12,
+                "Width": 29
+              },
+              {
+                "WordText": ":",
+                "Left": 94,
+                "Top": 165,
+                "Height": 12,
+                "Width": 29
+              },
+              {
+                "WordText": "Helen",
+                "Left": 123,
+                "Top": 165,
+                "Height": 12,
+                "Width": 30
+              },
+              {
+                "WordText": "Zhao",
+                "Left": 153,
+                "Top": 165,
+                "Height": 12,
+                "Width": 25
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 165
+          },
+          {
+            "LineText": "Account Number: 3LB29230",
+            "Words": [
+              {
+                "WordText": "Account",
+                "Left": 59,
+                "Top": 207,
+                "Height": 12,
+                "Width": 48
+              },
+              {
+                "WordText": "Number",
+                "Left": 107,
+                "Top": 207,
+                "Height": 12,
+                "Width": 52
+              },
+              {
+                "WordText": ":",
+                "Left": 107,
+                "Top": 207,
+                "Height": 12,
+                "Width": 52
+              },
+              {
+                "WordText": "3LB29230",
+                "Left": 159,
+                "Top": 207,
+                "Height": 12,
+                "Width": 57
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 207
+          },
+          {
+            "LineText": "Product: Money Market Savings Account",
+            "Words": [
+              {
+                "WordText": "Product",
+                "Left": 59,
+                "Top": 227,
+                "Height": 12,
+                "Width": 54
+              },
+              {
+                "WordText": ":",
+                "Left": 59,
+                "Top": 227,
+                "Height": 12,
+                "Width": 54
+              },
+              {
+                "WordText": "Money",
+                "Left": 113,
+                "Top": 227,
+                "Height": 12,
+                "Width": 36
+              },
+              {
+                "WordText": "Market",
+                "Left": 149,
+                "Top": 227,
+                "Height": 12,
+                "Width": 40
+              },
+              {
+                "WordText": "Savings",
+                "Left": 189,
+                "Top": 227,
+                "Height": 12,
+                "Width": 42
+              },
+              {
+                "WordText": "Account",
+                "Left": 231,
+                "Top": 227,
+                "Height": 12,
+                "Width": 44
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 227
+          },
+          {
+            "LineText": "Summary",
+            "Words": [
+              {
+                "WordText": "Summary",
+                "Left": 57,
+                "Top": 284,
+                "Height": 17,
+                "Width": 69
+              }
+            ],
+            "MaxHeight": 17,
+            "MinTop": 284
+          },
+          {
+            "LineText": "Beginning Balance, as of 01/01/2022",
+            "Words": [
+              {
+                "WordText": "Beginning",
+                "Left": 59,
+                "Top": 309,
+                "Height": 13,
+                "Width": 53
+              },
+              {
+                "WordText": "Balance",
+                "Left": 113,
+                "Top": 309,
+                "Height": 13,
+                "Width": 48
+              },
+              {
+                "WordText": ",",
+                "Left": 113,
+                "Top": 309,
+                "Height": 13,
+                "Width": 48
+              },
+              {
+                "WordText": "as",
+                "Left": 161,
+                "Top": 309,
+                "Height": 13,
+                "Width": 16
+              },
+              {
+                "WordText": "of",
+                "Left": 177,
+                "Top": 309,
+                "Height": 13,
+                "Width": 12
+              },
+              {
+                "WordText": "01",
+                "Left": 189,
+                "Top": 309,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "/",
+                "Left": 189,
+                "Top": 309,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "01",
+                "Left": 189,
+                "Top": 309,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "/",
+                "Left": 189,
+                "Top": 309,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "2022",
+                "Left": 189,
+                "Top": 309,
+                "Height": 13,
+                "Width": 60
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 309
+          },
+          {
+            "LineText": "Deposits and Other Credits",
+            "Words": [
+              {
+                "WordText": "Deposits",
+                "Left": 59,
+                "Top": 322,
+                "Height": 12,
+                "Width": 47
+              },
+              {
+                "WordText": "and",
+                "Left": 106,
+                "Top": 322,
+                "Height": 12,
+                "Width": 24
+              },
+              {
+                "WordText": "Other",
+                "Left": 130,
+                "Top": 322,
+                "Height": 12,
+                "Width": 30
+              },
+              {
+                "WordText": "Credits",
+                "Left": 160,
+                "Top": 322,
+                "Height": 12,
+                "Width": 40
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 322
+          },
+          {
+            "LineText": "Interest Paid This Period",
+            "Words": [
+              {
+                "WordText": "Interest",
+                "Left": 55,
+                "Top": 335,
+                "Height": 13,
+                "Width": 45
+              },
+              {
+                "WordText": "Paid",
+                "Left": 100,
+                "Top": 335,
+                "Height": 13,
+                "Width": 25
+              },
+              {
+                "WordText": "This",
+                "Left": 126,
+                "Top": 335,
+                "Height": 13,
+                "Width": 24
+              },
+              {
+                "WordText": "Period",
+                "Left": 150,
+                "Top": 335,
+                "Height": 13,
+                "Width": 39
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 335
+          },
+          {
+            "LineText": "ATM Fees Reimbursed",
+            "Words": [
+              {
+                "WordText": "ATM",
+                "Left": 59,
+                "Top": 348,
+                "Height": 10,
+                "Width": 26
+              },
+              {
+                "WordText": "Fees",
+                "Left": 85,
+                "Top": 348,
+                "Height": 10,
+                "Width": 29
+              },
+              {
+                "WordText": "Reimbursed",
+                "Left": 115,
+                "Top": 348,
+                "Height": 10,
+                "Width": 64
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 348
+          },
+          {
+            "LineText": "Withdrawals and Other Debits",
+            "Words": [
+              {
+                "WordText": "Withdrawals",
+                "Left": 59,
+                "Top": 361,
+                "Height": 10,
+                "Width": 66
+              },
+              {
+                "WordText": "and",
+                "Left": 125,
+                "Top": 361,
+                "Height": 10,
+                "Width": 22
+              },
+              {
+                "WordText": "Other",
+                "Left": 147,
+                "Top": 361,
+                "Height": 10,
+                "Width": 30
+              },
+              {
+                "WordText": "Debits",
+                "Left": 177,
+                "Top": 361,
+                "Height": 10,
+                "Width": 37
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 361
+          },
+          {
+            "LineText": "Ending Balance, as of 01/19/2022",
+            "Words": [
+              {
+                "WordText": "Ending",
+                "Left": 58,
+                "Top": 383,
+                "Height": 12,
+                "Width": 44
+              },
+              {
+                "WordText": "Balance",
+                "Left": 102,
+                "Top": 383,
+                "Height": 12,
+                "Width": 50
+              },
+              {
+                "WordText": ",",
+                "Left": 102,
+                "Top": 383,
+                "Height": 12,
+                "Width": 50
+              },
+              {
+                "WordText": "as",
+                "Left": 152,
+                "Top": 383,
+                "Height": 12,
+                "Width": 16
+              },
+              {
+                "WordText": "of",
+                "Left": 168,
+                "Top": 383,
+                "Height": 12,
+                "Width": 11
+              },
+              {
+                "WordText": "01",
+                "Left": 179,
+                "Top": 383,
+                "Height": 12,
+                "Width": 61
+              },
+              {
+                "WordText": "/",
+                "Left": 179,
+                "Top": 383,
+                "Height": 12,
+                "Width": 61
+              },
+              {
+                "WordText": "19",
+                "Left": 179,
+                "Top": 383,
+                "Height": 12,
+                "Width": 61
+              },
+              {
+                "WordText": "/",
+                "Left": 179,
+                "Top": 383,
+                "Height": 12,
+                "Width": 61
+              },
+              {
+                "WordText": "2022",
+                "Left": 179,
+                "Top": 383,
+                "Height": 12,
+                "Width": 61
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 383
+          },
+          {
+            "LineText": "$10.000.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 298,
+                "Top": 309,
+                "Height": 10,
+                "Width": 60
+              },
+              {
+                "WordText": "10.000.00",
+                "Left": 298,
+                "Top": 309,
+                "Height": 10,
+                "Width": 60
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 309
+          },
+          {
+            "LineText": "$12,264.51",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 296,
+                "Top": 322,
+                "Height": 14,
+                "Width": 62
+              },
+              {
+                "WordText": "12,264.51",
+                "Left": 296,
+                "Top": 322,
+                "Height": 14,
+                "Width": 62
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 322
+          },
+          {
+            "LineText": "$3.63",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 322,
+                "Top": 335,
+                "Height": 13,
+                "Width": 36
+              },
+              {
+                "WordText": "3.63",
+                "Left": 322,
+                "Top": 335,
+                "Height": 13,
+                "Width": 36
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 335
+          },
+          {
+            "LineText": "$10.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 319,
+                "Top": 348,
+                "Height": 11,
+                "Width": 41
+              },
+              {
+                "WordText": "10.00",
+                "Left": 319,
+                "Top": 348,
+                "Height": 11,
+                "Width": 41
+              }
+            ],
+            "MaxHeight": 11,
+            "MinTop": 348
+          },
+          {
+            "LineText": "$14,405.47",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 292,
+                "Top": 361,
+                "Height": 12,
+                "Width": 66
+              },
+              {
+                "WordText": "14,405.47",
+                "Left": 292,
+                "Top": 361,
+                "Height": 12,
+                "Width": 66
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 361
+          },
+          {
+            "LineText": "$7,859.04",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 301,
+                "Top": 383,
+                "Height": 12,
+                "Width": 58
+              },
+              {
+                "WordText": "7,859.04",
+                "Left": 301,
+                "Top": 383,
+                "Height": 12,
+                "Width": 58
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 383
+          },
+          {
+            "LineText": "Overdraft Fee Summary",
+            "Words": [
+              {
+                "WordText": "Overdraft",
+                "Left": 65,
+                "Top": 429,
+                "Height": 14,
+                "Width": 69
+              },
+              {
+                "WordText": "Fee",
+                "Left": 134,
+                "Top": 429,
+                "Height": 14,
+                "Width": 28
+              },
+              {
+                "WordText": "Summary",
+                "Left": 163,
+                "Top": 429,
+                "Height": 14,
+                "Width": 63
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 429
+          },
+          {
+            "LineText": "Overdraft Items Paid",
+            "Words": [
+              {
+                "WordText": "Overdraft",
+                "Left": 68,
+                "Top": 453,
+                "Height": 10,
+                "Width": 51
+              },
+              {
+                "WordText": "Items",
+                "Left": 119,
+                "Top": 453,
+                "Height": 10,
+                "Width": 30
+              },
+              {
+                "WordText": "Paid",
+                "Left": 149,
+                "Top": 453,
+                "Height": 10,
+                "Width": 27
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 453
+          },
+          {
+            "LineText": "Overdraft Items Returned",
+            "Words": [
+              {
+                "WordText": "Overdraft",
+                "Left": 68,
+                "Top": 473,
+                "Height": 10,
+                "Width": 51
+              },
+              {
+                "WordText": "Items",
+                "Left": 119,
+                "Top": 473,
+                "Height": 10,
+                "Width": 30
+              },
+              {
+                "WordText": "Returned",
+                "Left": 149,
+                "Top": 473,
+                "Height": 10,
+                "Width": 51
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 473
+          },
+          {
+            "LineText": "Activity",
+            "Words": [
+              {
+                "WordText": "Activity",
+                "Left": 57,
+                "Top": 515,
+                "Height": 15,
+                "Width": 53
+              }
+            ],
+            "MaxHeight": 15,
+            "MinTop": 515
+          },
+          {
+            "LineText": "Date",
+            "Words": [
+              {
+                "WordText": "Date",
+                "Left": 56,
+                "Top": 541,
+                "Height": 10,
+                "Width": 35
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 541
+          },
+          {
+            "LineText": "Description",
+            "Words": [
+              {
+                "WordText": "Description",
+                "Left": 134,
+                "Top": 541,
+                "Height": 12,
+                "Width": 76
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 541
+          },
+          {
+            "LineText": "01/01/2022 Beginning Balance",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 56,
+                "Top": 562,
+                "Height": 13,
+                "Width": 81
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 562,
+                "Height": 13,
+                "Width": 81
+              },
+              {
+                "WordText": "01",
+                "Left": 56,
+                "Top": 562,
+                "Height": 13,
+                "Width": 81
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 562,
+                "Height": 13,
+                "Width": 81
+              },
+              {
+                "WordText": "2022",
+                "Left": 56,
+                "Top": 562,
+                "Height": 13,
+                "Width": 81
+              },
+              {
+                "WordText": "Beginning",
+                "Left": 137,
+                "Top": 562,
+                "Height": 13,
+                "Width": 59
+              },
+              {
+                "WordText": "Balance",
+                "Left": 196,
+                "Top": 562,
+                "Height": 13,
+                "Width": 48
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 562
+          },
+          {
+            "LineText": "01/02/2022 ATM Withdrawal",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 56,
+                "Top": 585,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 585,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "02",
+                "Left": 56,
+                "Top": 585,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 585,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "2022",
+                "Left": 56,
+                "Top": 585,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "ATM",
+                "Left": 136,
+                "Top": 585,
+                "Height": 10,
+                "Width": 31
+              },
+              {
+                "WordText": "Withdrawal",
+                "Left": 167,
+                "Top": 585,
+                "Height": 10,
+                "Width": 66
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 585
+          },
+          {
+            "LineText": "BANCO POPULAR",
+            "Words": [
+              {
+                "WordText": "BANCO",
+                "Left": 135,
+                "Top": 600,
+                "Height": 10,
+                "Width": 48
+              },
+              {
+                "WordText": "POPULAR",
+                "Left": 183,
+                "Top": 600,
+                "Height": 10,
+                "Width": 69
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 600
+          },
+          {
+            "LineText": "Transaction Fee: $ 3.00",
+            "Words": [
+              {
+                "WordText": "Transaction",
+                "Left": 135,
+                "Top": 614,
+                "Height": 10,
+                "Width": 56
+              },
+              {
+                "WordText": "Fee",
+                "Left": 191,
+                "Top": 614,
+                "Height": 10,
+                "Width": 23
+              },
+              {
+                "WordText": ":",
+                "Left": 191,
+                "Top": 614,
+                "Height": 10,
+                "Width": 23
+              },
+              {
+                "WordText": "$",
+                "Left": 214,
+                "Top": 614,
+                "Height": 10,
+                "Width": 8
+              },
+              {
+                "WordText": "3.00",
+                "Left": 222,
+                "Top": 614,
+                "Height": 10,
+                "Width": 23
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 614
+          },
+          {
+            "LineText": "01/04/2022 Check Card Purchase",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 56,
+                "Top": 633,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 633,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "04",
+                "Left": 56,
+                "Top": 633,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 633,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "2022",
+                "Left": 56,
+                "Top": 633,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "Check",
+                "Left": 136,
+                "Top": 633,
+                "Height": 10,
+                "Width": 40
+              },
+              {
+                "WordText": "Card",
+                "Left": 176,
+                "Top": 633,
+                "Height": 10,
+                "Width": 30
+              },
+              {
+                "WordText": "Purchase",
+                "Left": 205,
+                "Top": 633,
+                "Height": 10,
+                "Width": 58
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 633
+          },
+          {
+            "LineText": "JOHN FITZGERALD O'NEAL",
+            "Words": [
+              {
+                "WordText": "JOHN",
+                "Left": 135,
+                "Top": 646,
+                "Height": 13,
+                "Width": 38
+              },
+              {
+                "WordText": "FITZGERALD",
+                "Left": 174,
+                "Top": 646,
+                "Height": 13,
+                "Width": 83
+              },
+              {
+                "WordText": "O'NEAL",
+                "Left": 258,
+                "Top": 646,
+                "Height": 13,
+                "Width": 46
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 646
+          },
+          {
+            "LineText": "PA",
+            "Words": [
+              {
+                "WordText": "PA",
+                "Left": 132,
+                "Top": 660,
+                "Height": 13,
+                "Width": 24
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 660
+          },
+          {
+            "LineText": "01/05/2022 Direct Deposit",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 55,
+                "Top": 680,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 55,
+                "Top": 680,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "05",
+                "Left": 55,
+                "Top": 680,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 55,
+                "Top": 680,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "2022",
+                "Left": 55,
+                "Top": 680,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "Direct",
+                "Left": 135,
+                "Top": 680,
+                "Height": 10,
+                "Width": 38
+              },
+              {
+                "WordText": "Deposit",
+                "Left": 173,
+                "Top": 680,
+                "Height": 10,
+                "Width": 47
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 680
+          },
+          {
+            "LineText": "DIRECT CASH",
+            "Words": [
+              {
+                "WordText": "DIRECT",
+                "Left": 134,
+                "Top": 693,
+                "Height": 12,
+                "Width": 52
+              },
+              {
+                "WordText": "CASH",
+                "Left": 186,
+                "Top": 693,
+                "Height": 12,
+                "Width": 40
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 693
+          },
+          {
+            "LineText": "TRANSFER",
+            "Words": [
+              {
+                "WordText": "TRANSFER",
+                "Left": 134,
+                "Top": 708,
+                "Height": 12,
+                "Width": 72
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 708
+          },
+          {
+            "LineText": "01/07/2022 Check Card Purchase",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 55,
+                "Top": 726,
+                "Height": 12,
+                "Width": 81
+              },
+              {
+                "WordText": "/",
+                "Left": 55,
+                "Top": 726,
+                "Height": 12,
+                "Width": 81
+              },
+              {
+                "WordText": "07",
+                "Left": 55,
+                "Top": 726,
+                "Height": 12,
+                "Width": 81
+              },
+              {
+                "WordText": "/",
+                "Left": 55,
+                "Top": 726,
+                "Height": 12,
+                "Width": 81
+              },
+              {
+                "WordText": "2022",
+                "Left": 55,
+                "Top": 726,
+                "Height": 12,
+                "Width": 81
+              },
+              {
+                "WordText": "Check",
+                "Left": 136,
+                "Top": 726,
+                "Height": 12,
+                "Width": 39
+              },
+              {
+                "WordText": "Card",
+                "Left": 175,
+                "Top": 726,
+                "Height": 12,
+                "Width": 32
+              },
+              {
+                "WordText": "Purchase",
+                "Left": 207,
+                "Top": 726,
+                "Height": 12,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 726
+          },
+          {
+            "LineText": "CLARA LEE, NJ",
+            "Words": [
+              {
+                "WordText": "CLARA",
+                "Left": 135,
+                "Top": 741,
+                "Height": 14,
+                "Width": 46
+              },
+              {
+                "WordText": "LEE",
+                "Left": 181,
+                "Top": 741,
+                "Height": 14,
+                "Width": 32
+              },
+              {
+                "WordText": ",",
+                "Left": 181,
+                "Top": 741,
+                "Height": 14,
+                "Width": 32
+              },
+              {
+                "WordText": "NJ",
+                "Left": 214,
+                "Top": 741,
+                "Height": 14,
+                "Width": 18
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 741
+          },
+          {
+            "LineText": "01/08/2022 Check Card Purchase",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 55,
+                "Top": 759,
+                "Height": 12,
+                "Width": 78
+              },
+              {
+                "WordText": "/",
+                "Left": 55,
+                "Top": 759,
+                "Height": 12,
+                "Width": 78
+              },
+              {
+                "WordText": "08",
+                "Left": 55,
+                "Top": 759,
+                "Height": 12,
+                "Width": 78
+              },
+              {
+                "WordText": "/",
+                "Left": 55,
+                "Top": 759,
+                "Height": 12,
+                "Width": 78
+              },
+              {
+                "WordText": "2022",
+                "Left": 55,
+                "Top": 759,
+                "Height": 12,
+                "Width": 78
+              },
+              {
+                "WordText": "Check",
+                "Left": 133,
+                "Top": 759,
+                "Height": 12,
+                "Width": 42
+              },
+              {
+                "WordText": "Card",
+                "Left": 175,
+                "Top": 759,
+                "Height": 12,
+                "Width": 32
+              },
+              {
+                "WordText": "Purchase",
+                "Left": 207,
+                "Top": 759,
+                "Height": 12,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 759
+          },
+          {
+            "LineText": "UMA'S ISABELA. PA",
+            "Words": [
+              {
+                "WordText": "UMA'S",
+                "Left": 135,
+                "Top": 774,
+                "Height": 12,
+                "Width": 45
+              },
+              {
+                "WordText": "ISABELA",
+                "Left": 181,
+                "Top": 774,
+                "Height": 12,
+                "Width": 60
+              },
+              {
+                "WordText": ".",
+                "Left": 181,
+                "Top": 774,
+                "Height": 12,
+                "Width": 60
+              },
+              {
+                "WordText": "PA",
+                "Left": 241,
+                "Top": 774,
+                "Height": 12,
+                "Width": 19
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 774
+          },
+          {
+            "LineText": "01/10/2022 Check Card Purchase",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 56,
+                "Top": 793,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 793,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "10",
+                "Left": 56,
+                "Top": 793,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 793,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "2022",
+                "Left": 56,
+                "Top": 793,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "Check",
+                "Left": 136,
+                "Top": 793,
+                "Height": 10,
+                "Width": 40
+              },
+              {
+                "WordText": "Card",
+                "Left": 176,
+                "Top": 793,
+                "Height": 10,
+                "Width": 31
+              },
+              {
+                "WordText": "Purchase",
+                "Left": 207,
+                "Top": 793,
+                "Height": 10,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 793
+          },
+          {
+            "LineText": "UMA'S ISABELA, PA",
+            "Words": [
+              {
+                "WordText": "UMA'S",
+                "Left": 135,
+                "Top": 807,
+                "Height": 12,
+                "Width": 45
+              },
+              {
+                "WordText": "ISABELA",
+                "Left": 181,
+                "Top": 807,
+                "Height": 12,
+                "Width": 60
+              },
+              {
+                "WordText": ",",
+                "Left": 181,
+                "Top": 807,
+                "Height": 12,
+                "Width": 60
+              },
+              {
+                "WordText": "PA",
+                "Left": 241,
+                "Top": 807,
+                "Height": 12,
+                "Width": 19
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 807
+          },
+          {
+            "LineText": "01/11/2022 Check Card Purchase",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 56,
+                "Top": 826,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 826,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "11",
+                "Left": 56,
+                "Top": 826,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "/",
+                "Left": 56,
+                "Top": 826,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "2022",
+                "Left": 56,
+                "Top": 826,
+                "Height": 10,
+                "Width": 80
+              },
+              {
+                "WordText": "Check",
+                "Left": 136,
+                "Top": 826,
+                "Height": 10,
+                "Width": 38
+              },
+              {
+                "WordText": "Card",
+                "Left": 174,
+                "Top": 826,
+                "Height": 10,
+                "Width": 32
+              },
+              {
+                "WordText": "Purchase",
+                "Left": 206,
+                "Top": 826,
+                "Height": 10,
+                "Width": 56
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 826
+          },
+          {
+            "LineText": "LIAM MICHAELS,",
+            "Words": [
+              {
+                "WordText": "LIAM",
+                "Left": 134,
+                "Top": 840,
+                "Height": 14,
+                "Width": 36
+              },
+              {
+                "WordText": "MICHAELS",
+                "Left": 171,
+                "Top": 840,
+                "Height": 14,
+                "Width": 71
+              },
+              {
+                "WordText": ",",
+                "Left": 171,
+                "Top": 840,
+                "Height": 14,
+                "Width": 71
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 840
+          },
+          {
+            "LineText": "NJ",
+            "Words": [
+              {
+                "WordText": "NJ",
+                "Left": 135,
+                "Top": 855,
+                "Height": 10,
+                "Width": 19
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 855
+          },
+          {
+            "LineText": "01/11/2022 Check Card Purchase",
+            "Words": [
+              {
+                "WordText": "01",
+                "Left": 58,
+                "Top": 873,
+                "Height": 10,
+                "Width": 79
+              },
+              {
+                "WordText": "/",
+                "Left": 58,
+                "Top": 873,
+                "Height": 10,
+                "Width": 79
+              },
+              {
+                "WordText": "11",
+                "Left": 58,
+                "Top": 873,
+                "Height": 10,
+                "Width": 79
+              },
+              {
+                "WordText": "/",
+                "Left": 58,
+                "Top": 873,
+                "Height": 10,
+                "Width": 79
+              },
+              {
+                "WordText": "2022",
+                "Left": 58,
+                "Top": 873,
+                "Height": 10,
+                "Width": 79
+              },
+              {
+                "WordText": "Check",
+                "Left": 136,
+                "Top": 873,
+                "Height": 10,
+                "Width": 38
+              },
+              {
+                "WordText": "Card",
+                "Left": 175,
+                "Top": 873,
+                "Height": 10,
+                "Width": 32
+              },
+              {
+                "WordText": "Purchase",
+                "Left": 207,
+                "Top": 873,
+                "Height": 10,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 873
+          },
+          {
+            "LineText": "TWO PINE MARKET, PA",
+            "Words": [
+              {
+                "WordText": "TWO",
+                "Left": 135,
+                "Top": 886,
+                "Height": 14,
+                "Width": 33
+              },
+              {
+                "WordText": "PINE",
+                "Left": 169,
+                "Top": 886,
+                "Height": 14,
+                "Width": 34
+              },
+              {
+                "WordText": "MARKET",
+                "Left": 203,
+                "Top": 886,
+                "Height": 14,
+                "Width": 57
+              },
+              {
+                "WordText": ",",
+                "Left": 203,
+                "Top": 886,
+                "Height": 14,
+                "Width": 57
+              },
+              {
+                "WordText": "PA",
+                "Left": 261,
+                "Top": 886,
+                "Height": 14,
+                "Width": 20
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 886
+          },
+          {
+            "LineText": "639 AGUADILLA, PR",
+            "Words": [
+              {
+                "WordText": "639",
+                "Left": 262,
+                "Top": 600,
+                "Height": 13,
+                "Width": 29
+              },
+              {
+                "WordText": "AGUADILLA",
+                "Left": 291,
+                "Top": 600,
+                "Height": 13,
+                "Width": 78
+              },
+              {
+                "WordText": ",",
+                "Left": 291,
+                "Top": 600,
+                "Height": 13,
+                "Width": 78
+              },
+              {
+                "WordText": "PR",
+                "Left": 370,
+                "Top": 600,
+                "Height": 13,
+                "Width": 20
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 600
+          },
+          {
+            "LineText": "Ally Bank Member FDIC",
+            "Words": [
+              {
+                "WordText": "Ally",
+                "Left": 45,
+                "Top": 947,
+                "Height": 10,
+                "Width": 21
+              },
+              {
+                "WordText": "Bank",
+                "Left": 66,
+                "Top": 947,
+                "Height": 10,
+                "Width": 24
+              },
+              {
+                "WordText": "Member",
+                "Left": 90,
+                "Top": 947,
+                "Height": 10,
+                "Width": 40
+              },
+              {
+                "WordText": "FDIC",
+                "Left": 130,
+                "Top": 947,
+                "Height": 10,
+                "Width": 26
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 947
+          },
+          {
+            "LineText": "Open Date: 01/01/2022",
+            "Words": [
+              {
+                "WordText": "Open",
+                "Left": 390,
+                "Top": 207,
+                "Height": 13,
+                "Width": 33
+              },
+              {
+                "WordText": "Date",
+                "Left": 423,
+                "Top": 207,
+                "Height": 13,
+                "Width": 32
+              },
+              {
+                "WordText": ":",
+                "Left": 423,
+                "Top": 207,
+                "Height": 13,
+                "Width": 32
+              },
+              {
+                "WordText": "01",
+                "Left": 455,
+                "Top": 207,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "/",
+                "Left": 455,
+                "Top": 207,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "01",
+                "Left": 455,
+                "Top": 207,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "/",
+                "Left": 455,
+                "Top": 207,
+                "Height": 13,
+                "Width": 60
+              },
+              {
+                "WordText": "2022",
+                "Left": 455,
+                "Top": 207,
+                "Height": 13,
+                "Width": 60
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 207
+          },
+          {
+            "LineText": "Account Ownership: Single",
+            "Words": [
+              {
+                "WordText": "Account",
+                "Left": 390,
+                "Top": 227,
+                "Height": 12,
+                "Width": 48
+              },
+              {
+                "WordText": "Ownership",
+                "Left": 438,
+                "Top": 227,
+                "Height": 12,
+                "Width": 69
+              },
+              {
+                "WordText": ":",
+                "Left": 438,
+                "Top": 227,
+                "Height": 12,
+                "Width": 69
+              },
+              {
+                "WordText": "Single",
+                "Left": 507,
+                "Top": 227,
+                "Height": 12,
+                "Width": 35
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 227
+          },
+          {
+            "LineText": "Days In Statement Period",
+            "Words": [
+              {
+                "WordText": "Days",
+                "Left": 390,
+                "Top": 309,
+                "Height": 12,
+                "Width": 29
+              },
+              {
+                "WordText": "In",
+                "Left": 420,
+                "Top": 309,
+                "Height": 12,
+                "Width": 11
+              },
+              {
+                "WordText": "Statement",
+                "Left": 431,
+                "Top": 309,
+                "Height": 12,
+                "Width": 56
+              },
+              {
+                "WordText": "Period",
+                "Left": 487,
+                "Top": 309,
+                "Height": 12,
+                "Width": 35
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 309
+          },
+          {
+            "LineText": "Annual Percentage Yield Earned",
+            "Words": [
+              {
+                "WordText": "Annual",
+                "Left": 389,
+                "Top": 322,
+                "Height": 12,
+                "Width": 41
+              },
+              {
+                "WordText": "Percentage",
+                "Left": 430,
+                "Top": 322,
+                "Height": 12,
+                "Width": 60
+              },
+              {
+                "WordText": "Yield",
+                "Left": 490,
+                "Top": 322,
+                "Height": 12,
+                "Width": 29
+              },
+              {
+                "WordText": "Earned",
+                "Left": 519,
+                "Top": 322,
+                "Height": 12,
+                "Width": 41
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 322
+          },
+          {
+            "LineText": "Average Daily Balance This Period",
+            "Words": [
+              {
+                "WordText": "Average",
+                "Left": 387,
+                "Top": 335,
+                "Height": 12,
+                "Width": 48
+              },
+              {
+                "WordText": "Daily",
+                "Left": 435,
+                "Top": 335,
+                "Height": 12,
+                "Width": 30
+              },
+              {
+                "WordText": "Balance",
+                "Left": 466,
+                "Top": 335,
+                "Height": 12,
+                "Width": 43
+              },
+              {
+                "WordText": "This",
+                "Left": 509,
+                "Top": 335,
+                "Height": 12,
+                "Width": 24
+              },
+              {
+                "WordText": "Period",
+                "Left": 533,
+                "Top": 335,
+                "Height": 12,
+                "Width": 35
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 335
+          },
+          {
+            "LineText": "Interest Paid Year to Date",
+            "Words": [
+              {
+                "WordText": "Interest",
+                "Left": 390,
+                "Top": 348,
+                "Height": 12,
+                "Width": 41
+              },
+              {
+                "WordText": "Paid",
+                "Left": 431,
+                "Top": 348,
+                "Height": 12,
+                "Width": 26
+              },
+              {
+                "WordText": "Year",
+                "Left": 457,
+                "Top": 348,
+                "Height": 12,
+                "Width": 27
+              },
+              {
+                "WordText": "to",
+                "Left": 484,
+                "Top": 348,
+                "Height": 12,
+                "Width": 13
+              },
+              {
+                "WordText": "Date",
+                "Left": 497,
+                "Top": 348,
+                "Height": 12,
+                "Width": 27
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 348
+          },
+          {
+            "LineText": "19",
+            "Words": [
+              {
+                "WordText": "19",
+                "Left": 699,
+                "Top": 309,
+                "Height": 10,
+                "Width": 16
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 309
+          },
+          {
+            "LineText": "0.90%",
+            "Words": [
+              {
+                "WordText": "0.90",
+                "Left": 679,
+                "Top": 322,
+                "Height": 12,
+                "Width": 36
+              },
+              {
+                "WordText": "%",
+                "Left": 679,
+                "Top": 322,
+                "Height": 12,
+                "Width": 36
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 322
+          },
+          {
+            "LineText": "$4,774.74",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 658,
+                "Top": 335,
+                "Height": 13,
+                "Width": 58
+              },
+              {
+                "WordText": "4,774.74",
+                "Left": 658,
+                "Top": 335,
+                "Height": 13,
+                "Width": 58
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 335
+          },
+          {
+            "LineText": "$6.40",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 684,
+                "Top": 348,
+                "Height": 10,
+                "Width": 32
+              },
+              {
+                "WordText": "6.40",
+                "Left": 684,
+                "Top": 348,
+                "Height": 10,
+                "Width": 32
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 348
+          },
+          {
+            "LineText": "This Period",
+            "Words": [
+              {
+                "WordText": "This",
+                "Left": 426,
+                "Top": 430,
+                "Height": 10,
+                "Width": 24
+              },
+              {
+                "WordText": "Period",
+                "Left": 450,
+                "Top": 430,
+                "Height": 10,
+                "Width": 29
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 430
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 446,
+                "Top": 453,
+                "Height": 12,
+                "Width": 33
+              },
+              {
+                "WordText": "0.00",
+                "Left": 446,
+                "Top": 453,
+                "Height": 12,
+                "Width": 33
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 453
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 448,
+                "Top": 472,
+                "Height": 10,
+                "Width": 35
+              },
+              {
+                "WordText": "0.00",
+                "Left": 448,
+                "Top": 472,
+                "Height": 10,
+                "Width": 35
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 472
+          },
+          {
+            "LineText": "Credits",
+            "Words": [
+              {
+                "WordText": "Credits",
+                "Left": 439,
+                "Top": 541,
+                "Height": 10,
+                "Width": 50
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 541
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 452,
+                "Top": 586,
+                "Height": 12,
+                "Width": 37
+              },
+              {
+                "WordText": "0.00",
+                "Left": 452,
+                "Top": 586,
+                "Height": 12,
+                "Width": 37
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 586
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 452,
+                "Top": 633,
+                "Height": 10,
+                "Width": 37
+              },
+              {
+                "WordText": "0.00",
+                "Left": 452,
+                "Top": 633,
+                "Height": 10,
+                "Width": 37
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 633
+          },
+          {
+            "LineText": "$5,000.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 426,
+                "Top": 679,
+                "Height": 14,
+                "Width": 62
+              },
+              {
+                "WordText": "5,000.00",
+                "Left": 426,
+                "Top": 679,
+                "Height": 14,
+                "Width": 62
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 679
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 450,
+                "Top": 726,
+                "Height": 10,
+                "Width": 39
+              },
+              {
+                "WordText": "0.00",
+                "Left": 450,
+                "Top": 726,
+                "Height": 10,
+                "Width": 39
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 726
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 449,
+                "Top": 760,
+                "Height": 12,
+                "Width": 39
+              },
+              {
+                "WordText": "0.00",
+                "Left": 449,
+                "Top": 760,
+                "Height": 12,
+                "Width": 39
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 760
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 452,
+                "Top": 793,
+                "Height": 12,
+                "Width": 37
+              },
+              {
+                "WordText": "0.00",
+                "Left": 452,
+                "Top": 793,
+                "Height": 12,
+                "Width": 37
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 793
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 452,
+                "Top": 826,
+                "Height": 10,
+                "Width": 39
+              },
+              {
+                "WordText": "0.00",
+                "Left": 452,
+                "Top": 826,
+                "Height": 10,
+                "Width": 39
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 826
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 452,
+                "Top": 873,
+                "Height": 12,
+                "Width": 37
+              },
+              {
+                "WordText": "0.00",
+                "Left": 452,
+                "Top": 873,
+                "Height": 12,
+                "Width": 37
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 873
+          },
+          {
+            "LineText": "Year-to-Date",
+            "Words": [
+              {
+                "WordText": "Year",
+                "Left": 551,
+                "Top": 430,
+                "Height": 11,
+                "Width": 59
+              },
+              {
+                "WordText": "-",
+                "Left": 551,
+                "Top": 430,
+                "Height": 11,
+                "Width": 59
+              },
+              {
+                "WordText": "to",
+                "Left": 551,
+                "Top": 430,
+                "Height": 11,
+                "Width": 59
+              },
+              {
+                "WordText": "-",
+                "Left": 551,
+                "Top": 430,
+                "Height": 11,
+                "Width": 59
+              },
+              {
+                "WordText": "Date",
+                "Left": 551,
+                "Top": 430,
+                "Height": 11,
+                "Width": 59
+              }
+            ],
+            "MaxHeight": 11,
+            "MinTop": 430
+          },
+          {
+            "LineText": "$0.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 578,
+                "Top": 453,
+                "Height": 12,
+                "Width": 33
+              },
+              {
+                "WordText": "0.00",
+                "Left": 578,
+                "Top": 453,
+                "Height": 12,
+                "Width": 33
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 453
+          },
+          {
+            "LineText": "50.00",
+            "Words": [
+              {
+                "WordText": "50.00",
+                "Left": 580,
+                "Top": 472,
+                "Height": 11,
+                "Width": 32
+              }
+            ],
+            "MaxHeight": 11,
+            "MinTop": 472
+          },
+          {
+            "LineText": "Debits",
+            "Words": [
+              {
+                "WordText": "Debits",
+                "Left": 547,
+                "Top": 541,
+                "Height": 12,
+                "Width": 46
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 541
+          },
+          {
+            "LineText": "-$503.00",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 550,
+                "Top": 586,
+                "Height": 12,
+                "Width": 52
+              },
+              {
+                "WordText": "503.00",
+                "Left": 550,
+                "Top": 586,
+                "Height": 12,
+                "Width": 52
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 586
+          },
+          {
+            "LineText": "-$5.200.00",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 538,
+                "Top": 633,
+                "Height": 13,
+                "Width": 65
+              },
+              {
+                "WordText": "5.200.00",
+                "Left": 538,
+                "Top": 633,
+                "Height": 13,
+                "Width": 65
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 633
+          },
+          {
+            "LineText": "-$0.00",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 563,
+                "Top": 678,
+                "Height": 14,
+                "Width": 41
+              },
+              {
+                "WordText": "0.00",
+                "Left": 563,
+                "Top": 678,
+                "Height": 14,
+                "Width": 41
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 678
+          },
+          {
+            "LineText": "-$33.82",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 557,
+                "Top": 728,
+                "Height": 12,
+                "Width": 46
+              },
+              {
+                "WordText": "33.82",
+                "Left": 557,
+                "Top": 728,
+                "Height": 12,
+                "Width": 46
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 728
+          },
+          {
+            "LineText": "-$23.42",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 555,
+                "Top": 761,
+                "Height": 12,
+                "Width": 46
+              },
+              {
+                "WordText": "23.42",
+                "Left": 555,
+                "Top": 761,
+                "Height": 12,
+                "Width": 46
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 761
+          },
+          {
+            "LineText": "-$40.68",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 558,
+                "Top": 794,
+                "Height": 12,
+                "Width": 45
+              },
+              {
+                "WordText": "40.68",
+                "Left": 558,
+                "Top": 794,
+                "Height": 12,
+                "Width": 45
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 794
+          },
+          {
+            "LineText": "-$20.05",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 558,
+                "Top": 827,
+                "Height": 12,
+                "Width": 43
+              },
+              {
+                "WordText": "20.05",
+                "Left": 558,
+                "Top": 827,
+                "Height": 12,
+                "Width": 43
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 827
+          },
+          {
+            "LineText": "-$16.00",
+            "Words": [
+              {
+                "WordText": "-$",
+                "Left": 555,
+                "Top": 873,
+                "Height": 12,
+                "Width": 45
+              },
+              {
+                "WordText": "16.00",
+                "Left": 555,
+                "Top": 873,
+                "Height": 12,
+                "Width": 45
+              }
+            ],
+            "MaxHeight": 12,
+            "MinTop": 873
+          },
+          {
+            "LineText": "Balance",
+            "Words": [
+              {
+                "WordText": "Balance",
+                "Left": 643,
+                "Top": 541,
+                "Height": 10,
+                "Width": 55
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 541
+          },
+          {
+            "LineText": "$10,000.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 636,
+                "Top": 562,
+                "Height": 15,
+                "Width": 71
+              },
+              {
+                "WordText": "10,000.00",
+                "Left": 636,
+                "Top": 562,
+                "Height": 15,
+                "Width": 71
+              }
+            ],
+            "MaxHeight": 15,
+            "MinTop": 562
+          },
+          {
+            "LineText": "$9,407.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 643,
+                "Top": 585,
+                "Height": 15,
+                "Width": 62
+              },
+              {
+                "WordText": "9,407.00",
+                "Left": 643,
+                "Top": 585,
+                "Height": 15,
+                "Width": 62
+              }
+            ],
+            "MaxHeight": 15,
+            "MinTop": 585
+          },
+          {
+            "LineText": "$4,207.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 643,
+                "Top": 633,
+                "Height": 13,
+                "Width": 63
+              },
+              {
+                "WordText": "4,207.00",
+                "Left": 643,
+                "Top": 633,
+                "Height": 13,
+                "Width": 63
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 633
+          },
+          {
+            "LineText": "$9,207.00",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 643,
+                "Top": 679,
+                "Height": 14,
+                "Width": 63
+              },
+              {
+                "WordText": "9,207.00",
+                "Left": 643,
+                "Top": 679,
+                "Height": 14,
+                "Width": 63
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 679
+          },
+          {
+            "LineText": "$9,173.18",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 640,
+                "Top": 726,
+                "Height": 14,
+                "Width": 66
+              },
+              {
+                "WordText": "9,173.18",
+                "Left": 640,
+                "Top": 726,
+                "Height": 14,
+                "Width": 66
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 726
+          },
+          {
+            "LineText": "$9,149.76",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 643,
+                "Top": 759,
+                "Height": 14,
+                "Width": 64
+              },
+              {
+                "WordText": "9,149.76",
+                "Left": 643,
+                "Top": 759,
+                "Height": 14,
+                "Width": 64
+              }
+            ],
+            "MaxHeight": 14,
+            "MinTop": 759
+          },
+          {
+            "LineText": "$9,109.08",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 642,
+                "Top": 792,
+                "Height": 15,
+                "Width": 65
+              },
+              {
+                "WordText": "9,109.08",
+                "Left": 642,
+                "Top": 792,
+                "Height": 15,
+                "Width": 65
+              }
+            ],
+            "MaxHeight": 15,
+            "MinTop": 792
+          },
+          {
+            "LineText": "$9,089.03",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 643,
+                "Top": 826,
+                "Height": 13,
+                "Width": 63
+              },
+              {
+                "WordText": "9,089.03",
+                "Left": 643,
+                "Top": 826,
+                "Height": 13,
+                "Width": 63
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 826
+          },
+          {
+            "LineText": "$9,073.03",
+            "Words": [
+              {
+                "WordText": "$",
+                "Left": 645,
+                "Top": 873,
+                "Height": 13,
+                "Width": 62
+              },
+              {
+                "WordText": "9,073.03",
+                "Left": 645,
+                "Top": 873,
+                "Height": 13,
+                "Width": 62
+              }
+            ],
+            "MaxHeight": 13,
+            "MinTop": 873
+          },
+          {
+            "LineText": "STMTCMB100 05/2013",
+            "Words": [
+              {
+                "WordText": "STMTCMB100",
+                "Left": 635,
+                "Top": 945,
+                "Height": 10,
+                "Width": 61
+              },
+              {
+                "WordText": "05",
+                "Left": 696,
+                "Top": 945,
+                "Height": 10,
+                "Width": 35
+              },
+              {
+                "WordText": "/",
+                "Left": 696,
+                "Top": 945,
+                "Height": 10,
+                "Width": 35
+              },
+              {
+                "WordText": "2013",
+                "Left": 696,
+                "Top": 945,
+                "Height": 10,
+                "Width": 35
+              }
+            ],
+            "MaxHeight": 10,
+            "MinTop": 945
+          },
+          {
+            "LineText": "2253017903434357006002400623903352000 02 STMTOMBI00",
+            "Words": [
+              {
+                "WordText": "2253017903434357006002400623903352000",
+                "Left": 580,
+                "Top": 970,
+                "Height": 7,
+                "Width": 128
+              },
+              {
+                "WordText": "02",
+                "Left": 707,
+                "Top": 970,
+                "Height": 7,
+                "Width": 11
+              },
+              {
+                "WordText": "STMTOMBI00",
+                "Left": 718,
+                "Top": 970,
+                "Height": 7,
+                "Width": 45
+              }
+            ],
+            "MaxHeight": 7,
+            "MinTop": 970
+          }
+        ],
+        "HasOverlay": true
+      },
+      "FileParseExitCode": 1,
+      "TextOrientation": "0",
+      "ParsedText": "ally\nCOMBINED CUSTOMER STATEMENT\nStatement Date\n01/19/2022\nPage 2\nCustomer Care Information\nToll Free 877-247-ALLY (2559)\nwww.ally.com\nMoney Market Savings\nSummary For: Helen Zhao\nAccount Number: 3LB29230\nProduct: Money Market Savings Account\nSummary\nBeginning Balance, as of 01/01/2022\nDeposits and Other Credits\nInterest Paid This Period\nATM Fees Reimbursed\nWithdrawals and Other Debits\nEnding Balance, as of 01/19/2022\n$10.000.00\n$12,264.51\n$3.63\n$10.00\n$14,405.47\n$7,859.04\nOverdraft Fee Summary\nOverdraft Items Paid\nOverdraft Items Returned\nActivity\nDate\nDescription\n01/01/2022 Beginning Balance\n01/02/2022 ATM Withdrawal\nBANCO POPULAR\nTransaction Fee: $ 3.00\n01/04/2022 Check Card Purchase\nJOHN FITZGERALD O'NEAL\nPA\n01/05/2022 Direct Deposit\nDIRECT CASH\nTRANSFER\n01/07/2022 Check Card Purchase\nCLARA LEE, NJ\n01/08/2022 Check Card Purchase\nUMA'S ISABELA. PA\n01/10/2022 Check Card Purchase\nUMA'S ISABELA, PA\n01/11/2022 Check Card Purchase\nLIAM MICHAELS,\nNJ\n01/11/2022 Check Card Purchase\nTWO PINE MARKET, PA\n639 AGUADILLA, PR\nAlly Bank Member FDIC\nOpen Date: 01/01/2022\nAccount Ownership: Single\nDays In Statement Period\nAnnual Percentage Yield Earned\nAverage Daily Balance This Period\nInterest Paid Year to Date\n19\n0.90%\n$4,774.74\n$6.40\nThis Period\n$0.00\n$0.00\nCredits\n$0.00\n$0.00\n$5,000.00\n$0.00\n$0.00\n$0.00\n$0.00\n$0.00\nYear-to-Date\n$0.00\n50.00\nDebits\n-$503.00\n-$5.200.00\n-$0.00\n-$33.82\n-$23.42\n-$40.68\n-$20.05\n-$16.00\nBalance\n$10,000.00\n$9,407.00\n$4,207.00\n$9,207.00\n$9,173.18\n$9,149.76\n$9,109.08\n$9,089.03\n$9,073.03\nSTMTCMB100 05/2013\n2253017903434357006002400623903352000 02 STMTOMBI00",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": 5.281,
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}

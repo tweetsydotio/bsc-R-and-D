@@ -42,25 +42,28 @@ const main = (mainData = []) => {
             a[c.MinTop - 5].push(c);
         } else if (a[MinTop - 6]) {
             a[c.MinTop - 6].push(c);
-        } else if (a[MinTop - 1]) {
-            a[c.MinTop + 1].push(c);
-        } else if (a[MinTop + 2]) {
-            a[c.MinTop + 2].push(c);
-        } else if (a[MinTop + 3]) {
-            a[c.MinTop + 3].push(c);
-        } else if (a[MinTop + 4]) {
-            a[c.MinTop + 4].push(c);
-        } else if (a[MinTop + 5]) {
-            a[c.MinTop + 5].push(c);
-        } else if (a[MinTop + 6]) {
-            a[c.MinTop + 6].push(c);
-        } else a[c.MinTop] = [c];
+        }
+
+        // else if (a[MinTop + 1]) {
+        //     a[c.MinTop + 1].push(c);
+        // } else if (a[MinTop + 2]) {
+        //     a[c.MinTop + 2].push(c);
+        // } else if (a[MinTop + 3]) {
+        //     a[c.MinTop + 3].push(c);
+        // } else if (a[MinTop + 4]) {
+        //     a[c.MinTop + 4].push(c);
+        // } else if (a[MinTop + 5]) {
+        //     a[c.MinTop + 5].push(c);
+        // } else if (a[MinTop + 6]) {
+        //     a[c.MinTop + 6].push(c);
+        // }
+        else a[c.MinTop] = [c];
 
         // console.log(a[MinTop - 1])
 
         /*=============================================
-                                                                            =            extra            =
-                                                                            =============================================*/
+                                                                                    =            extra            =
+                                                                                    =============================================*/
         //    const { Left } = c.Words[0];
         //    if (!columns.includes(Left)) {
         //        columns.push(Left);
@@ -76,8 +79,8 @@ const main = (mainData = []) => {
     // // console.log(columns.sort((a, b) => a - b));
 
     /*=============================================
-                                          =            Row Wise data push            =
-                                          =============================================*/
+                                              =            Row Wise data push            =
+                                              =============================================*/
 
     const newArrs = [];
     let header = null,
@@ -87,7 +90,9 @@ const main = (mainData = []) => {
         const sorted = single.sort((a, b) => a.Words[0].Left - b.Words[0].Left);
         const firstClmLT = sorted[0]?.LineText;
         const lastClmLT = sorted[sorted.length - 1]?.LineText;
-        headerIdx++;
+        if (sorted.filter((d) => d?.LineText?.trim?.()).length) {
+            headerIdx++;
+        }
         if (
             (firstClmLT?.trim?.()?.toLowerCase?.() === "date" ||
                 firstClmLT?.trim?.()?.toLowerCase?.()?.includes("date")) &&
@@ -102,19 +107,12 @@ const main = (mainData = []) => {
     if (header) {
         const head = headerDesign(header);
         const len = head.length;
+        let dateKey;
         const row = head.map((item, i) => {
+            if (item?.LineText?.toLowerCase?.()?.includes("date") && !dateKey) {
+                dateKey = i;
+            }
             return item.nextColumn.mid;
-            // if (i === 0) {
-            //     return {
-            // min: i,
-            // max: item.nextColumn.mid,
-            //     };
-            // } else {
-            // return {
-            //     // min: item.nextColumn.Left,
-            //     max: item.nextColumn.mid,
-            // };
-            // }
         });
         // console.log(row);
 
@@ -127,10 +125,6 @@ const main = (mainData = []) => {
             sorted.forEach((item, i) => {
                 const { Words } = item;
                 const [{ Left }] = Words;
-                // if (item.LineText === 'Transfer 39ck58') {
-                //     console.log(JSON.stringify(item))
-                // }
-
                 if (row[0] > Left) {
                     if (typeof copy[i] === "number") {
                         copy[0] = item;
@@ -205,38 +199,43 @@ const main = (mainData = []) => {
                 newArrs.push(copy);
             }
         }
+
+        const afterWithHeader = newArrs.slice(headerIdx);
+        afterWithHeader.forEach((data, idx) => { });
     }
 
+    // return newArrs       // Uncomment
     /* Common empty field filtering */
-    let csv = "";
-    for (const single of newArrs) {
-        csv +=
-            single
-                .map((item) => {
-                    if (item === "") {
-                        return item;
-                    } else if (Array.isArray(item)) {
-                        // console.log(item?.map?.(im => im.LineText))
-                        return item.reduce((a, c) => {
-                            const val = c?.LineText || "";
-                            a += (val?.includes(",") ? `"${val}"` : val) + " ";
-                            return a;
-                        }, "");
-                    } else {
-                        const val = item.LineText;
-                        if (val.includes(",")) {
-                            return `"${val}"`;
-                        } else return val;
-                    }
-                })
-                .join(",") + "\n";
-    }
+    // let csv = "";
+    // for (const single of newArrs) {
+    //     csv +=
+    //         single
+    //             .map((item) => {
+    //                 if (item === "") {
+    //                     return item;
+    //                 } else if (Array.isArray(item)) {
+    //                     // console.log(item?.map?.(im => im.LineText))
+    //                     return item.reduce((a, c) => {
+    //                         const val = c?.LineText || "";
+    //                         a += (val?.includes(",") ? `"${val}"` : val) + " ";
+    //                         return a;
+    //                     }, "");
+    //                 } else {
+    //                     const val = item?.LineText || '';
+    //                     if (val.includes(",")) {
+    //                         return `"${val}"`;
+    //                     } else return val;
+    //                 }
+    //             })
+    //             .join(",") + "\n";
+    // }
 
     // console.log(csv);
     /*=====  End of CSV  ======*/
     // console.log(csv)
-    fs.writeFileSync(`csv-${Date.now()}-c.csv`, csv);
-    // console.log(csv);
+    // fs.writeFileSync(`csv-${Date.now()}-4.csv`, csv);
+    const afterWithHeader = newArrs.slice(headerIdx);
+    afterWithHeader.forEach((data, idx) => { });
 };
 module.exports = main;
 const file = fs.readFileSync("TextOverlay-0-1689946986940.json");
@@ -244,10 +243,12 @@ const file = fs.readFileSync("TextOverlay-0-1689946986940.json");
 // const file = fs.readFileSync("TextOverlay-2-1689946986942.json");
 // const file = fs.readFileSync("TextOverlay-3-1689946986942.json");
 
+// const allyfile = fs.readFileSync("allyBank.json");
+// main(JSON.parse(allyfile.toString()).ParsedResults[0].Overlay.Lines);
 main(JSON.parse(file.toString()).TextOverlay.Lines);
 
 function headerDesign(data = []) {
-    data = data.filter((item) => item.LineText?.trim?.() !== "");
+    // data = data.filter((item) => item.LineText?.trim?.() !== "");
     const headerWithArea = data.reduce((a, c, i, all) => {
         if (i === data.length - 1) {
             const { Words } = c;
@@ -271,48 +272,3 @@ function headerDesign(data = []) {
     }, []);
     return headerWithArea;
 }
-const headerArr = [
-    {
-        LineText: "Date",
-        Words: [{ WordText: "Date", Left: 90, Top: 589, Height: 10, Width: 26 }],
-        MaxHeight: 10,
-        MinTop: 589,
-    },
-    {
-        LineText: "Payment type and details",
-        Words: [
-            { WordText: "Payment", Left: 174, Top: 589, Height: 10, Width: 47 },
-            { WordText: "type", Left: 222, Top: 589, Height: 10, Width: 28 },
-            { WordText: "and", Left: 249, Top: 589, Height: 10, Width: 22 },
-            { WordText: "details", Left: 271, Top: 589, Height: 10, Width: 37 },
-        ],
-        MaxHeight: 10,
-        MinTop: 589,
-    },
-    {
-        LineText: "Paid out",
-        Words: [
-            { WordText: "Paid", Left: 495, Top: 588, Height: 10, Width: 24 },
-            { WordText: "out", Left: 519, Top: 589, Height: 10, Width: 21 },
-        ],
-        MaxHeight: 11,
-        MinTop: 588,
-    },
-    {
-        LineText: "Paid in",
-        Words: [
-            { WordText: "Paid", Left: 611, Top: 589, Height: 10, Width: 27 },
-            { WordText: "in", Left: 638, Top: 589, Height: 10, Width: 11 },
-        ],
-        MaxHeight: 10,
-        MinTop: 589,
-    },
-    {
-        LineText: "Balance",
-        Words: [
-            { WordText: "Balance", Left: 712, Top: 589, Height: 10, Width: 46 },
-        ],
-        MaxHeight: 10,
-        MinTop: 589,
-    },
-];
