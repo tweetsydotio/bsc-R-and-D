@@ -58,6 +58,11 @@ mime-types@^2.1.12:
   dependencies:
     mime-db "1.52.0"
 
+moment@^2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
+
 ocr-space-api-wrapper@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/ocr-space-api-wrapper/-/ocr-space-api-wrapper-2.3.0.tgz#cd9826def3c39683f66c958deddd8c3d1e78a579"

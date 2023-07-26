@@ -1,32 +1,12 @@
 const fs = require("fs"),
-    _ = require("lodash");
+    _ = require("lodash"),
+    moment = require("moment");
 
 const main = (mainData = []) => {
-    const width = 595.44 * 1.25;
-
-    // for (let i = 0; i < width; i += width / 6) {
-    //     row.push(Math.round(i));
-    // }
-    // console.log(row)
-    // row = row.slice(0, 6);
-    // const lefts = [];
-    // const rights = [];
-    // for (const single of mainData) {
-    //     const { Words } = single;
-    //     const [{ Left }] = Words;
-    //     lefts.push(Left);
-    //     const { Left: R } = Words[Words.length - 1];
-    //     rights.push(R);
-    // }
-    // console.log(lefts.sort((a, b) => a - b)[0]);
-    // console.log(rights.sort((a, b) => b - a)[0]);
     mainData = mainData.sort((a, b) => a.MinTop - b.MinTop);
     const columns = [];
     const rowsGrouping = mainData.reduce((a, c) => {
         const { MinTop } = c;
-        // if (MinTop === 347) {
-        //     console.log(a[MinTop - 5])
-        // }
         const exist = a[MinTop];
         if (exist) {
             a[c.MinTop].push(c);
@@ -58,40 +38,21 @@ const main = (mainData = []) => {
         //     a[c.MinTop + 6].push(c);
         // }
         else a[c.MinTop] = [c];
-
-        // console.log(a[MinTop - 1])
-
-        /*=============================================
-                                                                                    =            extra            =
-                                                                                    =============================================*/
-        //    const { Left } = c.Words[0];
-        //    if (!columns.includes(Left)) {
-        //        columns.push(Left);
-        //    }
-
         /* Extra End */
         return a;
     }, {});
-    // console.log(Object.keys(rowsGrouping).length);
-    // console.log(Object.keys(rowsGrouping).sort((a, b) => a - b));
-    // console.log(Object.keys(rowsGrouping).sort((a, b) => Number(a) - Number(b)));
-    // console.log(Object.values(rowsGrouping)[4])
-    // // console.log(columns.sort((a, b) => a - b));
-
-    /*=============================================
-                                              =            Row Wise data push            =
-                                              =============================================*/
 
     const newArrs = [];
     let header = null,
-        headerIdx = -1;
+        // start (index of table area start)
+        start = -1;
 
     for (const single of Object.values(rowsGrouping)) {
         const sorted = single.sort((a, b) => a.Words[0].Left - b.Words[0].Left);
         const firstClmLT = sorted[0]?.LineText;
         const lastClmLT = sorted[sorted.length - 1]?.LineText;
         if (sorted.filter((d) => d?.LineText?.trim?.()).length) {
-            headerIdx++;
+            start++;
         }
         if (
             (firstClmLT?.trim?.()?.toLowerCase?.() === "date" ||
@@ -118,8 +79,8 @@ const main = (mainData = []) => {
 
         for (const single of Object.values(rowsGrouping)) {
             const sorted = single.sort((a, b) => a.Words[0].Left - b.Words[0].Left);
-            const firstClmLT = sorted[0]?.LineText;
-            const lastClmLT = sorted[sorted.length - 1]?.LineText;
+            // const firstClmLT = sorted[0]?.LineText;
+            // const lastClmLT = sorted[sorted.length - 1]?.LineText;
             let copy = JSON.parse(JSON.stringify(row));
             // console.log(sorted.map(item => ({ a: item.LineText, b: item.Words[0].Left })))
             sorted.forEach((item, i) => {
@@ -200,42 +161,34 @@ const main = (mainData = []) => {
             }
         }
 
-        const afterWithHeader = newArrs.slice(headerIdx);
-        afterWithHeader.forEach((data, idx) => { });
+        const afterWithHeader = newArrs.slice(start);
+        const headerAfterLen = afterWithHeader.length;
+        // end index of table area end
+        let end = headerAfterLen;
+        afterWithHeader.forEach((data, idx) => {
+            // D_C =Date column
+            if (idx !== 0) {
+                const D_C = data[dateKey];
+                if (D_C?.LineText && !moment(D_C.LineText).isValid()) {
+                    end = idx - 1;
+                }
+            }
+            // console.log(data[dateKey]?.LineText)
+        });
+
+        const response = {
+            headerInfo: {
+                start,
+                end,
+                header: head,
+                dateKey,
+            },
+            data: newArrs,
+        };
+
+        // console.log(newArrs.length, afterWithHeader.length)
+        // console.log(end)
     }
-
-    // return newArrs       // Uncomment
-    /* Common empty field filtering */
-    // let csv = "";
-    // for (const single of newArrs) {
-    //     csv +=
-    //         single
-    //             .map((item) => {
-    //                 if (item === "") {
-    //                     return item;
-    //                 } else if (Array.isArray(item)) {
-    //                     // console.log(item?.map?.(im => im.LineText))
-    //                     return item.reduce((a, c) => {
-    //                         const val = c?.LineText || "";
-    //                         a += (val?.includes(",") ? `"${val}"` : val) + " ";
-    //                         return a;
-    //                     }, "");
-    //                 } else {
-    //                     const val = item?.LineText || '';
-    //                     if (val.includes(",")) {
-    //                         return `"${val}"`;
-    //                     } else return val;
-    //                 }
-    //             })
-    //             .join(",") + "\n";
-    // }
-
-    // console.log(csv);
-    /*=====  End of CSV  ======*/
-    // console.log(csv)
-    // fs.writeFileSync(`csv-${Date.now()}-4.csv`, csv);
-    const afterWithHeader = newArrs.slice(headerIdx);
-    afterWithHeader.forEach((data, idx) => { });
 };
 module.exports = main;
 const file = fs.readFileSync("TextOverlay-0-1689946986940.json");
@@ -271,4 +224,32 @@ function headerDesign(data = []) {
         return a;
     }, []);
     return headerWithArea;
+}
+// console.log(new Date(1675274400000).toString());
+function DownAsCSV(data) {
+    let csv = "";
+    for (const single of data) {
+        csv +=
+            single
+                .map((item) => {
+                    if (item === "") {
+                        return item;
+                    } else if (Array.isArray(item)) {
+                        return item.reduce((a, c) => {
+                            const val = c?.LineText || "";
+                            a += (val?.includes(",") ? `"${val}"` : val) + " ";
+                            return a;
+                        }, "");
+                    } else {
+                        const val = item?.LineText || "";
+                        if (val.includes(",")) {
+                            return `"${val}"`;
+                        } else return val;
+                    }
+                })
+                .join(",") + "\n";
+    }
+    /*=====  End of CSV  ======*/
+    fs.writeFileSync(`csv-${Date.now()}.csv`, csv);
+    console.log(`Alhamdu lillah, Save CSV`);
 }
